@@ -2658,3 +2658,3043 @@ ano,rodada,data,mandante,visitante,gols_mandante,gols_visitante
 2016,38,11/12/2016,Atlético-PR,Flamengo,0,0
 2016,38,11/12/2016,Ponte Preta,Coritiba,2,0
 2016,38,11/12/2016,Sport,Figueirense,2,0
+2017,1,13/05/2017,Flamengo,Atlético-MG,1,1
+2017,1,13/05/2017,Corinthians,Chapecoense,1,1
+2017,1,14/05/2017,Fluminense,Santos,3,2
+2017,1,14/05/2017,Bahia,Atlético-PR,6,2
+2017,1,14/05/2017,Palmeiras,Vasco da Gama,4,0
+2017,1,14/05/2017,Cruzeiro,São Paulo,1,0
+2017,1,14/05/2017,Avaí,Vitória,0,0
+2017,1,14/05/2017,Ponte Preta,Sport,4,0
+2017,1,14/05/2017,Grêmio,Botafogo,2,0
+2017,1,15/05/2017,Coritiba,Atlético-GO,4,1
+2017,2,20/05/2017,Santos,Coritiba,1,0
+2017,2,20/05/2017,Chapecoense,Palmeiras,1,0
+2017,2,20/05/2017,Atlético-GO,Flamengo,0,3
+2017,2,21/05/2017,Vasco da Gama,Bahia,2,1
+2017,2,21/05/2017,Atlético-MG,Fluminense,1,2
+2017,2,21/05/2017,Atlético-PR,Grêmio,0,2
+2017,2,21/05/2017,Vitória,Corinthians,0,1
+2017,2,21/05/2017,Botafogo,Ponte Preta,2,0
+2017,2,21/05/2017,Sport,Cruzeiro,1,1
+2017,2,22/05/2017,São Paulo,Avaí,2,0
+2017,3,27/05/2017,Vasco da Gama,Fluminense,3,2
+2017,3,27/05/2017,São Paulo,Palmeiras,2,0
+2017,3,27/05/2017,Vitória,Coritiba,0,1
+2017,3,28/05/2017,Atlético-MG,Ponte Preta,2,2
+2017,3,28/05/2017,Santos,Cruzeiro,0,1
+2017,3,28/05/2017,Atlético-PR,Flamengo,1,1
+2017,3,28/05/2017,Atlético-GO,Corinthians,0,1
+2017,3,28/05/2017,Sport,Grêmio,4,3
+2017,3,28/05/2017,Botafogo,Bahia,1,0
+2017,3,29/05/2017,Chapecoense,Avaí,2,0
+2017,4,03/06/2017,Coritiba,Atlético-PR,1,0
+2017,4,03/06/2017,Fluminense,Vitória,2,1
+2017,4,03/06/2017,Corinthians,Santos,2,0
+2017,4,04/06/2017,Flamengo,Botafogo,0,0
+2017,4,04/06/2017,Avaí,Sport,1,0
+2017,4,04/06/2017,Palmeiras,Atlético-MG,0,0
+2017,4,04/06/2017,Grêmio,Vasco da Gama,2,0
+2017,4,04/06/2017,Ponte Preta,São Paulo,1,0
+2017,4,04/06/2017,Cruzeiro,Chapecoense,0,2
+2017,4,05/06/2017,Bahia,Atlético-GO,3,0
+2017,5,06/06/2017,Fluminense,Atlético-PR,1,1
+2017,5,07/06/2017,Atlético-MG,Avaí,1,0
+2017,5,07/06/2017,Coritiba,Palmeiras,1,0
+2017,5,07/06/2017,Santos,Botafogo,1,0
+2017,5,07/06/2017,Vasco da Gama,Corinthians,2,5
+2017,5,07/06/2017,Sport,Flamengo,2,0
+2017,5,08/06/2017,São Paulo,Vitória,2,0
+2017,5,08/06/2017,Atlético-GO,Ponte Preta,3,0
+2017,5,08/06/2017,Chapecoense,Grêmio,3,6
+2017,5,08/06/2017,Bahia,Cruzeiro,1,0
+2017,6,10/06/2017,Palmeiras,Fluminense,3,1
+2017,6,10/06/2017,Vasco da Gama,Sport,2,1
+2017,6,11/06/2017,Botafogo,Coritiba,2,2
+2017,6,11/06/2017,Corinthians,São Paulo,3,2
+2017,6,11/06/2017,Vitória,Atlético-MG,2,0
+2017,6,11/06/2017,Ponte Preta,Chapecoense,3,2
+2017,6,11/06/2017,Avaí,Flamengo,1,1
+2017,6,11/06/2017,Cruzeiro,Atlético-GO,2,0
+2017,6,11/06/2017,Atlético-PR,Santos,0,2
+2017,6,12/06/2017,Grêmio,Bahia,1,0
+2017,7,14/06/2017,Atlético-MG,Atlético-PR,0,1
+2017,7,14/06/2017,Sport,São Paulo,0,0
+2017,7,14/06/2017,Vitória,Botafogo,2,2
+2017,7,14/06/2017,Atlético-GO,Avaí,3,1
+2017,7,14/06/2017,Flamengo,Ponte Preta,2,0
+2017,7,14/06/2017,Santos,Palmeiras,1,0
+2017,7,14/06/2017,Corinthians,Cruzeiro,1,0
+2017,7,14/06/2017,Chapecoense,Vasco da Gama,2,1
+2017,7,15/06/2017,Coritiba,Bahia,0,0
+2017,7,15/06/2017,Fluminense,Grêmio,0,2
+2017,8,17/06/2017,Atlético-GO,Atlético-PR,0,1
+2017,8,17/06/2017,Vasco da Gama,Avaí,1,0
+2017,8,17/06/2017,Santos,Ponte Preta,0,0
+2017,8,18/06/2017,Coritiba,Corinthians,0,0
+2017,8,18/06/2017,Fluminense,Flamengo,2,2
+2017,8,18/06/2017,São Paulo,Atlético-MG,1,2
+2017,8,18/06/2017,Bahia,Palmeiras,2,4
+2017,8,18/06/2017,Chapecoense,Botafogo,0,2
+2017,8,18/06/2017,Sport,Vitória,1,3
+2017,8,19/06/2017,Cruzeiro,Grêmio,3,3
+2017,9,21/06/2017,Vitória,Santos,0,2
+2017,9,21/06/2017,Palmeiras,Atlético-GO,1,0
+2017,9,21/06/2017,Botafogo,Vasco da Gama,3,1
+2017,9,21/06/2017,Atlético-MG,Sport,2,2
+2017,9,21/06/2017,Atlético-PR,São Paulo,1,0
+2017,9,21/06/2017,Avaí,Fluminense,0,3
+2017,9,22/06/2017,Ponte Preta,Cruzeiro,1,0
+2017,9,22/06/2017,Corinthians,Bahia,3,0
+2017,9,22/06/2017,Flamengo,Chapecoense,5,1
+2017,9,22/06/2017,Grêmio,Coritiba,2,0
+2017,10,24/06/2017,Santos,Sport,0,1
+2017,10,25/06/2017,Vasco da Gama,Atlético-GO,1,0
+2017,10,25/06/2017,São Paulo,Fluminense,1,1
+2017,10,25/06/2017,Cruzeiro,Coritiba,2,0
+2017,10,25/06/2017,Atlético-PR,Vitória,4,1
+2017,10,25/06/2017,Grêmio,Corinthians,0,1
+2017,10,25/06/2017,Ponte Preta,Palmeiras,1,2
+2017,10,25/06/2017,Bahia,Flamengo,0,1
+2017,10,25/06/2017,Chapecoense,Atlético-MG,0,1
+2017,10,26/06/2017,Botafogo,Avaí,0,2
+2017,11,01/07/2017,Palmeiras,Grêmio,1,0
+2017,11,01/07/2017,Atlético-GO,Santos,1,1
+2017,11,02/07/2017,Flamengo,São Paulo,2,0
+2017,11,02/07/2017,Corinthians,Botafogo,1,0
+2017,11,02/07/2017,Atlético-MG,Cruzeiro,3,1
+2017,11,02/07/2017,Sport,Atlético-PR,1,0
+2017,11,02/07/2017,Vitória,Bahia,0,0
+2017,11,02/07/2017,Avaí,Ponte Preta,0,0
+2017,11,02/07/2017,Coritiba,Vasco da Gama,2,2
+2017,11,03/07/2017,Fluminense,Chapecoense,3,3
+2017,12,08/07/2017,Atlético-GO,Vitória,1,2
+2017,12,08/07/2017,Vasco da Gama,Flamengo,0,1
+2017,12,08/07/2017,Corinthians,Ponte Preta,2,0
+2017,12,09/07/2017,Chapecoense,Atlético-PR,1,1
+2017,12,09/07/2017,Bahia,Fluminense,1,1
+2017,12,09/07/2017,Cruzeiro,Palmeiras,3,1
+2017,12,09/07/2017,Grêmio,Avaí,0,2
+2017,12,09/07/2017,Botafogo,Atlético-MG,1,1
+2017,12,09/07/2017,Santos,São Paulo,3,2
+2017,12,10/07/2017,Coritiba,Sport,0,3
+2017,13,12/07/2017,Atlético-MG,Santos,0,1
+2017,13,12/07/2017,Ponte Preta,Bahia,0,3
+2017,13,12/07/2017,Fluminense,Botafogo,0,1
+2017,13,12/07/2017,Atlético-PR,Cruzeiro,0,2
+2017,13,12/07/2017,Palmeiras,Corinthians,0,2
+2017,13,12/07/2017,Vitória,Vasco da Gama,1,4
+2017,13,13/07/2017,Flamengo,Grêmio,0,1
+2017,13,13/07/2017,São Paulo,Atlético-GO,2,2
+2017,13,13/07/2017,Sport,Chapecoense,3,0
+2017,13,13/07/2017,Avaí,Coritiba,1,4
+2017,14,15/07/2017,Corinthians,Atlético-PR,2,2
+2017,14,16/07/2017,Palmeiras,Vitória,4,2
+2017,14,16/07/2017,Vasco da Gama,Santos,0,0
+2017,14,16/07/2017,Cruzeiro,Flamengo,1,1
+2017,14,16/07/2017,Chapecoense,São Paulo,2,0
+2017,14,16/07/2017,Grêmio,Ponte Preta,3,1
+2017,14,16/07/2017,Atlético-GO,Atlético-MG,1,2
+2017,14,16/07/2017,Coritiba,Fluminense,1,2
+2017,14,16/07/2017,Bahia,Avaí,1,1
+2017,14,17/07/2017,Botafogo,Sport,2,1
+2017,15,19/07/2017,Santos,Chapecoense,1,0
+2017,15,19/07/2017,Vitória,Grêmio,1,3
+2017,15,19/07/2017,Ponte Preta,Coritiba,4,0
+2017,15,19/07/2017,Avaí,Corinthians,0,0
+2017,15,19/07/2017,Flamengo,Palmeiras,2,2
+2017,15,19/07/2017,São Paulo,Vasco da Gama,1,0
+2017,15,19/07/2017,Atlético-MG,Bahia,0,2
+2017,15,20/07/2017,Fluminense,Cruzeiro,1,1
+2017,15,20/07/2017,Sport,Atlético-GO,4,0
+2017,15,20/07/2017,Atlético-PR,Botafogo,0,0
+2017,16,22/07/2017,Vitória,Chapecoense,1,2
+2017,16,22/07/2017,Flamengo,Coritiba,2,1
+2017,16,23/07/2017,Santos,Bahia,3,0
+2017,16,23/07/2017,Avaí,Cruzeiro,1,0
+2017,16,23/07/2017,Fluminense,Corinthians,0,1
+2017,16,23/07/2017,Sport,Palmeiras,0,2
+2017,16,23/07/2017,Atlético-GO,Botafogo,1,1
+2017,16,23/07/2017,Atlético-MG,Vasco da Gama,1,2
+2017,16,23/07/2017,Atlético-PR,Ponte Preta,0,2
+2017,16,24/07/2017,São Paulo,Grêmio,1,1
+2017,17,29/07/2017,Botafogo,São Paulo,3,4
+2017,17,29/07/2017,Palmeiras,Avaí,2,0
+2017,17,30/07/2017,Chapecoense,Atlético-GO,1,2
+2017,17,30/07/2017,Bahia,Sport,1,3
+2017,17,30/07/2017,Coritiba,Atlético-MG,0,2
+2017,17,30/07/2017,Corinthians,Flamengo,1,1
+2017,17,30/07/2017,Cruzeiro,Vitória,0,0
+2017,17,30/07/2017,Grêmio,Santos,1,1
+2017,17,31/07/2017,Vasco da Gama,Atlético-PR,0,1
+2017,17,09/08/2017,Ponte Preta,Fluminense,0,0
+2017,18,02/08/2017,Sport,Fluminense,2,2
+2017,18,02/08/2017,Chapecoense,Bahia,1,1
+2017,18,02/08/2017,Atlético-MG,Corinthians,0,2
+2017,18,02/08/2017,Vitória,Ponte Preta,3,1
+2017,18,02/08/2017,Botafogo,Palmeiras,1,2
+2017,18,02/08/2017,Santos,Flamengo,3,2
+2017,18,02/08/2017,Atlético-GO,Grêmio,0,1
+2017,18,03/08/2017,São Paulo,Coritiba,1,2
+2017,18,03/08/2017,Atlético-PR,Avaí,5,0
+2017,18,03/08/2017,Vasco da Gama,Cruzeiro,0,3
+2017,19,05/08/2017,Corinthians,Sport,3,1
+2017,19,05/08/2017,Fluminense,Atlético-GO,3,1
+2017,19,06/08/2017,Flamengo,Vitória,0,2
+2017,19,06/08/2017,Palmeiras,Atlético-PR,0,1
+2017,19,06/08/2017,Cruzeiro,Botafogo,0,0
+2017,19,06/08/2017,Coritiba,Chapecoense,2,0
+2017,19,06/08/2017,Grêmio,Atlético-MG,2,0
+2017,19,06/08/2017,Bahia,São Paulo,2,1
+2017,19,06/08/2017,Ponte Preta,Vasco da Gama,0,0
+2017,19,06/08/2017,Avaí,Santos,0,0
+2017,20,12/08/2017,Atlético-GO,Coritiba,1,0
+2017,20,12/08/2017,Vitória,Avaí,0,1
+2017,20,13/08/2017,São Paulo,Cruzeiro,3,2
+2017,20,13/08/2017,Vasco da Gama,Palmeiras,1,1
+2017,20,13/08/2017,Atlético-MG,Flamengo,2,0
+2017,20,13/08/2017,Sport,Ponte Preta,0,0
+2017,20,13/08/2017,Atlético-PR,Bahia,4,1
+2017,20,13/08/2017,Botafogo,Grêmio,1,0
+2017,20,14/08/2017,Santos,Fluminense,0,0
+2017,20,23/08/2017,Chapecoense,Corinthians,0,1
+2017,21,19/08/2017,Corinthians,Vitória,0,1
+2017,21,19/08/2017,Flamengo,Atlético-GO,2,0
+2017,21,20/08/2017,Grêmio,Atlético-PR,0,0
+2017,21,20/08/2017,Cruzeiro,Sport,2,0
+2017,21,20/08/2017,Bahia,Vasco da Gama,3,0
+2017,21,20/08/2017,Ponte Preta,Botafogo,2,1
+2017,21,20/08/2017,Avaí,São Paulo,1,1
+2017,21,20/08/2017,Palmeiras,Chapecoense,0,2
+2017,21,20/08/2017,Coritiba,Santos,0,0
+2017,21,21/08/2017,Fluminense,Atlético-MG,2,1
+2017,22,25/08/2017,Grêmio,Sport,5,0
+2017,22,26/08/2017,Fluminense,Vasco da Gama,0,1
+2017,22,26/08/2017,Corinthians,Atlético-GO,0,1
+2017,22,27/08/2017,Flamengo,Atlético-PR,2,0
+2017,22,27/08/2017,Palmeiras,São Paulo,4,2
+2017,22,27/08/2017,Bahia,Botafogo,1,2
+2017,22,27/08/2017,Ponte Preta,Atlético-MG,1,2
+2017,22,27/08/2017,Cruzeiro,Santos,1,1
+2017,22,27/08/2017,Avaí,Chapecoense,1,0
+2017,22,28/08/2017,Coritiba,Vitória,0,1
+2017,23,09/09/2017,Atlético-MG,Palmeiras,1,1
+2017,23,09/09/2017,Vasco da Gama,Grêmio,1,0
+2017,23,09/09/2017,São Paulo,Ponte Preta,2,2
+2017,23,10/09/2017,Atlético-PR,Coritiba,1,1
+2017,23,10/09/2017,Santos,Corinthians,2,0
+2017,23,10/09/2017,Sport,Avaí,0,1
+2017,23,10/09/2017,Vitória,Fluminense,2,2
+2017,23,10/09/2017,Botafogo,Flamengo,2,0
+2017,23,10/09/2017,Chapecoense,Cruzeiro,1,2
+2017,23,11/09/2017,Atlético-GO,Bahia,1,1
+2017,24,16/09/2017,Botafogo,Santos,2,0
+2017,24,16/09/2017,Ponte Preta,Atlético-GO,1,3
+2017,24,17/09/2017,Avaí,Atlético-MG,1,1
+2017,24,17/09/2017,Flamengo,Sport,2,0
+2017,24,17/09/2017,Corinthians,Vasco da Gama,1,0
+2017,24,17/09/2017,Atlético-PR,Fluminense,3,1
+2017,24,17/09/2017,Grêmio,Chapecoense,0,1
+2017,24,17/09/2017,Vitória,São Paulo,1,2
+2017,24,17/09/2017,Cruzeiro,Bahia,1,0
+2017,24,18/09/2017,Palmeiras,Coritiba,1,0
+2017,25,23/09/2017,Flamengo,Avaí,1,1
+2017,25,23/09/2017,Santos,Atlético-PR,1,0
+2017,25,24/09/2017,São Paulo,Corinthians,1,1
+2017,25,24/09/2017,Fluminense,Palmeiras,0,1
+2017,25,24/09/2017,Coritiba,Botafogo,2,3
+2017,25,24/09/2017,Atlético-GO,Cruzeiro,1,2
+2017,25,24/09/2017,Chapecoense,Ponte Preta,1,0
+2017,25,24/09/2017,Atlético-MG,Vitória,1,3
+2017,25,24/09/2017,Bahia,Grêmio,1,0
+2017,25,25/09/2017,Sport,Vasco da Gama,1,1
+2017,26,30/09/2017,Bahia,Coritiba,1,1
+2017,26,30/09/2017,Vasco da Gama,Chapecoense,1,1
+2017,26,30/09/2017,Palmeiras,Santos,0,1
+2017,26,01/10/2017,Botafogo,Vitória,2,3
+2017,26,01/10/2017,Avaí,Atlético-GO,0,2
+2017,26,01/10/2017,Cruzeiro,Corinthians,1,1
+2017,26,01/10/2017,Grêmio,Fluminense,1,0
+2017,26,01/10/2017,São Paulo,Sport,1,0
+2017,26,01/10/2017,Atlético-PR,Atlético-MG,0,2
+2017,26,02/10/2017,Ponte Preta,Flamengo,1,0
+2017,27,11/10/2017,Atlético-PR,Atlético-GO,2,2
+2017,27,11/10/2017,Botafogo,Chapecoense,2,1
+2017,27,11/10/2017,Corinthians,Coritiba,3,1
+2017,27,11/10/2017,Atlético-MG,São Paulo,1,0
+2017,27,11/10/2017,Avaí,Vasco da Gama,1,2
+2017,27,11/10/2017,Grêmio,Cruzeiro,0,1
+2017,27,12/10/2017,Flamengo,Fluminense,1,1
+2017,27,12/10/2017,Ponte Preta,Santos,1,1
+2017,27,12/10/2017,Vitória,Sport,1,2
+2017,27,12/10/2017,Palmeiras,Bahia,2,2
+2017,28,07/10/2017,Cruzeiro,Ponte Preta,2,1
+2017,28,14/10/2017,Vasco da Gama,Botafogo,1,0
+2017,28,14/10/2017,São Paulo,Atlético-PR,2,1
+2017,28,15/10/2017,Atlético-GO,Palmeiras,1,3
+2017,28,15/10/2017,Chapecoense,Flamengo,0,1
+2017,28,15/10/2017,Fluminense,Avaí,1,0
+2017,28,15/10/2017,Sport,Atlético-MG,1,1
+2017,28,15/10/2017,Bahia,Corinthians,2,0
+2017,28,15/10/2017,Coritiba,Grêmio,0,1
+2017,28,16/10/2017,Santos,Vitória,2,2
+2017,29,17/10/2017,Coritiba,Cruzeiro,1,0
+2017,29,17/10/2017,Atlético-GO,Vasco da Gama,0,1
+2017,29,17/10/2017,Atlético-MG,Chapecoense,2,3
+2017,29,17/10/2017,Fluminense,São Paulo,3,1
+2017,29,17/10/2017,Corinthians,Grêmio,0,0
+2017,29,17/10/2017,Avaí,Botafogo,1,1
+2017,29,19/10/2017,Palmeiras,Ponte Preta,2,0
+2017,29,19/10/2017,Vitória,Atlético-PR,2,3
+2017,29,19/10/2017,Flamengo,Bahia,4,1
+2017,29,19/10/2017,Sport,Santos,1,1
+2017,30,21/10/2017,Vasco da Gama,Coritiba,1,1
+2017,30,22/10/2017,Santos,Atlético-GO,1,0
+2017,30,22/10/2017,São Paulo,Flamengo,2,0
+2017,30,22/10/2017,Cruzeiro,Atlético-MG,1,3
+2017,30,22/10/2017,Atlético-PR,Sport,2,1
+2017,30,22/10/2017,Grêmio,Palmeiras,1,3
+2017,30,22/10/2017,Bahia,Vitória,2,1
+2017,30,22/10/2017,Ponte Preta,Avaí,1,2
+2017,30,22/10/2017,Chapecoense,Fluminense,2,0
+2017,30,23/10/2017,Botafogo,Corinthians,2,1
+2017,31,28/10/2017,São Paulo,Santos,2,1
+2017,31,28/10/2017,Flamengo,Vasco da Gama,0,0
+2017,31,28/10/2017,Atlético-PR,Chapecoense,0,0
+2017,31,29/10/2017,Fluminense,Bahia,1,1
+2017,31,29/10/2017,Atlético-MG,Botafogo,0,0
+2017,31,29/10/2017,Ponte Preta,Corinthians,1,0
+2017,31,29/10/2017,Vitória,Atlético-GO,1,1
+2017,31,29/10/2017,Sport,Coritiba,3,4
+2017,31,29/10/2017,Avaí,Grêmio,2,2
+2017,31,30/10/2017,Palmeiras,Cruzeiro,2,2
+2017,32,04/11/2017,Santos,Atlético-MG,3,1
+2017,32,04/11/2017,Botafogo,Fluminense,1,2
+2017,32,04/11/2017,Atlético-GO,São Paulo,0,1
+2017,32,04/11/2017,Coritiba,Avaí,4,0
+2017,32,05/11/2017,Corinthians,Palmeiras,3,2
+2017,32,05/11/2017,Cruzeiro,Atlético-PR,1,0
+2017,32,05/11/2017,Grêmio,Flamengo,3,1
+2017,32,05/11/2017,Bahia,Ponte Preta,2,0
+2017,32,05/11/2017,Chapecoense,Sport,1,1
+2017,32,05/11/2017,Vasco da Gama,Vitória,1,1
+2017,33,08/11/2017,Avaí,Bahia,1,2
+2017,33,08/11/2017,Ponte Preta,Grêmio,0,1
+2017,33,08/11/2017,Atlético-PR,Corinthians,0,1
+2017,33,08/11/2017,Sport,Botafogo,1,2
+2017,33,08/11/2017,Flamengo,Cruzeiro,2,0
+2017,33,08/11/2017,Santos,Vasco da Gama,1,2
+2017,33,08/11/2017,Vitória,Palmeiras,3,1
+2017,33,09/11/2017,Atlético-MG,Atlético-GO,3,2
+2017,33,09/11/2017,São Paulo,Chapecoense,2,2
+2017,33,09/11/2017,Fluminense,Coritiba,2,2
+2017,34,11/11/2017,Botafogo,Atlético-PR,0,1
+2017,34,11/11/2017,Corinthians,Avaí,1,0
+2017,34,12/11/2017,Atlético-GO,Sport,2,0
+2017,34,12/11/2017,Grêmio,Vitória,1,1
+2017,34,12/11/2017,Palmeiras,Flamengo,2,0
+2017,34,12/11/2017,Vasco da Gama,São Paulo,1,1
+2017,34,12/11/2017,Bahia,Atlético-MG,2,2
+2017,34,12/11/2017,Cruzeiro,Fluminense,3,1
+2017,34,12/11/2017,Coritiba,Ponte Preta,1,1
+2017,34,13/11/2017,Chapecoense,Santos,2,0
+2017,35,15/11/2017,Ponte Preta,Atlético-PR,2,1
+2017,35,15/11/2017,Grêmio,São Paulo,1,0
+2017,35,15/11/2017,Cruzeiro,Avaí,2,2
+2017,35,15/11/2017,Corinthians,Fluminense,3,1
+2017,35,15/11/2017,Vasco da Gama,Atlético-MG,1,1
+2017,35,16/11/2017,Botafogo,Atlético-GO,1,2
+2017,35,16/11/2017,Chapecoense,Vitória,2,1
+2017,35,16/11/2017,Palmeiras,Sport,5,1
+2017,35,16/11/2017,Bahia,Santos,3,1
+2017,35,16/11/2017,Coritiba,Flamengo,1,0
+2017,36,19/11/2017,Atlético-GO,Chapecoense,1,1
+2017,36,19/11/2017,Flamengo,Corinthians,3,0
+2017,36,19/11/2017,São Paulo,Botafogo,0,0
+2017,36,19/11/2017,Sport,Bahia,1,0
+2017,36,19/11/2017,Vitória,Cruzeiro,1,1
+2017,36,19/11/2017,Atlético-MG,Coritiba,3,0
+2017,36,19/11/2017,Atlético-PR,Vasco da Gama,3,1
+2017,36,19/11/2017,Santos,Grêmio,1,0
+2017,36,20/11/2017,Fluminense,Ponte Preta,2,0
+2017,36,20/11/2017,Avaí,Palmeiras,2,1
+2017,37,25/11/2017,Fluminense,Sport,1,2
+2017,37,26/11/2017,Avaí,Atlético-PR,1,0
+2017,37,26/11/2017,Corinthians,Atlético-MG,2,2
+2017,37,26/11/2017,Coritiba,São Paulo,1,2
+2017,37,26/11/2017,Cruzeiro,Vasco da Gama,0,1
+2017,37,26/11/2017,Grêmio,Atlético-GO,1,1
+2017,37,26/11/2017,Ponte Preta,Vitória,2,3
+2017,37,26/11/2017,Bahia,Chapecoense,0,1
+2017,37,26/11/2017,Flamengo,Santos,1,2
+2017,37,27/11/2017,Palmeiras,Botafogo,2,0
+2017,38,03/12/2017,Atlético-GO,Fluminense,1,1
+2017,38,03/12/2017,Atlético-MG,Grêmio,4,3
+2017,38,03/12/2017,Atlético-PR,Palmeiras,3,0
+2017,38,03/12/2017,Botafogo,Cruzeiro,2,2
+2017,38,03/12/2017,Chapecoense,Coritiba,2,1
+2017,38,03/12/2017,Santos,Avaí,1,1
+2017,38,03/12/2017,São Paulo,Bahia,1,1
+2017,38,03/12/2017,Sport,Corinthians,1,0
+2017,38,03/12/2017,Vasco da Gama,Ponte Preta,2,1
+2017,38,03/12/2017,Vitória,Flamengo,1,2
+2018,1,14/04/2018,Cruzeiro,Grêmio,0,1
+2018,1,14/04/2018,Vitória,Flamengo,2,2
+2018,1,14/04/2018,Santos,Ceará,2,0
+2018,1,15/04/2018,América-MG,Sport,3,0
+2018,1,15/04/2018,Corinthians,Fluminense,2,1
+2018,1,15/04/2018,Internacional,Bahia,2,0
+2018,1,15/04/2018,Vasco da Gama,Atlético-MG,2,1
+2018,1,15/04/2018,Atlético-PR,Chapecoense,5,1
+2018,1,16/04/2018,Botafogo,Palmeiras,1,1
+2018,1,16/04/2018,São Paulo,Paraná,1,0
+2018,2,21/04/2018,Bahia,Santos,1,0
+2018,2,21/04/2018,Flamengo,América-MG,2,0
+2018,2,22/04/2018,Paraná,Corinthians,0,4
+2018,2,22/04/2018,Atlético-MG,Vitória,2,1
+2018,2,22/04/2018,Chapecoense,Vasco da Gama,1,1
+2018,2,22/04/2018,Fluminense,Cruzeiro,1,0
+2018,2,22/04/2018,Ceará,São Paulo,0,0
+2018,2,22/04/2018,Palmeiras,Internacional,1,0
+2018,2,22/04/2018,Grêmio,Atlético-PR,0,0
+2018,2,23/04/2018,Sport,Botafogo,1,1
+2018,3,28/04/2018,Botafogo,Grêmio,2,1
+2018,3,29/04/2018,Atlético-MG,Corinthians,1,0
+2018,3,29/04/2018,Paraná,Sport,1,2
+2018,3,29/04/2018,Bahia,Atlético-PR,0,0
+2018,3,29/04/2018,Fluminense,São Paulo,1,1
+2018,3,29/04/2018,Ceará,Flamengo,0,3
+2018,3,29/04/2018,Palmeiras,Chapecoense,0,0
+2018,3,29/04/2018,Internacional,Cruzeiro,0,0
+2018,3,30/04/2018,América-MG,Vitória,2,1
+2018,3,27/09/2018,Santos,Vasco da Gama,1,1
+2018,4,05/05/2018,Vasco da Gama,América-MG,4,1
+2018,4,05/05/2018,São Paulo,Atlético-MG,2,2
+2018,4,06/05/2018,Corinthians,Ceará,1,1
+2018,4,06/05/2018,Cruzeiro,Botafogo,1,0
+2018,4,06/05/2018,Atlético-PR,Palmeiras,1,3
+2018,4,06/05/2018,Vitória,Fluminense,1,2
+2018,4,06/05/2018,Flamengo,Internacional,2,0
+2018,4,06/05/2018,Sport,Bahia,2,0
+2018,4,06/05/2018,Grêmio,Santos,5,1
+2018,4,07/05/2018,Chapecoense,Paraná,1,1
+2018,5,12/05/2018,Grêmio,Internacional,0,0
+2018,5,13/05/2018,Cruzeiro,Sport,2,0
+2018,5,13/05/2018,Corinthians,Palmeiras,1,0
+2018,5,13/05/2018,Vasco da Gama,Vitória,2,3
+2018,5,13/05/2018,Chapecoense,Flamengo,3,2
+2018,5,13/05/2018,Atlético-PR,Atlético-MG,1,2
+2018,5,13/05/2018,Bahia,São Paulo,2,2
+2018,5,13/05/2018,Santos,Paraná,3,1
+2018,5,14/05/2018,Botafogo,Fluminense,2,1
+2018,5,14/05/2018,Ceará,América-MG,2,2
+2018,6,19/05/2018,Atlético-MG,Cruzeiro,1,0
+2018,6,19/05/2018,Flamengo,Vasco da Gama,1,1
+2018,6,19/05/2018,Palmeiras,Bahia,3,0
+2018,6,20/05/2018,Vitória,Ceará,2,1
+2018,6,20/05/2018,Paraná,Grêmio,0,0
+2018,6,20/05/2018,América-MG,Botafogo,1,0
+2018,6,20/05/2018,São Paulo,Santos,1,0
+2018,6,20/05/2018,Sport,Corinthians,1,1
+2018,6,20/05/2018,Fluminense,Atlético-PR,2,0
+2018,6,21/05/2018,Internacional,Chapecoense,3,0
+2018,7,26/05/2018,Fluminense,Chapecoense,3,1
+2018,7,26/05/2018,Palmeiras,Sport,2,3
+2018,7,26/05/2018,Atlético-MG,Flamengo,0,1
+2018,7,27/05/2018,Paraná,Atlético-PR,0,0
+2018,7,27/05/2018,Botafogo,Vitória,1,1
+2018,7,27/05/2018,Bahia,Vasco da Gama,3,0
+2018,7,27/05/2018,Santos,Cruzeiro,0,1
+2018,7,27/05/2018,Internacional,Corinthians,2,1
+2018,7,27/05/2018,Ceará,Grêmio,0,1
+2018,7,27/05/2018,América-MG,São Paulo,1,3
+2018,8,30/05/2018,Vasco da Gama,Paraná,1,0
+2018,8,30/05/2018,Sport,Atlético-MG,3,2
+2018,8,30/05/2018,Vitória,Internacional,2,3
+2018,8,30/05/2018,São Paulo,Botafogo,3,2
+2018,8,30/05/2018,Chapecoense,Ceará,2,0
+2018,8,30/05/2018,Cruzeiro,Palmeiras,1,0
+2018,8,30/05/2018,Grêmio,Fluminense,0,0
+2018,8,31/05/2018,Flamengo,Bahia,2,0
+2018,8,31/05/2018,Corinthians,América-MG,1,0
+2018,8,31/05/2018,Atlético-PR,Santos,2,0
+2018,9,02/06/2018,Atlético-MG,Chapecoense,3,3
+2018,9,02/06/2018,Internacional,Sport,0,0
+2018,9,02/06/2018,Vasco da Gama,Botafogo,1,2
+2018,9,02/06/2018,Palmeiras,São Paulo,3,1
+2018,9,03/06/2018,Bahia,Grêmio,0,2
+2018,9,03/06/2018,América-MG,Atlético-PR,3,1
+2018,9,03/06/2018,Flamengo,Corinthians,1,0
+2018,9,03/06/2018,Santos,Vitória,5,2
+2018,9,03/06/2018,Ceará,Cruzeiro,0,1
+2018,9,04/06/2018,Paraná,Fluminense,2,1
+2018,10,05/06/2018,São Paulo,Internacional,0,0
+2018,10,06/06/2018,Vitória,Chapecoense,1,0
+2018,10,06/06/2018,Botafogo,Ceará,0,0
+2018,10,06/06/2018,Sport,Atlético-PR,1,0
+2018,10,06/06/2018,Corinthians,Santos,1,1
+2018,10,06/06/2018,Cruzeiro,Vasco da Gama,1,1
+2018,10,06/06/2018,Grêmio,Palmeiras,0,2
+2018,10,07/06/2018,Paraná,Bahia,1,0
+2018,10,07/06/2018,Fluminense,Flamengo,0,2
+2018,10,07/06/2018,América-MG,Atlético-MG,1,3
+2018,11,09/06/2018,Atlético-PR,São Paulo,0,1
+2018,11,09/06/2018,Chapecoense,Cruzeiro,2,0
+2018,11,09/06/2018,Vasco da Gama,Sport,3,2
+2018,11,09/06/2018,Corinthians,Vitória,0,0
+2018,11,10/06/2018,Atlético-MG,Fluminense,5,2
+2018,11,10/06/2018,Bahia,Botafogo,3,3
+2018,11,10/06/2018,Ceará,Palmeiras,2,2
+2018,11,10/06/2018,Grêmio,América-MG,1,0
+2018,11,10/06/2018,Flamengo,Paraná,2,0
+2018,11,10/06/2018,Santos,Internacional,1,2
+2018,12,12/06/2018,São Paulo,Vitória,3,0
+2018,12,13/06/2018,América-MG,Chapecoense,0,0
+2018,12,13/06/2018,Fluminense,Santos,0,1
+2018,12,13/06/2018,Paraná,Cruzeiro,1,1
+2018,12,13/06/2018,Sport,Grêmio,0,0
+2018,12,13/06/2018,Botafogo,Atlético-PR,2,0
+2018,12,13/06/2018,Palmeiras,Flamengo,1,1
+2018,12,13/06/2018,Atlético-MG,Ceará,2,1
+2018,12,13/06/2018,Bahia,Corinthians,1,0
+2018,12,13/06/2018,Internacional,Vasco da Gama,3,1
+2018,13,18/07/2018,Ceará,Sport,1,0
+2018,13,18/07/2018,Vitória,Paraná,1,0
+2018,13,18/07/2018,Flamengo,São Paulo,0,1
+2018,13,18/07/2018,Corinthians,Botafogo,2,0
+2018,13,18/07/2018,Grêmio,Atlético-MG,2,0
+2018,13,19/07/2018,Cruzeiro,América-MG,3,1
+2018,13,19/07/2018,Chapecoense,Bahia,1,1
+2018,13,19/07/2018,Vasco da Gama,Fluminense,1,1
+2018,13,19/07/2018,Santos,Palmeiras,1,1
+2018,13,19/07/2018,Atlético-PR,Internacional,2,2
+2018,14,21/07/2018,Flamengo,Botafogo,2,0
+2018,14,21/07/2018,São Paulo,Corinthians,3,1
+2018,14,22/07/2018,Paraná,América-MG,1,0
+2018,14,22/07/2018,Bahia,Vitória,4,1
+2018,14,22/07/2018,Vasco da Gama,Grêmio,1,0
+2018,14,22/07/2018,Sport,Fluminense,1,2
+2018,14,22/07/2018,Palmeiras,Atlético-MG,3,2
+2018,14,22/07/2018,Cruzeiro,Atlético-PR,2,1
+2018,14,22/07/2018,Chapecoense,Santos,0,0
+2018,14,23/07/2018,Internacional,Ceará,1,0
+2018,15,25/07/2018,Fluminense,Palmeiras,1,0
+2018,15,25/07/2018,Atlético-MG,Paraná,2,0
+2018,15,25/07/2018,Santos,Flamengo,1,1
+2018,15,25/07/2018,Corinthians,Cruzeiro,2,0
+2018,15,26/07/2018,Vitória,Sport,1,0
+2018,15,26/07/2018,Botafogo,Chapecoense,1,0
+2018,15,26/07/2018,Grêmio,São Paulo,2,1
+2018,15,26/07/2018,América-MG,Internacional,2,1
+2018,15,29/08/2018,Atlético-PR,Vasco da Gama,1,0
+2018,15,29/08/2018,Ceará,Bahia,0,2
+2018,16,28/07/2018,Ceará,Fluminense,1,0
+2018,16,29/07/2018,Vasco da Gama,Corinthians,1,4
+2018,16,29/07/2018,Palmeiras,Paraná,3,0
+2018,16,29/07/2018,Cruzeiro,São Paulo,0,2
+2018,16,29/07/2018,Atlético-PR,Vitória,4,0
+2018,16,29/07/2018,Flamengo,Sport,4,1
+2018,16,29/07/2018,Internacional,Botafogo,3,0
+2018,16,29/07/2018,Chapecoense,Grêmio,1,1
+2018,16,29/07/2018,Santos,América-MG,0,1
+2018,16,30/07/2018,Bahia,Atlético-MG,2,2
+2018,17,04/08/2018,Botafogo,Santos,0,0
+2018,17,04/08/2018,Grêmio,Flamengo,2,0
+2018,17,04/08/2018,Corinthians,Atlético-PR,0,0
+2018,17,05/08/2018,Paraná,Ceará,0,1
+2018,17,05/08/2018,América-MG,Palmeiras,0,0
+2018,17,05/08/2018,Vitória,Cruzeiro,1,1
+2018,17,05/08/2018,São Paulo,Vasco da Gama,2,1
+2018,17,05/08/2018,Fluminense,Bahia,1,1
+2018,17,05/08/2018,Sport,Chapecoense,1,1
+2018,17,06/08/2018,Atlético-MG,Internacional,0,1
+2018,18,11/08/2018,Ceará,Atlético-PR,0,0
+2018,18,11/08/2018,Bahia,América-MG,1,0
+2018,18,12/08/2018,Atlético-MG,Santos,3,1
+2018,18,12/08/2018,Paraná,Botafogo,1,1
+2018,18,12/08/2018,Chapecoense,Corinthians,2,1
+2018,18,12/08/2018,Flamengo,Cruzeiro,1,0
+2018,18,12/08/2018,Sport,São Paulo,1,3
+2018,18,12/08/2018,Palmeiras,Vasco da Gama,1,0
+2018,18,12/08/2018,Grêmio,Vitória,4,0
+2018,18,13/08/2018,Fluminense,Internacional,0,3
+2018,19,18/08/2018,Santos,Sport,3,0
+2018,19,18/08/2018,Corinthians,Grêmio,0,1
+2018,19,19/08/2018,Atlético-PR,Flamengo,3,0
+2018,19,19/08/2018,Internacional,Paraná,1,0
+2018,19,19/08/2018,Cruzeiro,Bahia,1,1
+2018,19,19/08/2018,Vitória,Palmeiras,0,3
+2018,19,19/08/2018,Botafogo,Atlético-MG,0,3
+2018,19,19/08/2018,América-MG,Fluminense,0,0
+2018,19,19/08/2018,São Paulo,Chapecoense,2,0
+2018,19,20/08/2018,Vasco da Gama,Ceará,1,1
+2018,20,08/08/2018,Ceará,Santos,1,1
+2018,20,22/08/2018,Paraná,São Paulo,1,1
+2018,20,22/08/2018,Bahia,Internacional,0,1
+2018,20,22/08/2018,Sport,América-MG,0,2
+2018,20,22/08/2018,Palmeiras,Botafogo,2,0
+2018,20,22/08/2018,Fluminense,Corinthians,1,0
+2018,20,22/08/2018,Grêmio,Cruzeiro,1,1
+2018,20,23/08/2018,Flamengo,Vitória,1,0
+2018,20,23/08/2018,Atlético-MG,Vasco da Gama,0,0
+2018,20,13/09/2018,Chapecoense,Atlético-PR,2,1
+2018,21,25/08/2018,Santos,Bahia,2,0
+2018,21,25/08/2018,Atlético-PR,Grêmio,2,1
+2018,21,25/08/2018,Corinthians,Paraná,1,0
+2018,21,25/08/2018,Cruzeiro,Fluminense,2,1
+2018,21,25/08/2018,Botafogo,Sport,2,0
+2018,21,26/08/2018,São Paulo,Ceará,1,0
+2018,21,26/08/2018,América-MG,Flamengo,2,2
+2018,21,26/08/2018,Vitória,Atlético-MG,1,0
+2018,21,26/08/2018,Internacional,Palmeiras,0,0
+2018,21,26/08/2018,Vasco da Gama,Chapecoense,3,1
+2018,22,01/09/2018,Vitória,América-MG,1,0
+2018,22,01/09/2018,Grêmio,Botafogo,4,0
+2018,22,01/09/2018,Vasco da Gama,Santos,0,3
+2018,22,01/09/2018,Corinthians,Atlético-MG,1,1
+2018,22,02/09/2018,Flamengo,Ceará,0,1
+2018,22,02/09/2018,Atlético-PR,Bahia,2,0
+2018,22,02/09/2018,São Paulo,Fluminense,1,1
+2018,22,02/09/2018,Sport,Paraná,1,0
+2018,22,02/09/2018,Cruzeiro,Internacional,0,0
+2018,22,02/09/2018,Chapecoense,Palmeiras,1,2
+2018,23,05/09/2018,Bahia,Sport,2,0
+2018,23,05/09/2018,Botafogo,Cruzeiro,1,1
+2018,23,05/09/2018,Ceará,Corinthians,2,1
+2018,23,05/09/2018,Paraná,Chapecoense,1,1
+2018,23,05/09/2018,Palmeiras,Atlético-PR,2,0
+2018,23,05/09/2018,Atlético-MG,São Paulo,1,0
+2018,23,05/09/2018,Internacional,Flamengo,2,1
+2018,23,06/09/2018,Fluminense,Vitória,0,0
+2018,23,06/09/2018,Santos,Grêmio,0,0
+2018,23,06/09/2018,América-MG,Vasco da Gama,2,1
+2018,24,08/09/2018,Sport,Cruzeiro,0,0
+2018,24,08/09/2018,São Paulo,Bahia,1,0
+2018,24,08/09/2018,Flamengo,Chapecoense,2,0
+2018,24,09/09/2018,América-MG,Ceará,0,0
+2018,24,09/09/2018,Fluminense,Botafogo,1,0
+2018,24,09/09/2018,Palmeiras,Corinthians,1,0
+2018,24,09/09/2018,Internacional,Grêmio,1,0
+2018,24,09/09/2018,Paraná,Santos,0,2
+2018,24,09/09/2018,Vitória,Vasco da Gama,1,0
+2018,24,10/09/2018,Atlético-MG,Atlético-PR,3,1
+2018,25,15/09/2018,Ceará,Vitória,2,0
+2018,25,15/09/2018,Grêmio,Paraná,2,0
+2018,25,15/09/2018,Vasco da Gama,Flamengo,1,1
+2018,25,16/09/2018,Botafogo,América-MG,1,0
+2018,25,16/09/2018,Cruzeiro,Atlético-MG,0,0
+2018,25,16/09/2018,Atlético-PR,Fluminense,3,1
+2018,25,16/09/2018,Bahia,Palmeiras,1,1
+2018,25,16/09/2018,Santos,São Paulo,0,0
+2018,25,16/09/2018,Corinthians,Sport,2,1
+2018,25,17/09/2018,Chapecoense,Internacional,2,1
+2018,26,22/09/2018,São Paulo,América-MG,1,1
+2018,26,23/09/2018,Grêmio,Ceará,3,2
+2018,26,23/09/2018,Atlético-PR,Paraná,3,0
+2018,26,23/09/2018,Flamengo,Atlético-MG,2,1
+2018,26,23/09/2018,Corinthians,Internacional,1,1
+2018,26,23/09/2018,Vitória,Botafogo,3,4
+2018,26,23/09/2018,Sport,Palmeiras,0,1
+2018,26,23/09/2018,Cruzeiro,Santos,2,1
+2018,26,24/09/2018,Chapecoense,Fluminense,1,2
+2018,26,24/09/2018,Vasco da Gama,Bahia,2,1
+2018,27,29/09/2018,Fluminense,Grêmio,0,1
+2018,27,29/09/2018,América-MG,Corinthians,0,0
+2018,27,29/09/2018,Bahia,Flamengo,0,0
+2018,27,30/09/2018,Palmeiras,Cruzeiro,3,1
+2018,27,30/09/2018,Atlético-MG,Sport,5,2
+2018,27,30/09/2018,Botafogo,São Paulo,2,2
+2018,27,30/09/2018,Santos,Atlético-PR,1,0
+2018,27,30/09/2018,Internacional,Vitória,2,1
+2018,27,30/09/2018,Ceará,Chapecoense,3,1
+2018,27,01/10/2018,Paraná,Vasco da Gama,1,1
+2018,28,05/10/2018,Sport,Internacional,2,1
+2018,28,05/10/2018,Corinthians,Flamengo,0,3
+2018,28,05/10/2018,Vitória,Santos,0,1
+2018,28,06/10/2018,Atlético-PR,América-MG,4,0
+2018,28,06/10/2018,Chapecoense,Atlético-MG,1,0
+2018,28,06/10/2018,São Paulo,Palmeiras,0,2
+2018,28,06/10/2018,Grêmio,Bahia,2,2
+2018,28,08/10/2018,Fluminense,Paraná,4,0
+2018,28,09/10/2018,Botafogo,Vasco da Gama,1,1
+2018,28,24/10/2018,Cruzeiro,Ceará,0,2
+2018,29,13/10/2018,Flamengo,Fluminense,3,0
+2018,29,13/10/2018,Santos,Corinthians,1,0
+2018,29,13/10/2018,Bahia,Paraná,2,0
+2018,29,14/10/2018,Chapecoense,Vitória,0,1
+2018,29,14/10/2018,Vasco da Gama,Cruzeiro,2,0
+2018,29,14/10/2018,Palmeiras,Grêmio,2,0
+2018,29,14/10/2018,Internacional,São Paulo,3,1
+2018,29,14/10/2018,Atlético-MG,América-MG,0,0
+2018,29,14/10/2018,Atlético-PR,Sport,4,0
+2018,29,15/10/2018,Ceará,Botafogo,0,0
+2018,30,20/10/2018,América-MG,Grêmio,1,1
+2018,30,20/10/2018,Botafogo,Bahia,0,1
+2018,30,20/10/2018,São Paulo,Atlético-PR,0,0
+2018,30,20/10/2018,Sport,Vasco da Gama,2,1
+2018,30,21/10/2018,Vitória,Corinthians,2,2
+2018,30,21/10/2018,Fluminense,Atlético-MG,1,0
+2018,30,21/10/2018,Palmeiras,Ceará,2,1
+2018,30,21/10/2018,Cruzeiro,Chapecoense,3,0
+2018,30,21/10/2018,Paraná,Flamengo,0,4
+2018,30,22/10/2018,Internacional,Santos,2,2
+2018,31,26/10/2018,Vitória,São Paulo,0,1
+2018,31,26/10/2018,Vasco da Gama,Internacional,1,1
+2018,31,27/10/2018,Santos,Fluminense,3,0
+2018,31,27/10/2018,Grêmio,Sport,3,4
+2018,31,27/10/2018,Chapecoense,América-MG,1,0
+2018,31,27/10/2018,Flamengo,Palmeiras,1,1
+2018,31,27/10/2018,Corinthians,Bahia,2,1
+2018,31,27/10/2018,Cruzeiro,Paraná,3,1
+2018,31,27/10/2018,Atlético-PR,Botafogo,2,1
+2018,31,29/10/2018,Ceará,Atlético-MG,2,1
+2018,32,03/11/2018,Atlético-MG,Grêmio,0,1
+2018,32,03/11/2018,Fluminense,Vasco da Gama,0,1
+2018,32,03/11/2018,Palmeiras,Santos,3,2
+2018,32,04/11/2018,Paraná,Vitória,1,1
+2018,32,04/11/2018,América-MG,Cruzeiro,1,2
+2018,32,04/11/2018,Botafogo,Corinthians,1,0
+2018,32,04/11/2018,São Paulo,Flamengo,2,2
+2018,32,04/11/2018,Bahia,Chapecoense,1,0
+2018,32,04/11/2018,Internacional,Atlético-PR,2,1
+2018,32,05/11/2018,Sport,Ceará,1,0
+2018,33,10/11/2018,América-MG,Paraná,0,1
+2018,33,10/11/2018,Corinthians,São Paulo,1,1
+2018,33,10/11/2018,Atlético-PR,Cruzeiro,2,0
+2018,33,10/11/2018,Botafogo,Flamengo,2,1
+2018,33,11/11/2018,Atlético-MG,Palmeiras,1,1
+2018,33,11/11/2018,Vitória,Bahia,2,2
+2018,33,11/11/2018,Ceará,Internacional,1,1
+2018,33,11/11/2018,Grêmio,Vasco da Gama,2,1
+2018,33,11/11/2018,Fluminense,Sport,0,0
+2018,33,12/11/2018,Santos,Chapecoense,0,1
+2018,34,14/11/2018,Vasco da Gama,Atlético-PR,1,1
+2018,34,14/11/2018,Paraná,Atlético-MG,0,1
+2018,34,14/11/2018,Bahia,Ceará,2,1
+2018,34,14/11/2018,Cruzeiro,Corinthians,1,0
+2018,34,14/11/2018,Sport,Vitória,0,0
+2018,34,14/11/2018,Palmeiras,Fluminense,3,0
+2018,34,15/11/2018,Chapecoense,Botafogo,0,1
+2018,34,15/11/2018,Flamengo,Santos,1,0
+2018,34,15/11/2018,São Paulo,Grêmio,1,1
+2018,34,15/11/2018,Internacional,América-MG,2,0
+2018,35,17/11/2018,Vitória,Atlético-PR,1,2
+2018,35,17/11/2018,Corinthians,Vasco da Gama,1,0
+2018,35,17/11/2018,Atlético-MG,Bahia,1,0
+2018,35,18/11/2018,Paraná,Palmeiras,1,1
+2018,35,18/11/2018,América-MG,Santos,2,1
+2018,35,18/11/2018,Botafogo,Internacional,1,0
+2018,35,18/11/2018,Sport,Flamengo,0,1
+2018,35,18/11/2018,São Paulo,Cruzeiro,1,0
+2018,35,18/11/2018,Grêmio,Chapecoense,2,0
+2018,35,19/11/2018,Fluminense,Ceará,0,0
+2018,36,21/11/2018,Internacional,Atlético-MG,1,2
+2018,36,21/11/2018,Santos,Botafogo,1,1
+2018,36,21/11/2018,Cruzeiro,Vitória,3,0
+2018,36,21/11/2018,Atlético-PR,Corinthians,1,0
+2018,36,21/11/2018,Flamengo,Grêmio,2,0
+2018,36,21/11/2018,Palmeiras,América-MG,4,0
+2018,36,22/11/2018,Vasco da Gama,São Paulo,2,0
+2018,36,22/11/2018,Chapecoense,Sport,2,1
+2018,36,22/11/2018,Bahia,Fluminense,2,0
+2018,36,22/11/2018,Ceará,Paraná,1,0
+2018,37,24/11/2018,Santos,Atlético-MG,3,2
+2018,37,25/11/2018,Cruzeiro,Flamengo,0,2
+2018,37,25/11/2018,Atlético-PR,Ceará,2,2
+2018,37,25/11/2018,Vitória,Grêmio,0,0
+2018,37,25/11/2018,Vasco da Gama,Palmeiras,0,1
+2018,37,25/11/2018,América-MG,Bahia,1,0
+2018,37,25/11/2018,Corinthians,Chapecoense,0,0
+2018,37,25/11/2018,Internacional,Fluminense,2,0
+2018,37,26/11/2018,Botafogo,Paraná,2,1
+2018,37,26/11/2018,São Paulo,Sport,0,0
+2018,38,01/12/2018,Atlético-MG,Botafogo,1,0
+2018,38,01/12/2018,Flamengo,Atlético-PR,1,2
+2018,38,02/12/2018,Paraná,Internacional,1,1
+2018,38,02/12/2018,Chapecoense,São Paulo,1,0
+2018,38,02/12/2018,Bahia,Cruzeiro,0,0
+2018,38,02/12/2018,Fluminense,América-MG,1,0
+2018,38,02/12/2018,Ceará,Vasco da Gama,0,0
+2018,38,02/12/2018,Sport,Santos,2,1
+2018,38,02/12/2018,Palmeiras,Vitória,3,2
+2018,38,02/12/2018,Grêmio,Corinthians,1,0
+2019,1,27/04/2019,São Paulo,Botafogo,2,0
+2019,1,27/04/2019,Atlético-MG,Avaí,2,1
+2019,1,27/04/2019,Chapecoense,Internacional,2,0
+2019,1,27/04/2019,Flamengo,Cruzeiro,3,1
+2019,1,28/04/2019,Grêmio,Santos,1,2
+2019,1,28/04/2019,Ceará,CSA,4,0
+2019,1,28/04/2019,Bahia,Corinthians,3,2
+2019,1,28/04/2019,Athletico-PR,Vasco da Gama,4,1
+2019,1,28/04/2019,Palmeiras,Fortaleza,4,0
+2019,1,28/04/2019,Fluminense,Goiás,0,1
+2019,2,01/05/2019,CSA,Palmeiras,1,1
+2019,2,01/05/2019,Corinthians,Chapecoense,1,0
+2019,2,01/05/2019,Internacional,Flamengo,2,1
+2019,2,01/05/2019,Cruzeiro,Ceará,1,0
+2019,2,01/05/2019,Avaí,Grêmio,1,1
+2019,2,01/05/2019,Vasco da Gama,Atlético-MG,1,2
+2019,2,01/05/2019,Goiás,São Paulo,1,2
+2019,2,01/05/2019,Fortaleza,Athletico-PR,2,1
+2019,2,02/05/2019,Santos,Fluminense,2,1
+2019,2,02/05/2019,Botafogo,Bahia,3,2
+2019,3,04/05/2019,Palmeiras,Internacional,1,0
+2019,3,04/05/2019,Vasco da Gama,Corinthians,1,1
+2019,3,04/05/2019,Ceará,Atlético-MG,1,2
+2019,3,05/05/2019,Chapecoense,Athletico-PR,1,1
+2019,3,05/05/2019,São Paulo,Flamengo,1,1
+2019,3,05/05/2019,Botafogo,Fortaleza,1,0
+2019,3,05/05/2019,CSA,Santos,0,0
+2019,3,05/05/2019,Cruzeiro,Goiás,2,1
+2019,3,05/05/2019,Grêmio,Fluminense,4,5
+2019,3,05/05/2019,Bahia,Avaí,1,0
+2019,4,11/05/2019,Fluminense,Botafogo,0,1
+2019,4,11/05/2019,Corinthians,Grêmio,0,0
+2019,4,11/05/2019,Goiás,Ceará,2,1
+2019,4,12/05/2019,Flamengo,Chapecoense,2,1
+2019,4,12/05/2019,Internacional,Cruzeiro,3,1
+2019,4,12/05/2019,Santos,Vasco da Gama,3,0
+2019,4,12/05/2019,Atlético-MG,Palmeiras,0,2
+2019,4,12/05/2019,Athletico-PR,Bahia,1,0
+2019,4,12/05/2019,Avaí,CSA,0,0
+2019,4,12/05/2019,Fortaleza,São Paulo,0,1
+2019,5,18/05/2019,Fluminense,Cruzeiro,4,1
+2019,5,18/05/2019,Atlético-MG,Flamengo,2,1
+2019,5,18/05/2019,Palmeiras,Santos,4,0
+2019,5,19/05/2019,São Paulo,Bahia,0,0
+2019,5,19/05/2019,Chapecoense,Fortaleza,1,3
+2019,5,19/05/2019,Goiás,Botafogo,1,0
+2019,5,19/05/2019,Athletico-PR,Corinthians,0,2
+2019,5,19/05/2019,Internacional,CSA,2,0
+2019,5,19/05/2019,Vasco da Gama,Avaí,1,1
+2019,5,19/05/2019,Ceará,Grêmio,2,1
+2019,6,25/05/2019,Botafogo,Palmeiras,0,1
+2019,6,25/05/2019,Grêmio,Atlético-MG,1,0
+2019,6,26/05/2019,Santos,Internacional,0,0
+2019,6,26/05/2019,Flamengo,Athletico-PR,3,2
+2019,6,26/05/2019,Fortaleza,Vasco da Gama,1,1
+2019,6,26/05/2019,Corinthians,São Paulo,1,0
+2019,6,26/05/2019,Cruzeiro,Chapecoense,1,2
+2019,6,26/05/2019,Bahia,Fluminense,3,2
+2019,6,27/05/2019,Avaí,Ceará,1,2
+2019,6,27/05/2019,CSA,Goiás,1,0
+2019,7,01/06/2019,Flamengo,Fortaleza,2,0
+2019,7,01/06/2019,Bahia,Grêmio,1,0
+2019,7,02/06/2019,Botafogo,Vasco da Gama,1,0
+2019,7,02/06/2019,Ceará,Santos,0,1
+2019,7,02/06/2019,São Paulo,Cruzeiro,1,1
+2019,7,02/06/2019,Athletico-PR,Fluminense,3,0
+2019,7,02/06/2019,Chapecoense,Palmeiras,1,2
+2019,7,02/06/2019,Atlético-MG,CSA,4,0
+2019,7,02/06/2019,Internacional,Avaí,2,0
+2019,7,07/08/2019,Corinthians,Goiás,2,0
+2019,8,07/06/2019,Vasco da Gama,Internacional,2,1
+2019,8,08/06/2019,Palmeiras,Athletico-PR,1,0
+2019,8,08/06/2019,Grêmio,Fortaleza,1,0
+2019,8,08/06/2019,Cruzeiro,Corinthians,0,0
+2019,8,08/06/2019,Ceará,Bahia,0,0
+2019,8,08/06/2019,Avaí,São Paulo,0,0
+2019,8,09/06/2019,Santos,Atlético-MG,3,1
+2019,8,09/06/2019,Fluminense,Flamengo,0,0
+2019,8,09/06/2019,CSA,Botafogo,1,2
+2019,8,10/06/2019,Goiás,Chapecoense,3,1
+2019,9,12/06/2019,Botafogo,Grêmio,0,1
+2019,9,12/06/2019,Fortaleza,Cruzeiro,2,1
+2019,9,12/06/2019,Internacional,Bahia,3,1
+2019,9,12/06/2019,CSA,Flamengo,0,2
+2019,9,12/06/2019,Santos,Corinthians,1,0
+2019,9,13/06/2019,Vasco da Gama,Ceará,1,0
+2019,9,13/06/2019,Atlético-MG,São Paulo,1,1
+2019,9,13/06/2019,Goiás,Athletico-PR,2,1
+2019,9,13/06/2019,Palmeiras,Avaí,2,0
+2019,9,13/06/2019,Chapecoense,Fluminense,1,1
+2019,10,13/07/2019,Grêmio,Vasco da Gama,2,1
+2019,10,13/07/2019,Fortaleza,Avaí,2,0
+2019,10,13/07/2019,São Paulo,Palmeiras,1,1
+2019,10,13/07/2019,Bahia,Santos,0,1
+2019,10,14/07/2019,Flamengo,Goiás,6,1
+2019,10,14/07/2019,Cruzeiro,Botafogo,0,0
+2019,10,14/07/2019,Corinthians,CSA,1,0
+2019,10,14/07/2019,Athletico-PR,Internacional,1,0
+2019,10,14/07/2019,Chapecoense,Atlético-MG,1,2
+2019,10,15/07/2019,Fluminense,Ceará,1,1
+2019,11,20/07/2019,Vasco da Gama,Fluminense,2,1
+2019,11,20/07/2019,Bahia,Cruzeiro,0,0
+2019,11,20/07/2019,Internacional,Grêmio,1,1
+2019,11,20/07/2019,Ceará,Palmeiras,2,0
+2019,11,20/07/2019,CSA,Athletico-PR,0,4
+2019,11,21/07/2019,Botafogo,Santos,0,1
+2019,11,21/07/2019,Atlético-MG,Fortaleza,2,2
+2019,11,21/07/2019,Corinthians,Flamengo,1,1
+2019,11,21/07/2019,Avaí,Goiás,0,0
+2019,11,22/07/2019,São Paulo,Chapecoense,4,0
+2019,12,27/07/2019,Palmeiras,Vasco da Gama,1,1
+2019,12,27/07/2019,Fluminense,São Paulo,1,2
+2019,12,27/07/2019,Internacional,Ceará,1,0
+2019,12,27/07/2019,Cruzeiro,Athletico-PR,0,2
+2019,12,28/07/2019,Chapecoense,Bahia,0,0
+2019,12,28/07/2019,Santos,Avaí,3,1
+2019,12,28/07/2019,Flamengo,Botafogo,3,2
+2019,12,28/07/2019,Goiás,Atlético-MG,0,0
+2019,12,28/07/2019,Fortaleza,Corinthians,1,3
+2019,12,29/07/2019,CSA,Grêmio,0,0
+2019,13,03/08/2019,Ceará,Fortaleza,2,1
+2019,13,03/08/2019,Fluminense,Internacional,2,1
+2019,13,04/08/2019,Santos,Goiás,6,1
+2019,13,04/08/2019,Avaí,Botafogo,0,2
+2019,13,04/08/2019,Bahia,Flamengo,3,0
+2019,13,04/08/2019,Vasco da Gama,CSA,0,0
+2019,13,04/08/2019,Atlético-MG,Cruzeiro,2,0
+2019,13,04/08/2019,Corinthians,Palmeiras,1,1
+2019,13,05/08/2019,Grêmio,Chapecoense,3,3
+2019,13,21/08/2019,Athletico-PR,São Paulo,0,1
+2019,14,10/08/2019,Ceará,Chapecoense,4,1
+2019,14,10/08/2019,São Paulo,Santos,3,2
+2019,14,10/08/2019,Flamengo,Grêmio,3,1
+2019,14,10/08/2019,Atlético-MG,Fluminense,2,1
+2019,14,11/08/2019,Internacional,Corinthians,0,0
+2019,14,11/08/2019,Palmeiras,Bahia,2,2
+2019,14,11/08/2019,Botafogo,Athletico-PR,2,1
+2019,14,11/08/2019,Avaí,Cruzeiro,2,2
+2019,14,11/08/2019,Goiás,Vasco da Gama,0,1
+2019,14,12/08/2019,CSA,Fortaleza,0,2
+2019,15,17/08/2019,Fortaleza,Internacional,0,1
+2019,15,17/08/2019,Corinthians,Botafogo,2,0
+2019,15,17/08/2019,Vasco da Gama,Flamengo,1,4
+2019,15,17/08/2019,Bahia,Goiás,1,1
+2019,15,17/08/2019,Athletico-PR,Atlético-MG,1,0
+2019,15,17/08/2019,Grêmio,Palmeiras,1,1
+2019,15,18/08/2019,Cruzeiro,Santos,2,0
+2019,15,18/08/2019,São Paulo,Ceará,1,0
+2019,15,18/08/2019,Fluminense,CSA,0,1
+2019,15,18/08/2019,Chapecoense,Avaí,1,0
+2019,16,24/08/2019,Atlético-MG,Bahia,0,1
+2019,16,24/08/2019,Grêmio,Athletico-PR,2,1
+2019,16,25/08/2019,Santos,Fortaleza,3,3
+2019,16,25/08/2019,Vasco da Gama,São Paulo,2,0
+2019,16,25/08/2019,Goiás,Internacional,2,1
+2019,16,25/08/2019,Ceará,Flamengo,0,3
+2019,16,25/08/2019,Avaí,Corinthians,1,1
+2019,16,25/08/2019,CSA,Cruzeiro,1,1
+2019,16,26/08/2019,Botafogo,Chapecoense,0,0
+2019,16,10/09/2019,Palmeiras,Fluminense,3,0
+2019,17,31/08/2019,São Paulo,Grêmio,0,0
+2019,17,31/08/2019,Bahia,CSA,1,0
+2019,17,31/08/2019,Chapecoense,Santos,0,1
+2019,17,31/08/2019,Athletico-PR,Ceará,1,0
+2019,17,31/08/2019,Internacional,Botafogo,3,2
+2019,17,01/09/2019,Flamengo,Palmeiras,3,0
+2019,17,01/09/2019,Fortaleza,Goiás,2,0
+2019,17,01/09/2019,Corinthians,Atlético-MG,1,0
+2019,17,01/09/2019,Cruzeiro,Vasco da Gama,1,0
+2019,17,02/09/2019,Fluminense,Avaí,0,1
+2019,18,07/09/2019,Vasco da Gama,Bahia,0,2
+2019,18,07/09/2019,Corinthians,Ceará,2,2
+2019,18,07/09/2019,Avaí,Flamengo,0,3
+2019,18,07/09/2019,Fortaleza,Fluminense,0,1
+2019,18,07/09/2019,Internacional,São Paulo,1,0
+2019,18,07/09/2019,Goiás,Palmeiras,1,2
+2019,18,08/09/2019,Cruzeiro,Grêmio,1,4
+2019,18,08/09/2019,Botafogo,Atlético-MG,2,1
+2019,18,08/09/2019,Santos,Athletico-PR,1,1
+2019,18,08/09/2019,CSA,Chapecoense,2,0
+2019,19,14/09/2019,Flamengo,Santos,1,0
+2019,19,14/09/2019,Chapecoense,Vasco da Gama,1,2
+2019,19,14/09/2019,Palmeiras,Cruzeiro,1,0
+2019,19,14/09/2019,Ceará,Botafogo,0,0
+2019,19,15/09/2019,Athletico-PR,Avaí,0,1
+2019,19,15/09/2019,Atlético-MG,Internacional,1,3
+2019,19,15/09/2019,Grêmio,Goiás,3,0
+2019,19,15/09/2019,Bahia,Fortaleza,1,1
+2019,19,15/09/2019,Fluminense,Corinthians,1,0
+2019,19,15/09/2019,São Paulo,CSA,1,1
+2019,20,21/09/2019,Botafogo,São Paulo,1,2
+2019,20,21/09/2019,Cruzeiro,Flamengo,1,2
+2019,20,21/09/2019,Corinthians,Bahia,2,1
+2019,20,21/09/2019,Santos,Grêmio,0,3
+2019,20,22/09/2019,Internacional,Chapecoense,1,0
+2019,20,22/09/2019,Fortaleza,Palmeiras,0,1
+2019,20,22/09/2019,Vasco da Gama,Athletico-PR,1,1
+2019,20,22/09/2019,CSA,Ceará,1,0
+2019,20,22/09/2019,Goiás,Fluminense,3,0
+2019,20,23/09/2019,Avaí,Atlético-MG,1,0
+2019,21,25/09/2019,Ceará,Cruzeiro,0,0
+2019,21,25/09/2019,Bahia,Botafogo,2,0
+2019,21,25/09/2019,Flamengo,Internacional,3,1
+2019,21,25/09/2019,São Paulo,Goiás,0,1
+2019,21,26/09/2019,Palmeiras,CSA,6,2
+2019,21,26/09/2019,Fluminense,Santos,1,1
+2019,21,26/09/2019,Grêmio,Avaí,6,1
+2019,21,26/09/2019,Athletico-PR,Fortaleza,4,1
+2019,21,02/10/2019,Atlético-MG,Vasco da Gama,1,2
+2019,21,02/10/2019,Chapecoense,Corinthians,0,1
+2019,22,28/09/2019,Flamengo,São Paulo,0,0
+2019,22,29/09/2019,Corinthians,Vasco da Gama,1,0
+2019,22,29/09/2019,Internacional,Palmeiras,1,1
+2019,22,29/09/2019,Fluminense,Grêmio,2,1
+2019,22,29/09/2019,Santos,CSA,2,0
+2019,22,29/09/2019,Atlético-MG,Ceará,2,1
+2019,22,29/09/2019,Athletico-PR,Chapecoense,1,1
+2019,22,30/09/2019,Goiás,Cruzeiro,1,0
+2019,22,30/09/2019,Avaí,Bahia,0,2
+2019,22,30/09/2019,Fortaleza,Botafogo,1,0
+2019,23,05/10/2019,São Paulo,Fortaleza,2,1
+2019,23,05/10/2019,Vasco da Gama,Santos,0,1
+2019,23,05/10/2019,Grêmio,Corinthians,0,0
+2019,23,05/10/2019,Bahia,Athletico-PR,1,2
+2019,23,05/10/2019,Cruzeiro,Internacional,1,1
+2019,23,06/10/2019,Chapecoense,Flamengo,0,1
+2019,23,06/10/2019,Palmeiras,Atlético-MG,1,1
+2019,23,06/10/2019,Botafogo,Fluminense,0,1
+2019,23,06/10/2019,Ceará,Goiás,0,1
+2019,23,06/10/2019,CSA,Avaí,3,1
+2019,24,09/10/2019,Botafogo,Goiás,3,1
+2019,24,09/10/2019,CSA,Internacional,1,0
+2019,24,09/10/2019,Fortaleza,Chapecoense,2,0
+2019,24,09/10/2019,Grêmio,Ceará,2,1
+2019,24,09/10/2019,Bahia,São Paulo,0,0
+2019,24,09/10/2019,Cruzeiro,Fluminense,0,0
+2019,24,09/10/2019,Santos,Palmeiras,2,0
+2019,24,10/10/2019,Corinthians,Athletico-PR,2,2
+2019,24,10/10/2019,Avaí,Vasco da Gama,0,0
+2019,24,10/10/2019,Flamengo,Atlético-MG,3,1
+2019,25,12/10/2019,Goiás,CSA,1,0
+2019,25,12/10/2019,Fluminense,Bahia,2,0
+2019,25,12/10/2019,Palmeiras,Botafogo,1,0
+2019,25,13/10/2019,Internacional,Santos,0,0
+2019,25,13/10/2019,Vasco da Gama,Fortaleza,1,0
+2019,25,13/10/2019,Athletico-PR,Flamengo,0,2
+2019,25,13/10/2019,Ceará,Avaí,1,0
+2019,25,13/10/2019,São Paulo,Corinthians,1,0
+2019,25,13/10/2019,Chapecoense,Cruzeiro,1,1
+2019,25,13/10/2019,Atlético-MG,Grêmio,1,4
+2019,26,16/10/2019,Grêmio,Bahia,0,1
+2019,26,16/10/2019,CSA,Atlético-MG,2,2
+2019,26,16/10/2019,Fortaleza,Flamengo,1,2
+2019,26,16/10/2019,Cruzeiro,São Paulo,1,0
+2019,26,16/10/2019,Palmeiras,Chapecoense,1,0
+2019,26,16/10/2019,Goiás,Corinthians,2,2
+2019,26,16/10/2019,Vasco da Gama,Botafogo,2,1
+2019,26,17/10/2019,Santos,Ceará,2,1
+2019,26,17/10/2019,Avaí,Internacional,0,2
+2019,26,17/10/2019,Fluminense,Athletico-PR,1,2
+2019,27,19/10/2019,Fortaleza,Grêmio,2,1
+2019,27,19/10/2019,Corinthians,Cruzeiro,1,2
+2019,27,20/10/2019,Atlético-MG,Santos,2,0
+2019,27,20/10/2019,Internacional,Vasco da Gama,0,1
+2019,27,20/10/2019,São Paulo,Avaí,1,0
+2019,27,20/10/2019,Flamengo,Fluminense,2,0
+2019,27,20/10/2019,Chapecoense,Goiás,2,2
+2019,27,20/10/2019,Athletico-PR,Palmeiras,1,1
+2019,27,21/10/2019,Bahia,Ceará,1,2
+2019,27,21/10/2019,Botafogo,CSA,2,1
+2019,28,26/10/2019,Corinthians,Santos,0,0
+2019,28,26/10/2019,Ceará,Vasco da Gama,1,1
+2019,28,26/10/2019,Bahia,Internacional,2,3
+2019,28,26/10/2019,Fluminense,Chapecoense,1,1
+2019,28,26/10/2019,Cruzeiro,Fortaleza,1,1
+2019,28,27/10/2019,São Paulo,Atlético-MG,2,0
+2019,28,27/10/2019,Athletico-PR,Goiás,4,1
+2019,28,27/10/2019,Grêmio,Botafogo,3,0
+2019,28,27/10/2019,Avaí,Palmeiras,1,2
+2019,28,27/10/2019,Flamengo,CSA,1,0
+2019,29,30/10/2019,Atlético-MG,Chapecoense,0,2
+2019,29,30/10/2019,Palmeiras,São Paulo,3,0
+2019,29,30/10/2019,Avaí,Fortaleza,1,3
+2019,29,30/10/2019,Ceará,Fluminense,2,0
+2019,29,30/10/2019,CSA,Corinthians,2,1
+2019,29,30/10/2019,Vasco da Gama,Grêmio,1,3
+2019,29,31/10/2019,Santos,Bahia,1,0
+2019,29,31/10/2019,Goiás,Flamengo,2,2
+2019,29,31/10/2019,Internacional,Athletico-PR,1,1
+2019,29,31/10/2019,Botafogo,Cruzeiro,0,2
+2019,30,02/11/2019,Fortaleza,Atlético-MG,2,2
+2019,30,02/11/2019,Palmeiras,Ceará,1,0
+2019,30,02/11/2019,Fluminense,Vasco da Gama,0,0
+2019,30,02/11/2019,Chapecoense,São Paulo,0,3
+2019,30,03/11/2019,Flamengo,Corinthians,4,1
+2019,30,03/11/2019,Grêmio,Internacional,2,0
+2019,30,03/11/2019,Athletico-PR,CSA,1,0
+2019,30,03/11/2019,Cruzeiro,Bahia,1,1
+2019,30,03/11/2019,Santos,Botafogo,4,1
+2019,30,03/11/2019,Goiás,Avaí,2,0
+2019,31,05/11/2019,Avaí,Santos,1,2
+2019,31,05/11/2019,Vasco da Gama,Palmeiras,1,2
+2019,31,05/11/2019,Athletico-PR,Cruzeiro,0,0
+2019,31,05/11/2019,Bahia,Chapecoense,1,1
+2019,31,06/11/2019,Corinthians,Fortaleza,3,2
+2019,31,06/11/2019,Atlético-MG,Goiás,2,0
+2019,31,06/11/2019,Ceará,Internacional,2,0
+2019,31,06/11/2019,São Paulo,Fluminense,0,2
+2019,31,06/11/2019,Botafogo,Flamengo,0,1
+2019,31,06/11/2019,Grêmio,CSA,2,1
+2019,32,08/11/2019,Goiás,Santos,0,3
+2019,32,08/11/2019,Palmeiras,Corinthians,1,1
+2019,32,09/11/2019,Internacional,Fluminense,2,1
+2019,32,09/11/2019,Cruzeiro,Atlético-MG,0,0
+2019,32,09/11/2019,São Paulo,Athletico-PR,0,1
+2019,32,09/11/2019,Flamengo,Bahia,3,1
+2019,32,09/11/2019,Chapecoense,Grêmio,0,1
+2019,32,09/11/2019,Fortaleza,Ceará,1,0
+2019,32,09/11/2019,CSA,Vasco da Gama,0,3
+2019,32,10/11/2019,Botafogo,Avaí,2,0
+2019,33,16/11/2019,Santos,São Paulo,1,1
+2019,33,16/11/2019,Fluminense,Atlético-MG,1,1
+2019,33,16/11/2019,Fortaleza,CSA,3,0
+2019,33,16/11/2019,Athletico-PR,Botafogo,1,0
+2019,33,16/11/2019,Bahia,Palmeiras,1,1
+2019,33,16/11/2019,Grêmio,Flamengo,0,1
+2019,33,16/11/2019,Corinthians,Internacional,0,0
+2019,33,16/11/2019,Chapecoense,Ceará,1,0
+2019,33,17/11/2019,Vasco da Gama,Goiás,1,1
+2019,33,17/11/2019,Cruzeiro,Avaí,0,0
+2019,34,13/11/2019,Flamengo,Vasco da Gama,4,4
+2019,34,23/11/2019,Santos,Cruzeiro,4,1
+2019,34,24/11/2019,Goiás,Bahia,4,3
+2019,34,24/11/2019,Atlético-MG,Athletico-PR,0,1
+2019,34,24/11/2019,Palmeiras,Grêmio,1,2
+2019,34,24/11/2019,Botafogo,Corinthians,1,0
+2019,34,24/11/2019,Avaí,Chapecoense,0,1
+2019,34,24/11/2019,Internacional,Fortaleza,2,2
+2019,34,24/11/2019,Ceará,São Paulo,1,1
+2019,34,24/11/2019,CSA,Fluminense,0,1
+2019,35,26/11/2019,Chapecoense,Botafogo,0,1
+2019,35,26/11/2019,Internacional,Goiás,1,2
+2019,35,26/11/2019,Bahia,Atlético-MG,1,1
+2019,35,26/11/2019,Athletico-PR,Grêmio,2,0
+2019,35,26/11/2019,Corinthians,Avaí,3,0
+2019,35,26/11/2019,Flamengo,Ceará,4,1
+2019,35,27/11/2019,Fortaleza,Santos,2,1
+2019,35,27/11/2019,Fluminense,Palmeiras,1,0
+2019,35,27/11/2019,São Paulo,Vasco da Gama,1,0
+2019,35,27/11/2019,Cruzeiro,CSA,0,1
+2019,36,29/11/2019,Botafogo,Internacional,0,1
+2019,36,29/11/2019,Ceará,Athletico-PR,1,1
+2019,36,30/11/2019,Palmeiras,Flamengo,1,3
+2019,36,30/11/2019,Goiás,Fortaleza,1,2
+2019,36,30/11/2019,CSA,Bahia,1,2
+2019,36,30/11/2019,Atlético-MG,Corinthians,2,1
+2019,36,30/11/2019,Grêmio,São Paulo,3,0
+2019,36,30/11/2019,Santos,Chapecoense,2,0
+2019,36,30/11/2019,Avaí,Fluminense,1,1
+2019,36,01/12/2019,Vasco da Gama,Cruzeiro,1,0
+2019,37,03/12/2019,Athletico-PR,Santos,1,0
+2019,37,03/12/2019,Atlético-MG,Botafogo,2,0
+2019,37,03/12/2019,Ceará,Corinthians,0,1
+2019,37,03/12/2019,Chapecoense,CSA,3,0
+2019,37,03/12/2019,São Paulo,Internacional,2,1
+2019,37,03/12/2019,Fluminense,Fortaleza,0,0
+2019,37,04/12/2019,Palmeiras,Goiás,5,1
+2019,37,04/12/2019,Bahia,Vasco da Gama,1,1
+2019,37,04/12/2019,Grêmio,Cruzeiro,2,0
+2019,37,04/12/2019,Flamengo,Avaí,6,1
+2019,38,08/12/2019,Internacional,Atlético-MG,2,1
+2019,38,08/12/2019,Cruzeiro,Palmeiras,0,2
+2019,38,08/12/2019,Fortaleza,Bahia,2,1
+2019,38,08/12/2019,Corinthians,Fluminense,1,2
+2019,38,08/12/2019,Santos,Flamengo,4,0
+2019,38,08/12/2019,Vasco da Gama,Chapecoense,1,1
+2019,38,08/12/2019,Botafogo,Ceará,1,1
+2019,38,08/12/2019,Avaí,Athletico-PR,0,0
+2019,38,08/12/2019,Goiás,Grêmio,3,2
+2019,38,08/12/2019,CSA,São Paulo,1,2
+2020,1,08/08/2020,Coritiba,Internacional,0,1
+2020,1,08/08/2020,Sport,Ceará,3,2
+2020,1,09/08/2020,Flamengo,Atlético-MG,0,1
+2020,1,09/08/2020,Santos,Bragantino,1,1
+2020,1,09/08/2020,Grêmio,Fluminense,1,0
+2020,1,09/08/2020,Fortaleza,Athletico-PR,0,2
+2020,1,30/09/2020,Botafogo,Bahia,1,2
+2020,1,30/09/2020,Corinthians,Atlético-GO,0,0
+2020,1,03/12/2020,Goiás,São Paulo,0,3
+2020,1,26/01/2021,Palmeiras,Vasco da Gama,1,1
+2020,2,11/08/2020,Atlético-MG,Corinthians,3,2
+2020,2,11/08/2020,Athletico-PR,Goiás,2,1
+2020,2,11/08/2020,Bragantino,Botafogo,1,1
+2020,2,11/08/2020,Atlético-GO,Flamengo,3,0
+2020,2,12/08/2020,Bahia,Coritiba,1,0
+2020,2,12/08/2020,Fluminense,Palmeiras,1,1
+2020,2,12/08/2020,Ceará,Grêmio,1,1
+2020,2,13/08/2020,São Paulo,Fortaleza,1,0
+2020,2,13/08/2020,Internacional,Santos,2,0
+2020,2,13/08/2020,Vasco da Gama,Sport,2,0
+2020,3,15/08/2020,Grêmio,Corinthians,0,0
+2020,3,15/08/2020,Coritiba,Flamengo,0,1
+2020,3,15/08/2020,Palmeiras,Goiás,1,1
+2020,3,16/08/2020,Atlético-MG,Ceará,2,0
+2020,3,16/08/2020,Vasco da Gama,São Paulo,2,1
+2020,3,16/08/2020,Bahia,Bragantino,2,1
+2020,3,16/08/2020,Fluminense,Internacional,2,1
+2020,3,16/08/2020,Atlético-GO,Sport,1,1
+2020,3,16/08/2020,Fortaleza,Botafogo,0,0
+2020,3,16/08/2020,Santos,Athletico-PR,3,1
+2020,4,19/08/2020,Flamengo,Grêmio,1,1
+2020,4,19/08/2020,Bragantino,Fluminense,2,1
+2020,4,19/08/2020,Athletico-PR,Palmeiras,0,1
+2020,4,19/08/2020,Internacional,Atlético-GO,3,0
+2020,4,19/08/2020,Goiás,Fortaleza,1,3
+2020,4,19/08/2020,Botafogo,Atlético-MG,2,1
+2020,4,19/08/2020,Corinthians,Coritiba,3,1
+2020,4,20/08/2020,Sport,Santos,0,1
+2020,4,20/08/2020,São Paulo,Bahia,1,1
+2020,4,20/08/2020,Ceará,Vasco da Gama,0,3
+2020,5,22/08/2020,Athletico-PR,Fluminense,0,1
+2020,5,22/08/2020,Internacional,Atlético-MG,1,0
+2020,5,22/08/2020,Goiás,Atlético-GO,2,0
+2020,5,23/08/2020,Flamengo,Botafogo,1,1
+2020,5,23/08/2020,Vasco da Gama,Grêmio,0,0
+2020,5,23/08/2020,Palmeiras,Santos,2,1
+2020,5,23/08/2020,Bragantino,Coritiba,1,2
+2020,5,23/08/2020,Sport,São Paulo,0,1
+2020,5,23/08/2020,Ceará,Bahia,2,0
+2020,5,26/08/2020,Corinthians,Fortaleza,1,1
+2020,6,29/08/2020,Botafogo,Internacional,0,2
+2020,6,29/08/2020,Fluminense,Vasco da Gama,2,1
+2020,6,29/08/2020,Bahia,Palmeiras,1,1
+2020,6,29/08/2020,Fortaleza,Bragantino,3,0
+2020,6,30/08/2020,São Paulo,Corinthians,2,1
+2020,6,30/08/2020,Santos,Flamengo,0,1
+2020,6,30/08/2020,Coritiba,Sport,1,0
+2020,6,30/08/2020,Atlético-GO,Ceará,0,2
+2020,6,18/11/2020,Atlético-MG,Athletico-PR,0,2
+2020,6,30/11/2020,Grêmio,Goiás,2,1
+2020,7,02/09/2020,Ceará,Fortaleza,1,0
+2020,7,02/09/2020,Goiás,Corinthians,1,2
+2020,7,02/09/2020,Fluminense,Atlético-GO,1,1
+2020,7,02/09/2020,Botafogo,Coritiba,0,0
+2020,7,02/09/2020,Athletico-PR,Bragantino,1,1
+2020,7,02/09/2020,Bahia,Flamengo,3,5
+2020,7,02/09/2020,Palmeiras,Internacional,1,1
+2020,7,02/09/2020,Santos,Vasco da Gama,2,2
+2020,7,03/09/2020,Grêmio,Sport,1,2
+2020,7,03/09/2020,Atlético-MG,São Paulo,3,0
+2020,8,05/09/2020,Flamengo,Fortaleza,2,1
+2020,8,05/09/2020,Corinthians,Botafogo,2,2
+2020,8,05/09/2020,Ceará,Santos,0,1
+2020,8,06/09/2020,Bragantino,Palmeiras,1,2
+2020,8,06/09/2020,São Paulo,Fluminense,3,1
+2020,8,06/09/2020,Internacional,Bahia,2,2
+2020,8,06/09/2020,Vasco da Gama,Athletico-PR,1,0
+2020,8,06/09/2020,Atlético-GO,Grêmio,1,1
+2020,8,06/09/2020,Sport,Goiás,2,1
+2020,8,06/09/2020,Coritiba,Atlético-MG,0,1
+2020,9,09/09/2020,Athletico-PR,Botafogo,1,1
+2020,9,09/09/2020,Goiás,Coritiba,3,3
+2020,9,09/09/2020,Fortaleza,Sport,1,0
+2020,9,09/09/2020,São Paulo,Bragantino,1,1
+2020,9,09/09/2020,Fluminense,Flamengo,1,2
+2020,9,09/09/2020,Santos,Atlético-MG,3,1
+2020,9,10/09/2020,Internacional,Ceará,2,0
+2020,9,10/09/2020,Corinthians,Palmeiras,0,2
+2020,9,10/09/2020,Bahia,Grêmio,0,2
+2020,9,10/09/2020,Vasco da Gama,Atlético-GO,1,2
+2020,10,12/09/2020,Athletico-PR,Coritiba,1,0
+2020,10,12/09/2020,Santos,São Paulo,2,2
+2020,10,13/09/2020,Fluminense,Corinthians,2,1
+2020,10,13/09/2020,Grêmio,Fortaleza,1,1
+2020,10,13/09/2020,Ceará,Flamengo,2,0
+2020,10,13/09/2020,Atlético-MG,Bragantino,2,1
+2020,10,13/09/2020,Goiás,Internacional,1,0
+2020,10,13/09/2020,Bahia,Atlético-GO,0,1
+2020,10,13/09/2020,Palmeiras,Sport,2,2
+2020,10,13/09/2020,Botafogo,Vasco da Gama,2,3
+2020,11,26/08/2020,São Paulo,Athletico-PR,1,0
+2020,11,16/09/2020,Corinthians,Bahia,3,2
+2020,11,19/09/2020,Bragantino,Ceará,4,2
+2020,11,19/09/2020,Fortaleza,Internacional,1,0
+2020,11,19/09/2020,Atlético-GO,Atlético-MG,3,4
+2020,11,20/09/2020,Grêmio,Palmeiras,1,1
+2020,11,20/09/2020,Coritiba,Vasco da Gama,1,0
+2020,11,20/09/2020,Botafogo,Santos,0,0
+2020,11,20/09/2020,Sport,Fluminense,1,0
+2020,11,13/10/2020,Flamengo,Goiás,2,1
+2020,12,23/09/2020,Sport,Corinthians,1,0
+2020,12,26/09/2020,Internacional,São Paulo,1,1
+2020,12,26/09/2020,Athletico-PR,Bahia,1,0
+2020,12,26/09/2020,Atlético-MG,Grêmio,3,1
+2020,12,27/09/2020,Vasco da Gama,Bragantino,1,1
+2020,12,27/09/2020,Palmeiras,Flamengo,1,1
+2020,12,27/09/2020,Ceará,Goiás,2,2
+2020,12,27/09/2020,Atlético-GO,Botafogo,1,1
+2020,12,27/09/2020,Santos,Fortaleza,1,1
+2020,12,28/09/2020,Fluminense,Coritiba,4,0
+2020,13,03/10/2020,Grêmio,Internacional,1,1
+2020,13,03/10/2020,Palmeiras,Ceará,2,1
+2020,13,03/10/2020,Bragantino,Corinthians,0,0
+2020,13,04/10/2020,Botafogo,Fluminense,1,1
+2020,13,04/10/2020,Flamengo,Athletico-PR,3,1
+2020,13,04/10/2020,Coritiba,São Paulo,1,1
+2020,13,04/10/2020,Bahia,Sport,1,2
+2020,13,04/10/2020,Fortaleza,Atlético-GO,0,0
+2020,13,04/10/2020,Goiás,Santos,2,3
+2020,13,04/10/2020,Atlético-MG,Vasco da Gama,4,1
+2020,14,07/10/2020,Corinthians,Santos,1,1
+2020,14,07/10/2020,Flamengo,Sport,3,0
+2020,14,07/10/2020,Grêmio,Coritiba,2,1
+2020,14,07/10/2020,Bahia,Vasco da Gama,3,0
+2020,14,07/10/2020,São Paulo,Atlético-GO,3,0
+2020,14,07/10/2020,Goiás,Fluminense,2,4
+2020,14,07/10/2020,Botafogo,Palmeiras,2,1
+2020,14,07/10/2020,Fortaleza,Atlético-MG,2,1
+2020,14,08/10/2020,Athletico-PR,Ceará,0,0
+2020,14,08/10/2020,Bragantino,Internacional,0,2
+2020,15,10/10/2020,Vasco da Gama,Flamengo,1,2
+2020,15,10/10/2020,Palmeiras,São Paulo,0,2
+2020,15,10/10/2020,Coritiba,Fortaleza,0,0
+2020,15,10/10/2020,Atlético-MG,Goiás,3,0
+2020,15,11/10/2020,Fluminense,Bahia,1,0
+2020,15,11/10/2020,Santos,Grêmio,2,1
+2020,15,11/10/2020,Sport,Botafogo,1,2
+2020,15,11/10/2020,Atlético-GO,Bragantino,2,1
+2020,15,11/10/2020,Internacional,Athletico-PR,2,1
+2020,15,11/10/2020,Ceará,Corinthians,2,1
+2020,16,14/10/2020,Palmeiras,Coritiba,1,3
+2020,16,14/10/2020,Grêmio,Botafogo,3,1
+2020,16,14/10/2020,Santos,Atlético-GO,0,1
+2020,16,14/10/2020,Atlético-MG,Fluminense,1,1
+2020,16,14/10/2020,Sport,Internacional,3,5
+2020,16,14/10/2020,Athletico-PR,Corinthians,0,1
+2020,16,15/10/2020,Flamengo,Bragantino,1,1
+2020,16,16/10/2020,Goiás,Bahia,1,1
+2020,16,19/11/2020,Vasco da Gama,Fortaleza,0,0
+2020,16,25/11/2020,Ceará,São Paulo,1,1
+2020,17,17/10/2020,Fluminense,Ceará,2,2
+2020,17,17/10/2020,Coritiba,Santos,1,2
+2020,17,17/10/2020,Atlético-GO,Athletico-PR,1,1
+2020,17,17/10/2020,São Paulo,Grêmio,0,0
+2020,17,18/10/2020,Corinthians,Flamengo,1,5
+2020,17,18/10/2020,Internacional,Vasco da Gama,2,0
+2020,17,18/10/2020,Bragantino,Sport,2,0
+2020,17,18/10/2020,Fortaleza,Palmeiras,2,0
+2020,17,19/10/2020,Botafogo,Goiás,0,0
+2020,17,19/10/2020,Bahia,Atlético-MG,3,1
+2020,18,21/10/2020,Vasco da Gama,Corinthians,1,2
+2020,18,24/10/2020,Bragantino,Goiás,2,0
+2020,18,24/10/2020,Ceará,Coritiba,2,1
+2020,18,24/10/2020,Atlético-MG,Sport,0,0
+2020,18,25/10/2020,Fluminense,Santos,3,1
+2020,18,25/10/2020,Atlético-GO,Palmeiras,0,3
+2020,18,25/10/2020,Internacional,Flamengo,2,2
+2020,18,25/10/2020,Athletico-PR,Grêmio,1,2
+2020,18,11/11/2020,Bahia,Fortaleza,2,1
+2020,18,09/12/2020,São Paulo,Botafogo,4,0
+2020,19,31/10/2020,Botafogo,Ceará,2,2
+2020,19,31/10/2020,Corinthians,Internacional,1,0
+2020,19,31/10/2020,Coritiba,Atlético-GO,1,0
+2020,19,31/10/2020,Fortaleza,Fluminense,0,1
+2020,19,01/11/2020,Flamengo,São Paulo,1,4
+2020,19,01/11/2020,Sport,Athletico-PR,1,0
+2020,19,01/11/2020,Santos,Bahia,3,1
+2020,19,01/11/2020,Goiás,Vasco da Gama,1,1
+2020,19,02/11/2020,Palmeiras,Atlético-MG,3,0
+2020,19,02/11/2020,Grêmio,Bragantino,2,1
+2020,20,07/11/2020,Ceará,Sport,0,0
+2020,20,07/11/2020,Athletico-PR,Fortaleza,2,1
+2020,20,07/11/2020,São Paulo,Goiás,2,1
+2020,20,07/11/2020,Atlético-GO,Corinthians,1,1
+2020,20,08/11/2020,Vasco da Gama,Palmeiras,0,1
+2020,20,08/11/2020,Internacional,Coritiba,2,2
+2020,20,08/11/2020,Atlético-MG,Flamengo,4,0
+2020,20,08/11/2020,Bahia,Botafogo,1,0
+2020,20,08/11/2020,Bragantino,Santos,1,1
+2020,20,08/11/2020,Fluminense,Grêmio,0,1
+2020,21,14/11/2020,Sport,Vasco da Gama,0,2
+2020,21,14/11/2020,Santos,Internacional,2,0
+2020,21,14/11/2020,Goiás,Athletico-PR,0,1
+2020,21,14/11/2020,Fortaleza,São Paulo,2,3
+2020,21,14/11/2020,Corinthians,Atlético-MG,1,2
+2020,21,14/11/2020,Coritiba,Bahia,1,2
+2020,21,14/11/2020,Grêmio,Ceará,4,2
+2020,21,14/11/2020,Palmeiras,Fluminense,2,0
+2020,21,14/11/2020,Flamengo,Atlético-GO,1,1
+2020,21,16/11/2020,Botafogo,Bragantino,1,2
+2020,22,20/11/2020,Bragantino,Bahia,4,0
+2020,22,21/11/2020,Athletico-PR,Santos,1,0
+2020,22,21/11/2020,Flamengo,Coritiba,3,1
+2020,22,21/11/2020,Goiás,Palmeiras,1,0
+2020,22,22/11/2020,São Paulo,Vasco da Gama,1,1
+2020,22,22/11/2020,Ceará,Atlético-MG,2,2
+2020,22,22/11/2020,Internacional,Fluminense,1,2
+2020,22,22/11/2020,Botafogo,Fortaleza,1,2
+2020,22,22/11/2020,Corinthians,Grêmio,0,0
+2020,22,23/11/2020,Sport,Atlético-GO,0,1
+2020,23,25/11/2020,Atlético-MG,Botafogo,2,1
+2020,23,25/11/2020,Coritiba,Corinthians,0,1
+2020,23,26/11/2020,Fortaleza,Goiás,1,1
+2020,23,28/11/2020,Santos,Sport,4,2
+2020,23,28/11/2020,Palmeiras,Athletico-PR,3,0
+2020,23,28/11/2020,Bahia,São Paulo,1,3
+2020,23,28/11/2020,Atlético-GO,Internacional,0,0
+2020,23,30/11/2020,Vasco da Gama,Ceará,1,4
+2020,23,30/11/2020,Fluminense,Bragantino,0,0
+2020,23,28/01/2021,Grêmio,Flamengo,2,4
+2020,24,02/12/2020,Fortaleza,Corinthians,0,0
+2020,24,05/12/2020,Botafogo,Flamengo,0,1
+2020,24,05/12/2020,Santos,Palmeiras,2,2
+2020,24,05/12/2020,Fluminense,Athletico-PR,3,1
+2020,24,05/12/2020,Bahia,Ceará,0,2
+2020,24,05/12/2020,Coritiba,Bragantino,0,0
+2020,24,06/12/2020,Grêmio,Vasco da Gama,4,0
+2020,24,06/12/2020,São Paulo,Sport,1,0
+2020,24,06/12/2020,Atlético-MG,Internacional,2,2
+2020,24,07/12/2020,Atlético-GO,Goiás,0,1
+2020,25,12/12/2020,Athletico-PR,Atlético-MG,0,1
+2020,25,12/12/2020,Bragantino,Fortaleza,2,1
+2020,25,12/12/2020,Internacional,Botafogo,2,1
+2020,25,12/12/2020,Palmeiras,Bahia,3,0
+2020,25,12/12/2020,Ceará,Atlético-GO,1,2
+2020,25,12/12/2020,Goiás,Grêmio,0,0
+2020,25,13/12/2020,Flamengo,Santos,4,1
+2020,25,13/12/2020,Corinthians,São Paulo,1,0
+2020,25,13/12/2020,Sport,Coritiba,1,0
+2020,25,13/12/2020,Vasco da Gama,Fluminense,1,1
+2020,26,16/12/2020,Atlético-GO,Fluminense,2,1
+2020,26,16/12/2020,São Paulo,Atlético-MG,3,0
+2020,26,19/12/2020,Sport,Grêmio,1,1
+2020,26,19/12/2020,Fortaleza,Ceará,0,2
+2020,26,19/12/2020,Coritiba,Botafogo,1,2
+2020,26,19/12/2020,Internacional,Palmeiras,2,0
+2020,26,20/12/2020,Vasco da Gama,Santos,1,0
+2020,26,20/12/2020,Bragantino,Athletico-PR,0,1
+2020,26,20/12/2020,Flamengo,Bahia,4,3
+2020,26,21/12/2020,Corinthians,Goiás,2,1
+2020,27,26/12/2020,Atlético-MG,Coritiba,2,0
+2020,27,26/12/2020,Fortaleza,Flamengo,0,0
+2020,27,26/12/2020,Goiás,Sport,1,0
+2020,27,26/12/2020,Grêmio,Atlético-GO,2,1
+2020,27,26/12/2020,Fluminense,São Paulo,1,2
+2020,27,27/12/2020,Botafogo,Corinthians,0,2
+2020,27,27/12/2020,Bahia,Internacional,1,2
+2020,27,27/12/2020,Athletico-PR,Vasco da Gama,3,0
+2020,27,27/12/2020,Palmeiras,Bragantino,1,0
+2020,27,27/12/2020,Santos,Ceará,1,1
+2020,28,06/01/2021,Botafogo,Athletico-PR,0,2
+2020,28,06/01/2021,Grêmio,Bahia,2,1
+2020,28,06/01/2021,Sport,Fortaleza,1,0
+2020,28,06/01/2021,Coritiba,Goiás,1,2
+2020,28,06/01/2021,Flamengo,Fluminense,1,2
+2020,28,06/01/2021,Bragantino,São Paulo,4,2
+2020,28,07/01/2021,Ceará,Internacional,0,2
+2020,28,07/01/2021,Atlético-GO,Vasco da Gama,0,0
+2020,28,18/01/2021,Palmeiras,Corinthians,4,0
+2020,28,26/01/2021,Atlético-MG,Santos,2,0
+2020,29,09/01/2021,Sport,Palmeiras,0,1
+2020,29,09/01/2021,Coritiba,Athletico-PR,0,0
+2020,29,09/01/2021,Fortaleza,Grêmio,0,0
+2020,29,10/01/2021,Flamengo,Ceará,0,2
+2020,29,10/01/2021,São Paulo,Santos,0,1
+2020,29,10/01/2021,Internacional,Goiás,1,0
+2020,29,10/01/2021,Atlético-GO,Bahia,1,1
+2020,29,10/01/2021,Vasco da Gama,Botafogo,3,0
+2020,29,11/01/2021,Bragantino,Atlético-MG,2,2
+2020,29,13/01/2021,Corinthians,Fluminense,5,0
+2020,30,15/01/2021,Palmeiras,Grêmio,1,1
+2020,30,16/01/2021,Fluminense,Sport,1,0
+2020,30,16/01/2021,Vasco da Gama,Coritiba,0,1
+2020,30,17/01/2021,Santos,Botafogo,2,1
+2020,30,17/01/2021,Athletico-PR,São Paulo,1,1
+2020,30,17/01/2021,Atlético-MG,Atlético-GO,3,1
+2020,30,17/01/2021,Internacional,Fortaleza,4,2
+2020,30,17/01/2021,Ceará,Bragantino,1,2
+2020,30,18/01/2021,Goiás,Flamengo,0,3
+2020,30,28/01/2021,Bahia,Corinthians,2,1
+2020,31,20/01/2021,Botafogo,Atlético-GO,1,3
+2020,31,20/01/2021,Bahia,Athletico-PR,1,0
+2020,31,20/01/2021,Grêmio,Atlético-MG,1,1
+2020,31,20/01/2021,Coritiba,Fluminense,3,3
+2020,31,20/01/2021,São Paulo,Internacional,1,5
+2020,31,20/01/2021,Bragantino,Vasco da Gama,4,1
+2020,31,21/01/2021,Flamengo,Palmeiras,2,0
+2020,31,21/01/2021,Fortaleza,Santos,2,0
+2020,31,21/01/2021,Goiás,Ceará,0,4
+2020,31,21/01/2021,Corinthians,Sport,3,0
+2020,32,23/01/2021,São Paulo,Coritiba,1,1
+2020,32,23/01/2021,Vasco da Gama,Atlético-MG,3,2
+2020,32,24/01/2021,Internacional,Grêmio,2,1
+2020,32,24/01/2021,Athletico-PR,Flamengo,2,1
+2020,32,24/01/2021,Ceará,Palmeiras,2,1
+2020,32,24/01/2021,Sport,Bahia,2,0
+2020,32,24/01/2021,Atlético-GO,Fortaleza,2,0
+2020,32,24/01/2021,Santos,Goiás,3,4
+2020,32,24/01/2021,Fluminense,Botafogo,2,0
+2020,32,25/01/2021,Corinthians,Bragantino,0,2
+2020,33,31/01/2021,Vasco da Gama,Bahia,0,0
+2020,33,31/01/2021,Coritiba,Grêmio,1,1
+2020,33,31/01/2021,Atlético-GO,São Paulo,2,1
+2020,33,31/01/2021,Atlético-MG,Fortaleza,2,0
+2020,33,31/01/2021,Internacional,Bragantino,2,1
+2020,33,31/01/2021,Ceará,Athletico-PR,0,2
+2020,33,31/01/2021,Fluminense,Goiás,3,0
+2020,33,01/02/2021,Sport,Flamengo,0,3
+2020,33,02/02/2021,Palmeiras,Botafogo,1,1
+2020,33,17/02/2021,Santos,Corinthians,1,0
+2020,34,03/02/2021,Grêmio,Santos,3,3
+2020,34,03/02/2021,Bragantino,Atlético-GO,2,0
+2020,34,03/02/2021,Corinthians,Ceará,2,1
+2020,34,03/02/2021,Bahia,Fluminense,0,1
+2020,34,03/02/2021,Goiás,Atlético-MG,1,0
+2020,34,04/02/2021,Fortaleza,Coritiba,3,1
+2020,34,04/02/2021,Flamengo,Vasco da Gama,2,0
+2020,34,04/02/2021,Athletico-PR,Internacional,0,0
+2020,34,05/02/2021,Botafogo,Sport,0,1
+2020,34,19/02/2021,São Paulo,Palmeiras,1,1
+2020,35,06/02/2021,Bahia,Goiás,3,3
+2020,35,06/02/2021,Atlético-GO,Santos,1,1
+2020,35,07/02/2021,Bragantino,Flamengo,1,1
+2020,35,08/02/2021,Botafogo,Grêmio,2,5
+2020,35,10/02/2021,Internacional,Sport,1,2
+2020,35,10/02/2021,Fortaleza,Vasco da Gama,3,0
+2020,35,10/02/2021,São Paulo,Ceará,1,1
+2020,35,10/02/2021,Fluminense,Atlético-MG,0,0
+2020,35,10/02/2021,Corinthians,Athletico-PR,3,3
+2020,35,17/02/2021,Coritiba,Palmeiras,1,0
+2020,36,13/02/2021,Goiás,Botafogo,2,0
+2020,36,13/02/2021,Santos,Coritiba,2,0
+2020,36,13/02/2021,Atlético-MG,Bahia,1,1
+2020,36,14/02/2021,Flamengo,Corinthians,2,1
+2020,36,14/02/2021,Vasco da Gama,Internacional,0,2
+2020,36,14/02/2021,Palmeiras,Fortaleza,3,0
+2020,36,14/02/2021,Athletico-PR,Atlético-GO,2,1
+2020,36,14/02/2021,Grêmio,São Paulo,1,2
+2020,36,15/02/2021,Ceará,Fluminense,1,3
+2020,36,15/02/2021,Sport,Bragantino,0,0
+2020,37,20/02/2021,Coritiba,Ceará,0,2
+2020,37,21/02/2021,Fortaleza,Bahia,0,4
+2020,37,21/02/2021,Flamengo,Internacional,2,1
+2020,37,21/02/2021,Corinthians,Vasco da Gama,0,0
+2020,37,21/02/2021,Sport,Atlético-MG,2,3
+2020,37,21/02/2021,Santos,Fluminense,1,1
+2020,37,21/02/2021,Grêmio,Athletico-PR,1,0
+2020,37,21/02/2021,Goiás,Bragantino,0,0
+2020,37,22/02/2021,Palmeiras,Atlético-GO,1,1
+2020,37,22/02/2021,Botafogo,São Paulo,1,0
+2020,38,25/02/2021,São Paulo,Flamengo,2,1
+2020,38,25/02/2021,Fluminense,Fortaleza,2,0
+2020,38,25/02/2021,Vasco da Gama,Goiás,3,2
+2020,38,25/02/2021,Bragantino,Grêmio,1,0
+2020,38,25/02/2021,Atlético-MG,Palmeiras,2,0
+2020,38,25/02/2021,Internacional,Corinthians,0,0
+2020,38,25/02/2021,Bahia,Santos,2,0
+2020,38,25/02/2021,Athletico-PR,Sport,2,0
+2020,38,25/02/2021,Ceará,Botafogo,2,1
+2020,38,25/02/2021,Atlético-GO,Coritiba,3,1
+2021,1,29/05/2021,Cuiabá,Juventude,2,2
+2021,1,29/05/2021,Bahia,Santos,3,0
+2021,1,29/05/2021,São Paulo,Fluminense,0,0
+2021,1,30/05/2021,Atlético-MG,Fortaleza,1,2
+2021,1,30/05/2021,Flamengo,Palmeiras,1,0
+2021,1,30/05/2021,Ceará,Grêmio,3,2
+2021,1,30/05/2021,Chapecoense,Bragantino,0,3
+2021,1,30/05/2021,Corinthians,Atlético-GO,0,1
+2021,1,30/05/2021,Athletico-PR,América-MG,1,0
+2021,1,30/05/2021,Internacional,Sport,2,2
+2021,2,05/06/2021,Atlético-GO,São Paulo,2,0
+2021,2,05/06/2021,Bragantino,Bahia,3,3
+2021,2,05/06/2021,Santos,Ceará,3,1
+2021,2,06/06/2021,Fluminense,Cuiabá,1,0
+2021,2,06/06/2021,América-MG,Corinthians,0,1
+2021,2,06/06/2021,Fortaleza,Internacional,5,1
+2021,2,06/06/2021,Juventude,Athletico-PR,0,3
+2021,2,06/06/2021,Palmeiras,Chapecoense,3,1
+2021,2,06/06/2021,Sport,Atlético-MG,0,1
+2021,2,23/11/2021,Grêmio,Flamengo,2,2
+2021,3,12/06/2021,Palmeiras,Corinthians,1,1
+2021,3,12/06/2021,Santos,Juventude,0,0
+2021,3,13/06/2021,Atlético-MG,São Paulo,1,0
+2021,3,13/06/2021,Grêmio,Athletico-PR,0,1
+2021,3,13/06/2021,Flamengo,América-MG,2,0
+2021,3,13/06/2021,Bragantino,Fluminense,2,2
+2021,3,13/06/2021,Bahia,Internacional,0,1
+2021,3,13/06/2021,Fortaleza,Sport,1,0
+2021,3,13/06/2021,Chapecoense,Ceará,0,0
+2021,3,21/07/2021,Cuiabá,Atlético-GO,2,1
+2021,4,16/06/2021,São Paulo,Chapecoense,1,1
+2021,4,16/06/2021,Internacional,Atlético-MG,0,1
+2021,4,16/06/2021,Corinthians,Bragantino,1,2
+2021,4,16/06/2021,Juventude,Palmeiras,0,3
+2021,4,17/06/2021,América-MG,Cuiabá,0,0
+2021,4,17/06/2021,Ceará,Bahia,1,2
+2021,4,17/06/2021,Sport,Grêmio,1,0
+2021,4,17/06/2021,Fluminense,Santos,1,0
+2021,4,17/06/2021,Atlético-GO,Fortaleza,0,0
+2021,4,02/11/2021,Athletico-PR,Flamengo,2,2
+2021,5,19/06/2021,Flamengo,Bragantino,2,3
+2021,5,20/06/2021,Palmeiras,América-MG,2,1
+2021,5,20/06/2021,Internacional,Ceará,1,1
+2021,5,20/06/2021,Bahia,Corinthians,0,0
+2021,5,20/06/2021,Santos,São Paulo,2,0
+2021,5,20/06/2021,Athletico-PR,Atlético-GO,2,1
+2021,5,20/06/2021,Fortaleza,Fluminense,1,1
+2021,5,20/06/2021,Juventude,Sport,1,0
+2021,5,21/06/2021,Atlético-MG,Chapecoense,1,1
+2021,5,18/08/2021,Cuiabá,Grêmio,0,1
+2021,6,23/06/2021,Flamengo,Fortaleza,2,1
+2021,6,23/06/2021,Atlético-GO,Fluminense,1,0
+2021,6,23/06/2021,Bragantino,Palmeiras,3,1
+2021,6,23/06/2021,São Paulo,Cuiabá,2,2
+2021,6,24/06/2021,América-MG,Juventude,1,1
+2021,6,24/06/2021,Corinthians,Sport,2,1
+2021,6,24/06/2021,Ceará,Atlético-MG,2,1
+2021,6,24/06/2021,Chapecoense,Internacional,1,2
+2021,6,24/06/2021,Grêmio,Santos,2,2
+2021,6,24/06/2021,Bahia,Athletico-PR,2,1
+2021,7,27/06/2021,Juventude,Flamengo,1,0
+2021,7,27/06/2021,Fluminense,Corinthians,1,1
+2021,7,27/06/2021,Grêmio,Fortaleza,0,0
+2021,7,27/06/2021,Palmeiras,Bahia,3,2
+2021,7,27/06/2021,Athletico-PR,Chapecoense,2,2
+2021,7,27/06/2021,Santos,Atlético-MG,2,0
+2021,7,27/06/2021,Ceará,São Paulo,1,1
+2021,7,27/06/2021,Sport,Cuiabá,0,0
+2021,7,27/06/2021,América-MG,Internacional,1,1
+2021,7,28/06/2021,Atlético-GO,Bragantino,0,1
+2021,8,30/06/2021,Fortaleza,Chapecoense,3,2
+2021,8,30/06/2021,Fluminense,Athletico-PR,1,4
+2021,8,30/06/2021,Internacional,Palmeiras,1,2
+2021,8,30/06/2021,Bahia,América-MG,3,4
+2021,8,30/06/2021,Santos,Sport,0,0
+2021,8,30/06/2021,Juventude,Grêmio,2,0
+2021,8,30/06/2021,Corinthians,São Paulo,0,0
+2021,8,01/07/2021,Bragantino,Ceará,0,0
+2021,8,01/07/2021,Atlético-MG,Atlético-GO,4,1
+2021,8,01/07/2021,Cuiabá,Flamengo,0,2
+2021,9,03/07/2021,América-MG,Santos,2,0
+2021,9,03/07/2021,Athletico-PR,Fortaleza,2,1
+2021,9,03/07/2021,Corinthians,Internacional,1,1
+2021,9,04/07/2021,Chapecoense,Bahia,0,2
+2021,9,04/07/2021,Flamengo,Fluminense,0,1
+2021,9,04/07/2021,Sport,Palmeiras,0,1
+2021,9,04/07/2021,São Paulo,Bragantino,1,2
+2021,9,04/07/2021,Ceará,Juventude,2,0
+2021,9,04/07/2021,Cuiabá,Atlético-MG,0,1
+2021,9,04/07/2021,Grêmio,Atlético-GO,0,1
+2021,10,06/07/2021,Santos,Athletico-PR,2,1
+2021,10,07/07/2021,Fortaleza,América-MG,4,0
+2021,10,07/07/2021,Bahia,Juventude,1,0
+2021,10,07/07/2021,Bragantino,Cuiabá,1,1
+2021,10,07/07/2021,Palmeiras,Grêmio,2,0
+2021,10,07/07/2021,Atlético-MG,Flamengo,2,1
+2021,10,07/07/2021,Atlético-GO,Sport,1,1
+2021,10,07/07/2021,Fluminense,Ceará,0,0
+2021,10,07/07/2021,Internacional,São Paulo,0,2
+2021,10,08/07/2021,Chapecoense,Corinthians,0,1
+2021,11,10/07/2021,Palmeiras,Santos,3,2
+2021,11,10/07/2021,Grêmio,Internacional,0,0
+2021,11,10/07/2021,Athletico-PR,Bragantino,2,2
+2021,11,10/07/2021,São Paulo,Bahia,1,0
+2021,11,10/07/2021,América-MG,Atlético-MG,0,1
+2021,11,10/07/2021,Sport,Fluminense,1,2
+2021,11,11/07/2021,Juventude,Atlético-GO,1,1
+2021,11,11/07/2021,Flamengo,Chapecoense,2,1
+2021,11,11/07/2021,Cuiabá,Ceará,2,2
+2021,11,11/07/2021,Fortaleza,Corinthians,1,0
+2021,12,17/07/2021,São Paulo,Fortaleza,0,1
+2021,12,17/07/2021,Ceará,Athletico-PR,1,0
+2021,12,17/07/2021,Corinthians,Atlético-MG,1,2
+2021,12,17/07/2021,Fluminense,Grêmio,0,1
+2021,12,18/07/2021,Chapecoense,Cuiabá,2,3
+2021,12,18/07/2021,Atlético-GO,Palmeiras,0,3
+2021,12,18/07/2021,Bahia,Flamengo,0,5
+2021,12,18/07/2021,Internacional,Juventude,1,0
+2021,12,18/07/2021,Bragantino,Santos,2,2
+2021,12,19/07/2021,América-MG,Sport,0,1
+2021,13,24/07/2021,Grêmio,América-MG,1,1
+2021,13,24/07/2021,Palmeiras,Fluminense,1,0
+2021,13,25/07/2021,Atlético-MG,Bahia,3,0
+2021,13,25/07/2021,Flamengo,São Paulo,5,1
+2021,13,25/07/2021,Fortaleza,Bragantino,1,0
+2021,13,25/07/2021,Santos,Atlético-GO,0,1
+2021,13,25/07/2021,Athletico-PR,Internacional,2,1
+2021,13,25/07/2021,Sport,Ceará,0,0
+2021,13,26/07/2021,Juventude,Chapecoense,1,0
+2021,13,26/07/2021,Cuiabá,Corinthians,1,2
+2021,14,31/07/2021,São Paulo,Palmeiras,0,0
+2021,14,31/07/2021,Internacional,Cuiabá,0,0
+2021,14,31/07/2021,Bragantino,Grêmio,1,0
+2021,14,01/08/2021,Corinthians,Flamengo,1,3
+2021,14,01/08/2021,Atlético-MG,Athletico-PR,2,0
+2021,14,01/08/2021,Bahia,Sport,0,1
+2021,14,01/08/2021,Chapecoense,Santos,0,1
+2021,14,01/08/2021,Ceará,Fortaleza,3,1
+2021,14,01/08/2021,Atlético-GO,América-MG,1,1
+2021,14,02/09/2021,Fluminense,Juventude,1,1
+2021,15,06/08/2021,Sport,Bragantino,0,0
+2021,15,07/08/2021,Athletico-PR,São Paulo,1,2
+2021,15,07/08/2021,Palmeiras,Fortaleza,2,3
+2021,15,07/08/2021,Cuiabá,Bahia,1,1
+2021,15,08/08/2021,Santos,Corinthians,0,0
+2021,15,08/08/2021,América-MG,Fluminense,1,0
+2021,15,08/08/2021,Juventude,Atlético-MG,1,2
+2021,15,08/08/2021,Flamengo,Internacional,0,4
+2021,15,08/08/2021,Ceará,Atlético-GO,0,0
+2021,15,09/08/2021,Grêmio,Chapecoense,2,1
+2021,16,14/08/2021,Bragantino,Juventude,1,2
+2021,16,14/08/2021,Atlético-MG,Palmeiras,2,0
+2021,16,14/08/2021,São Paulo,Grêmio,2,1
+2021,16,15/08/2021,Flamengo,Sport,2,0
+2021,16,15/08/2021,Corinthians,Ceará,3,1
+2021,16,15/08/2021,Fortaleza,Santos,1,1
+2021,16,15/08/2021,Bahia,Atlético-GO,1,2
+2021,16,15/08/2021,Cuiabá,Athletico-PR,1,0
+2021,16,15/08/2021,Internacional,Fluminense,4,2
+2021,16,16/08/2021,Chapecoense,América-MG,1,1
+2021,17,21/08/2021,Atlético-GO,Chapecoense,1,1
+2021,17,21/08/2021,Grêmio,Bahia,2,0
+2021,17,21/08/2021,Juventude,Fortaleza,1,1
+2021,17,22/08/2021,Palmeiras,Cuiabá,0,2
+2021,17,22/08/2021,Ceará,Flamengo,1,1
+2021,17,22/08/2021,Athletico-PR,Corinthians,0,1
+2021,17,22/08/2021,Santos,Internacional,2,2
+2021,17,22/08/2021,Sport,São Paulo,0,1
+2021,17,23/08/2021,Fluminense,Atlético-MG,1,1
+2021,17,23/08/2021,América-MG,Bragantino,0,2
+2021,18,28/08/2021,Sport,Chapecoense,0,0
+2021,18,28/08/2021,Santos,Flamengo,0,4
+2021,18,28/08/2021,Palmeiras,Athletico-PR,2,1
+2021,18,28/08/2021,Grêmio,Corinthians,0,1
+2021,18,29/08/2021,América-MG,Ceará,2,0
+2021,18,29/08/2021,Juventude,São Paulo,1,1
+2021,18,29/08/2021,Atlético-GO,Internacional,0,0
+2021,18,29/08/2021,Bragantino,Atlético-MG,1,1
+2021,18,30/08/2021,Fluminense,Bahia,2,0
+2021,18,30/08/2021,Fortaleza,Cuiabá,0,0
+2021,19,04/09/2021,Bahia,Fortaleza,4,2
+2021,19,04/09/2021,Cuiabá,Santos,2,1
+2021,19,05/09/2021,Athletico-PR,Sport,0,0
+2021,19,07/09/2021,Corinthians,Juventude,1,1
+2021,19,07/09/2021,Chapecoense,Fluminense,1,2
+2021,19,22/09/2021,São Paulo,América-MG,0,0
+2021,19,20/10/2021,Ceará,Palmeiras,1,2
+2021,19,21/10/2021,Internacional,Bragantino,1,1
+2021,19,03/11/2021,Atlético-MG,Grêmio,2,1
+2021,19,05/11/2021,Flamengo,Atlético-GO,2,0
+2021,20,11/09/2021,América-MG,Athletico-PR,2,0
+2021,20,11/09/2021,Juventude,Cuiabá,1,2
+2021,20,11/09/2021,Bragantino,Chapecoense,1,2
+2021,20,11/09/2021,Santos,Bahia,0,0
+2021,20,12/09/2021,Grêmio,Ceará,2,0
+2021,20,12/09/2021,Palmeiras,Flamengo,1,3
+2021,20,12/09/2021,Fortaleza,Atlético-MG,0,2
+2021,20,12/09/2021,Atlético-GO,Corinthians,1,1
+2021,20,12/09/2021,Fluminense,São Paulo,2,1
+2021,20,13/09/2021,Sport,Internacional,0,1
+2021,21,18/09/2021,Chapecoense,Palmeiras,0,2
+2021,21,18/09/2021,Athletico-PR,Juventude,2,1
+2021,21,18/09/2021,Atlético-MG,Sport,3,0
+2021,21,18/09/2021,Ceará,Santos,0,0
+2021,21,18/09/2021,Bahia,Bragantino,1,1
+2021,21,19/09/2021,Internacional,Fortaleza,1,0
+2021,21,19/09/2021,São Paulo,Atlético-GO,2,1
+2021,21,19/09/2021,Corinthians,América-MG,1,1
+2021,21,19/09/2021,Flamengo,Grêmio,0,1
+2021,21,20/09/2021,Cuiabá,Fluminense,2,2
+2021,22,25/09/2021,Ceará,Chapecoense,1,0
+2021,22,25/09/2021,Corinthians,Palmeiras,2,1
+2021,22,25/09/2021,São Paulo,Atlético-MG,0,0
+2021,22,26/09/2021,América-MG,Flamengo,1,1
+2021,22,26/09/2021,Fluminense,Bragantino,2,1
+2021,22,26/09/2021,Internacional,Bahia,2,0
+2021,22,26/09/2021,Juventude,Santos,3,0
+2021,22,26/09/2021,Sport,Fortaleza,0,1
+2021,22,26/09/2021,Athletico-PR,Grêmio,4,2
+2021,22,26/09/2021,Atlético-GO,Cuiabá,0,0
+2021,23,02/10/2021,Fortaleza,Atlético-GO,0,3
+2021,23,02/10/2021,Cuiabá,América-MG,0,2
+2021,23,02/10/2021,Bragantino,Corinthians,2,2
+2021,23,02/10/2021,Atlético-MG,Internacional,1,0
+2021,23,03/10/2021,Flamengo,Athletico-PR,3,0
+2021,23,03/10/2021,Chapecoense,São Paulo,1,1
+2021,23,03/10/2021,Palmeiras,Juventude,1,1
+2021,23,03/10/2021,Grêmio,Sport,1,2
+2021,23,27/10/2021,Santos,Fluminense,2,0
+2021,23,27/10/2021,Bahia,Ceará,1,1
+2021,24,05/10/2021,Corinthians,Bahia,3,1
+2021,24,06/10/2021,Ceará,Internacional,0,0
+2021,24,06/10/2021,Sport,Juventude,3,1
+2021,24,06/10/2021,Chapecoense,Atlético-MG,2,2
+2021,24,06/10/2021,Atlético-GO,Athletico-PR,0,2
+2021,24,06/10/2021,Bragantino,Flamengo,1,1
+2021,24,06/10/2021,Fluminense,Fortaleza,0,2
+2021,24,06/10/2021,América-MG,Palmeiras,2,1
+2021,24,06/10/2021,Grêmio,Cuiabá,2,2
+2021,24,07/10/2021,São Paulo,Santos,1,1
+2021,25,09/10/2021,Fluminense,Atlético-GO,0,0
+2021,25,09/10/2021,Atlético-MG,Ceará,3,1
+2021,25,09/10/2021,Sport,Corinthians,1,0
+2021,25,09/10/2021,Fortaleza,Flamengo,0,3
+2021,25,09/10/2021,Athletico-PR,Bahia,0,2
+2021,25,09/10/2021,Palmeiras,Bragantino,2,4
+2021,25,09/10/2021,Juventude,América-MG,1,1
+2021,25,10/10/2021,Internacional,Chapecoense,5,2
+2021,25,10/10/2021,Santos,Grêmio,1,0
+2021,25,11/10/2021,Cuiabá,São Paulo,0,0
+2021,26,12/10/2021,Bragantino,Atlético-GO,1,0
+2021,26,12/10/2021,Bahia,Palmeiras,0,0
+2021,26,13/10/2021,Flamengo,Juventude,3,1
+2021,26,13/10/2021,Atlético-MG,Santos,3,1
+2021,26,13/10/2021,Chapecoense,Athletico-PR,1,1
+2021,26,13/10/2021,Fortaleza,Grêmio,1,0
+2021,26,13/10/2021,Corinthians,Fluminense,1,0
+2021,26,13/10/2021,Internacional,América-MG,3,1
+2021,26,14/10/2021,São Paulo,Ceará,1,1
+2021,26,14/10/2021,Cuiabá,Sport,1,0
+2021,27,16/10/2021,Chapecoense,Fortaleza,1,2
+2021,27,16/10/2021,América-MG,Bahia,0,0
+2021,27,17/10/2021,Palmeiras,Internacional,1,0
+2021,27,17/10/2021,Athletico-PR,Fluminense,0,1
+2021,27,17/10/2021,Grêmio,Juventude,3,2
+2021,27,17/10/2021,Ceará,Bragantino,2,2
+2021,27,17/10/2021,Atlético-GO,Atlético-MG,2,1
+2021,27,17/10/2021,Flamengo,Cuiabá,0,0
+2021,27,17/10/2021,Sport,Santos,0,0
+2021,27,18/10/2021,São Paulo,Corinthians,1,0
+2021,28,23/10/2021,Santos,América-MG,0,2
+2021,28,23/10/2021,Juventude,Ceará,0,0
+2021,28,23/10/2021,Fluminense,Flamengo,3,1
+2021,28,23/10/2021,Fortaleza,Athletico-PR,3,0
+2021,28,24/10/2021,Atlético-MG,Cuiabá,2,1
+2021,28,24/10/2021,Internacional,Corinthians,2,2
+2021,28,24/10/2021,Bragantino,São Paulo,1,0
+2021,28,24/10/2021,Bahia,Chapecoense,3,0
+2021,28,25/10/2021,Atlético-GO,Grêmio,2,0
+2021,28,25/10/2021,Palmeiras,Sport,2,1
+2021,29,30/10/2021,Athletico-PR,Santos,0,1
+2021,29,30/10/2021,Flamengo,Atlético-MG,1,0
+2021,29,30/10/2021,Juventude,Bahia,0,0
+2021,29,30/10/2021,América-MG,Fortaleza,2,1
+2021,29,31/10/2021,Grêmio,Palmeiras,1,3
+2021,29,31/10/2021,Ceará,Fluminense,1,0
+2021,29,31/10/2021,São Paulo,Internacional,1,0
+2021,29,31/10/2021,Sport,Atlético-GO,2,0
+2021,29,01/11/2021,Cuiabá,Bragantino,1,0
+2021,29,01/11/2021,Corinthians,Chapecoense,1,0
+2021,30,06/11/2021,Corinthians,Fortaleza,1,0
+2021,30,06/11/2021,Internacional,Grêmio,1,0
+2021,30,06/11/2021,Fluminense,Sport,1,0
+2021,30,07/11/2021,Santos,Palmeiras,0,2
+2021,30,07/11/2021,Atlético-MG,América-MG,1,0
+2021,30,07/11/2021,Bragantino,Athletico-PR,0,2
+2021,30,07/11/2021,Bahia,São Paulo,1,0
+2021,30,07/11/2021,Ceará,Cuiabá,1,0
+2021,30,08/11/2021,Chapecoense,Flamengo,2,2
+2021,30,23/11/2021,Atlético-GO,Juventude,1,1
+2021,31,04/11/2021,Cuiabá,Chapecoense,0,0
+2021,31,09/11/2021,Grêmio,Fluminense,1,0
+2021,31,10/11/2021,Athletico-PR,Ceará,2,1
+2021,31,10/11/2021,Santos,Bragantino,2,0
+2021,31,10/11/2021,Atlético-MG,Corinthians,3,0
+2021,31,10/11/2021,Palmeiras,Atlético-GO,4,0
+2021,31,10/11/2021,Fortaleza,São Paulo,1,1
+2021,31,10/11/2021,Sport,América-MG,2,3
+2021,31,10/11/2021,Juventude,Internacional,2,1
+2021,31,11/11/2021,Flamengo,Bahia,3,0
+2021,32,13/11/2021,Atlético-GO,Santos,0,0
+2021,32,13/11/2021,América-MG,Grêmio,3,1
+2021,32,13/11/2021,Internacional,Athletico-PR,2,1
+2021,32,13/11/2021,Bragantino,Fortaleza,3,0
+2021,32,13/11/2021,Corinthians,Cuiabá,3,2
+2021,32,14/11/2021,São Paulo,Flamengo,0,4
+2021,32,14/11/2021,Fluminense,Palmeiras,2,1
+2021,32,14/11/2021,Ceará,Sport,2,1
+2021,32,14/11/2021,Chapecoense,Juventude,0,2
+2021,32,02/12/2021,Bahia,Atlético-MG,2,3
+2021,33,16/11/2021,Athletico-PR,Atlético-MG,0,1
+2021,33,16/11/2021,Grêmio,Bragantino,3,0
+2021,33,17/11/2021,Santos,Chapecoense,2,0
+2021,33,17/11/2021,América-MG,Atlético-GO,0,0
+2021,33,17/11/2021,Cuiabá,Internacional,1,0
+2021,33,17/11/2021,Fortaleza,Ceará,0,4
+2021,33,17/11/2021,Palmeiras,São Paulo,0,2
+2021,33,17/11/2021,Juventude,Fluminense,1,0
+2021,33,17/11/2021,Flamengo,Corinthians,1,0
+2021,33,18/11/2021,Sport,Bahia,1,0
+2021,34,28/10/2021,Bragantino,Sport,3,0
+2021,34,20/11/2021,Atlético-MG,Juventude,2,0
+2021,34,20/11/2021,Fortaleza,Palmeiras,1,0
+2021,34,20/11/2021,Chapecoense,Grêmio,1,3
+2021,34,20/11/2021,Atlético-GO,Ceará,1,1
+2021,34,20/11/2021,Internacional,Flamengo,1,2
+2021,34,21/11/2021,Corinthians,Santos,2,0
+2021,34,21/11/2021,Fluminense,América-MG,2,0
+2021,34,21/11/2021,Bahia,Cuiabá,0,0
+2021,34,24/11/2021,São Paulo,Athletico-PR,0,0
+2021,35,23/11/2021,Palmeiras,Atlético-MG,2,2
+2021,35,24/11/2021,Fluminense,Internacional,1,0
+2021,35,25/11/2021,Santos,Fortaleza,2,0
+2021,35,25/11/2021,Ceará,Corinthians,2,1
+2021,35,29/11/2021,Atlético-GO,Bahia,2,1
+2021,35,30/11/2021,Juventude,Bragantino,1,0
+2021,35,30/11/2021,América-MG,Chapecoense,3,0
+2021,35,02/12/2021,Grêmio,São Paulo,3,0
+2021,35,03/12/2021,Athletico-PR,Cuiabá,1,0
+2021,35,03/12/2021,Sport,Flamengo,1,1
+2021,36,26/11/2021,Bahia,Grêmio,3,1
+2021,36,27/11/2021,Bragantino,América-MG,1,1
+2021,36,27/11/2021,São Paulo,Sport,2,0
+2021,36,28/11/2021,Corinthians,Athletico-PR,1,0
+2021,36,28/11/2021,Atlético-MG,Fluminense,2,1
+2021,36,28/11/2021,Internacional,Santos,1,1
+2021,36,30/11/2021,Flamengo,Ceará,2,1
+2021,36,30/11/2021,Cuiabá,Palmeiras,1,3
+2021,36,03/12/2021,Chapecoense,Atlético-GO,0,1
+2021,36,03/12/2021,Fortaleza,Juventude,1,0
+2021,37,05/12/2021,Corinthians,Grêmio,1,1
+2021,37,05/12/2021,Atlético-MG,Bragantino,4,3
+2021,37,05/12/2021,Bahia,Fluminense,2,0
+2021,37,05/12/2021,Ceará,América-MG,0,0
+2021,37,06/12/2021,São Paulo,Juventude,3,1
+2021,37,06/12/2021,Athletico-PR,Palmeiras,0,0
+2021,37,06/12/2021,Flamengo,Santos,0,1
+2021,37,06/12/2021,Internacional,Atlético-GO,1,2
+2021,37,06/12/2021,Cuiabá,Fortaleza,1,0
+2021,37,06/12/2021,Chapecoense,Sport,0,1
+2021,38,09/12/2021,Fluminense,Chapecoense,3,0
+2021,38,09/12/2021,Palmeiras,Ceará,1,0
+2021,38,09/12/2021,Santos,Cuiabá,1,1
+2021,38,09/12/2021,América-MG,São Paulo,2,0
+2021,38,09/12/2021,Grêmio,Atlético-MG,4,3
+2021,38,09/12/2021,Fortaleza,Bahia,2,1
+2021,38,09/12/2021,Sport,Athletico-PR,1,1
+2021,38,09/12/2021,Bragantino,Internacional,1,0
+2021,38,09/12/2021,Juventude,Corinthians,1,0
+2021,38,09/12/2021,Atlético-GO,Flamengo,2,0
+2022,1,09/04/2022,Fluminense,Santos,0,0
+2022,1,09/04/2022,Atlético-GO,Flamengo,1,1
+2022,1,09/04/2022,Palmeiras,Ceará,2,3
+2022,1,10/04/2022,Coritiba,Goiás,3,0
+2022,1,10/04/2022,Atlético-MG,Internacional,2,0
+2022,1,10/04/2022,Botafogo,Corinthians,1,3
+2022,1,10/04/2022,Fortaleza,Cuiabá,0,1
+2022,1,10/04/2022,São Paulo,Athletico-PR,4,0
+2022,1,10/04/2022,Avaí,América-MG,1,0
+2022,1,11/04/2022,Juventude,Bragantino,2,2
+2022,2,16/04/2022,Goiás,Palmeiras,1,1
+2022,2,16/04/2022,América-MG,Juventude,4,1
+2022,2,16/04/2022,Corinthians,Avaí,3,0
+2022,2,16/04/2022,Cuiabá,Fluminense,0,1
+2022,2,17/04/2022,Santos,Coritiba,2,1
+2022,2,17/04/2022,Flamengo,São Paulo,3,1
+2022,2,17/04/2022,Bragantino,Atlético-GO,4,0
+2022,2,17/04/2022,Internacional,Fortaleza,2,1
+2022,2,17/04/2022,Athletico-PR,Atlético-MG,0,1
+2022,2,17/04/2022,Ceará,Botafogo,1,3
+2022,3,23/04/2022,Bragantino,São Paulo,1,1
+2022,3,23/04/2022,Athletico-PR,Flamengo,1,0
+2022,3,23/04/2022,Fluminense,Internacional,0,1
+2022,3,23/04/2022,Palmeiras,Corinthians,3,0
+2022,3,23/04/2022,Atlético-MG,Coritiba,2,2
+2022,3,24/04/2022,Santos,América-MG,3,0
+2022,3,24/04/2022,Juventude,Cuiabá,0,1
+2022,3,24/04/2022,Atlético-GO,Botafogo,1,1
+2022,3,25/04/2022,Avaí,Goiás,3,2
+2022,3,01/06/2022,Fortaleza,Ceará,0,1
+2022,4,20/04/2022,Flamengo,Palmeiras,0,0
+2022,4,30/04/2022,América-MG,Athletico-PR,1,0
+2022,4,30/04/2022,Ceará,Bragantino,0,1
+2022,4,30/04/2022,Goiás,Atlético-MG,2,2
+2022,4,30/04/2022,Cuiabá,Atlético-GO,1,1
+2022,4,01/05/2022,Botafogo,Juventude,1,1
+2022,4,01/05/2022,Corinthians,Fortaleza,1,0
+2022,4,01/05/2022,Coritiba,Fluminense,3,2
+2022,4,01/05/2022,Internacional,Avaí,0,0
+2022,4,02/05/2022,São Paulo,Santos,2,1
+2022,5,07/05/2022,Atlético-MG,América-MG,1,2
+2022,5,07/05/2022,Athletico-PR,Ceará,1,0
+2022,5,08/05/2022,Flamengo,Botafogo,0,1
+2022,5,08/05/2022,Palmeiras,Fluminense,1,1
+2022,5,08/05/2022,Atlético-GO,Goiás,0,1
+2022,5,08/05/2022,Bragantino,Corinthians,0,1
+2022,5,08/05/2022,Santos,Cuiabá,4,1
+2022,5,08/05/2022,Juventude,Internacional,1,1
+2022,5,08/05/2022,Fortaleza,São Paulo,1,1
+2022,5,09/05/2022,Avaí,Coritiba,2,1
+2022,6,14/05/2022,Palmeiras,Bragantino,2,0
+2022,6,14/05/2022,Ceará,Flamengo,2,2
+2022,6,14/05/2022,Atlético-MG,Atlético-GO,2,0
+2022,6,14/05/2022,Internacional,Corinthians,2,2
+2022,6,14/05/2022,Fluminense,Athletico-PR,2,1
+2022,6,15/05/2022,São Paulo,Cuiabá,2,1
+2022,6,15/05/2022,Coritiba,América-MG,1,0
+2022,6,15/05/2022,Botafogo,Fortaleza,3,1
+2022,6,15/05/2022,Avaí,Juventude,1,2
+2022,6,15/05/2022,Goiás,Santos,1,0
+2022,7,11/05/2022,Bragantino,Atlético-MG,1,1
+2022,7,21/05/2022,Flamengo,Goiás,1,0
+2022,7,21/05/2022,Atlético-GO,Coritiba,2,0
+2022,7,21/05/2022,Santos,Ceará,0,0
+2022,7,21/05/2022,Juventude,Palmeiras,0,3
+2022,7,21/05/2022,América-MG,Botafogo,1,1
+2022,7,21/05/2022,Cuiabá,Internacional,1,1
+2022,7,22/05/2022,Corinthians,São Paulo,1,1
+2022,7,22/05/2022,Fortaleza,Fluminense,0,1
+2022,7,22/05/2022,Athletico-PR,Avaí,2,1
+2022,8,28/05/2022,Goiás,Bragantino,1,1
+2022,8,28/05/2022,São Paulo,Ceará,2,2
+2022,8,28/05/2022,Fortaleza,Juventude,1,1
+2022,8,29/05/2022,Santos,Palmeiras,0,1
+2022,8,29/05/2022,Coritiba,Botafogo,1,0
+2022,8,29/05/2022,Fluminense,Flamengo,1,2
+2022,8,29/05/2022,Corinthians,América-MG,1,1
+2022,8,29/05/2022,Cuiabá,Athletico-PR,0,1
+2022,8,29/05/2022,Atlético-MG,Avaí,2,1
+2022,8,30/05/2022,Internacional,Atlético-GO,1,1
+2022,9,04/06/2022,América-MG,Cuiabá,2,1
+2022,9,04/06/2022,Ceará,Coritiba,1,1
+2022,9,04/06/2022,Avaí,São Paulo,1,1
+2022,9,04/06/2022,Athletico-PR,Santos,2,2
+2022,9,04/06/2022,Atlético-GO,Corinthians,0,1
+2022,9,05/06/2022,Juventude,Fluminense,1,0
+2022,9,05/06/2022,Flamengo,Fortaleza,1,2
+2022,9,05/06/2022,Palmeiras,Atlético-MG,0,0
+2022,9,05/06/2022,Bragantino,Internacional,0,2
+2022,9,06/06/2022,Botafogo,Goiás,1,2
+2022,10,07/06/2022,Cuiabá,Corinthians,1,0
+2022,10,08/06/2022,América-MG,Ceará,0,2
+2022,10,08/06/2022,Juventude,Athletico-PR,1,3
+2022,10,08/06/2022,Bragantino,Flamengo,1,0
+2022,10,08/06/2022,Atlético-GO,Avaí,2,1
+2022,10,08/06/2022,Fluminense,Atlético-MG,5,3
+2022,10,08/06/2022,Santos,Internacional,1,1
+2022,10,09/06/2022,Palmeiras,Botafogo,4,0
+2022,10,09/06/2022,Fortaleza,Goiás,1,1
+2022,10,09/06/2022,Coritiba,São Paulo,1,1
+2022,11,11/06/2022,Corinthians,Juventude,2,0
+2022,11,11/06/2022,Atlético-MG,Santos,1,1
+2022,11,11/06/2022,Fluminense,Atlético-GO,0,2
+2022,11,11/06/2022,Cuiabá,Bragantino,1,1
+2022,11,11/06/2022,Internacional,Flamengo,3,1
+2022,11,12/06/2022,São Paulo,América-MG,1,0
+2022,11,12/06/2022,Goiás,Ceará,1,1
+2022,11,12/06/2022,Coritiba,Palmeiras,0,2
+2022,11,12/06/2022,Fortaleza,Athletico-PR,0,0
+2022,11,13/06/2022,Botafogo,Avaí,0,1
+2022,12,14/06/2022,Juventude,Santos,1,2
+2022,12,15/06/2022,Bragantino,Coritiba,4,2
+2022,12,15/06/2022,Ceará,Atlético-MG,0,0
+2022,12,15/06/2022,Flamengo,Cuiabá,2,0
+2022,12,15/06/2022,Goiás,Internacional,1,2
+2022,12,15/06/2022,América-MG,Fluminense,0,0
+2022,12,15/06/2022,Athletico-PR,Corinthians,1,1
+2022,12,16/06/2022,Botafogo,São Paulo,1,0
+2022,12,16/06/2022,Palmeiras,Atlético-GO,4,2
+2022,12,16/06/2022,Avaí,Fortaleza,3,2
+2022,13,18/06/2022,Fluminense,Avaí,2,0
+2022,13,18/06/2022,São Paulo,Palmeiras,1,2
+2022,13,18/06/2022,Corinthians,Goiás,1,0
+2022,13,18/06/2022,Internacional,Botafogo,2,3
+2022,13,18/06/2022,Fortaleza,América-MG,1,0
+2022,13,18/06/2022,Cuiabá,Ceará,0,0
+2022,13,18/06/2022,Santos,Bragantino,2,2
+2022,13,19/06/2022,Atlético-MG,Flamengo,2,0
+2022,13,19/06/2022,Coritiba,Athletico-PR,0,1
+2022,13,19/06/2022,Atlético-GO,Juventude,3,1
+2022,14,24/06/2022,Internacional,Coritiba,3,0
+2022,14,25/06/2022,Athletico-PR,Bragantino,4,2
+2022,14,25/06/2022,Flamengo,América-MG,3,0
+2022,14,25/06/2022,São Paulo,Juventude,0,0
+2022,14,25/06/2022,Corinthians,Santos,0,0
+2022,14,25/06/2022,Botafogo,Fluminense,0,1
+2022,14,25/06/2022,Avaí,Palmeiras,2,2
+2022,14,25/06/2022,Atlético-MG,Fortaleza,3,2
+2022,14,26/06/2022,Ceará,Atlético-GO,1,1
+2022,14,26/06/2022,Goiás,Cuiabá,1,0
+2022,15,02/07/2022,Juventude,Atlético-MG,1,2
+2022,15,02/07/2022,Fluminense,Corinthians,4,0
+2022,15,02/07/2022,Bragantino,Botafogo,0,1
+2022,15,02/07/2022,Santos,Flamengo,1,2
+2022,15,02/07/2022,Ceará,Internacional,1,1
+2022,15,02/07/2022,Avaí,Cuiabá,1,2
+2022,15,02/07/2022,Coritiba,Fortaleza,2,1
+2022,15,02/07/2022,Palmeiras,Athletico-PR,0,2
+2022,15,03/07/2022,Atlético-GO,São Paulo,1,2
+2022,15,03/07/2022,América-MG,Goiás,1,0
+2022,16,09/07/2022,Bragantino,Avaí,4,0
+2022,16,09/07/2022,Fluminense,Ceará,2,1
+2022,16,09/07/2022,Goiás,Athletico-PR,2,1
+2022,16,10/07/2022,Coritiba,Juventude,2,2
+2022,16,10/07/2022,Corinthians,Flamengo,1,0
+2022,16,10/07/2022,Atlético-MG,São Paulo,0,0
+2022,16,10/07/2022,Santos,Atlético-GO,1,0
+2022,16,10/07/2022,Fortaleza,Palmeiras,0,0
+2022,16,10/07/2022,Cuiabá,Botafogo,2,0
+2022,16,11/07/2022,Internacional,América-MG,1,0
+2022,17,16/07/2022,Athletico-PR,Internacional,0,0
+2022,17,16/07/2022,Flamengo,Coritiba,2,0
+2022,17,16/07/2022,Avaí,Santos,1,0
+2022,17,16/07/2022,Ceará,Corinthians,3,1
+2022,17,17/07/2022,Juventude,Goiás,0,0
+2022,17,17/07/2022,São Paulo,Fluminense,2,2
+2022,17,17/07/2022,Botafogo,Atlético-MG,0,1
+2022,17,17/07/2022,Atlético-GO,Fortaleza,0,1
+2022,17,17/07/2022,América-MG,Bragantino,0,3
+2022,17,18/07/2022,Palmeiras,Cuiabá,1,0
+2022,18,19/07/2022,Ceará,Avaí,1,0
+2022,18,20/07/2022,Bragantino,Fortaleza,2,1
+2022,18,20/07/2022,Goiás,Fluminense,2,3
+2022,18,20/07/2022,Athletico-PR,Atlético-GO,4,1
+2022,18,20/07/2022,Flamengo,Juventude,4,0
+2022,18,20/07/2022,Internacional,São Paulo,3,3
+2022,18,20/07/2022,Corinthians,Coritiba,3,1
+2022,18,20/07/2022,Santos,Botafogo,2,0
+2022,18,21/07/2022,Cuiabá,Atlético-MG,1,1
+2022,18,21/07/2022,América-MG,Palmeiras,0,1
+2022,19,23/07/2022,São Paulo,Goiás,3,3
+2022,19,23/07/2022,Fortaleza,Santos,0,0
+2022,19,23/07/2022,Botafogo,Athletico-PR,2,0
+2022,19,24/07/2022,Avaí,Flamengo,1,2
+2022,19,24/07/2022,Fluminense,Bragantino,2,1
+2022,19,24/07/2022,Palmeiras,Internacional,2,1
+2022,19,24/07/2022,Juventude,Ceará,1,0
+2022,19,24/07/2022,Atlético-MG,Corinthians,1,2
+2022,19,24/07/2022,Atlético-GO,América-MG,0,1
+2022,19,25/07/2022,Coritiba,Cuiabá,1,0
+2022,20,30/07/2022,Ceará,Palmeiras,1,2
+2022,20,30/07/2022,Goiás,Coritiba,1,0
+2022,20,30/07/2022,Corinthians,Botafogo,1,0
+2022,20,30/07/2022,Flamengo,Atlético-GO,4,1
+2022,20,31/07/2022,Internacional,Atlético-MG,3,0
+2022,20,31/07/2022,Athletico-PR,São Paulo,1,0
+2022,20,31/07/2022,América-MG,Avaí,3,1
+2022,20,31/07/2022,Cuiabá,Fortaleza,0,1
+2022,20,31/07/2022,Bragantino,Juventude,1,0
+2022,20,01/08/2022,Santos,Fluminense,2,2
+2022,21,06/08/2022,Botafogo,Ceará,1,1
+2022,21,06/08/2022,Juventude,América-MG,0,1
+2022,21,06/08/2022,Fortaleza,Internacional,3,0
+2022,21,06/08/2022,Atlético-GO,Bragantino,2,1
+2022,21,06/08/2022,Avaí,Corinthians,1,1
+2022,21,06/08/2022,São Paulo,Flamengo,0,2
+2022,21,07/08/2022,Fluminense,Cuiabá,1,0
+2022,21,07/08/2022,Palmeiras,Goiás,3,0
+2022,21,07/08/2022,Atlético-MG,Athletico-PR,2,3
+2022,21,08/08/2022,Coritiba,Santos,1,2
+2022,22,13/08/2022,Goiás,Avaí,1,1
+2022,22,13/08/2022,América-MG,Santos,1,0
+2022,22,13/08/2022,Corinthians,Palmeiras,0,1
+2022,22,13/08/2022,Cuiabá,Juventude,1,0
+2022,22,13/08/2022,Botafogo,Atlético-GO,0,0
+2022,22,14/08/2022,Coritiba,Atlético-MG,0,1
+2022,22,14/08/2022,Flamengo,Athletico-PR,5,0
+2022,22,14/08/2022,São Paulo,Bragantino,3,0
+2022,22,14/08/2022,Ceará,Fortaleza,0,1
+2022,22,14/08/2022,Internacional,Fluminense,3,0
+2022,23,20/08/2022,Atlético-MG,Goiás,0,1
+2022,23,20/08/2022,Fluminense,Coritiba,5,2
+2022,23,21/08/2022,Juventude,Botafogo,2,2
+2022,23,21/08/2022,Palmeiras,Flamengo,1,1
+2022,23,21/08/2022,Bragantino,Ceará,1,1
+2022,23,21/08/2022,Santos,São Paulo,1,0
+2022,23,21/08/2022,Fortaleza,Corinthians,1,0
+2022,23,21/08/2022,Atlético-GO,Cuiabá,1,1
+2022,23,21/08/2022,Athletico-PR,América-MG,1,1
+2022,23,22/08/2022,Avaí,Internacional,0,1
+2022,24,27/08/2022,Goiás,Atlético-GO,2,1
+2022,24,27/08/2022,Coritiba,Avaí,1,0
+2022,24,27/08/2022,Fluminense,Palmeiras,1,1
+2022,24,27/08/2022,São Paulo,Fortaleza,0,1
+2022,24,27/08/2022,Ceará,Athletico-PR,0,0
+2022,24,28/08/2022,América-MG,Atlético-MG,1,1
+2022,24,28/08/2022,Botafogo,Flamengo,0,1
+2022,24,28/08/2022,Cuiabá,Santos,0,0
+2022,24,29/08/2022,Internacional,Juventude,4,0
+2022,24,29/08/2022,Corinthians,Bragantino,1,0
+2022,25,03/09/2022,Juventude,Avaí,1,1
+2022,25,03/09/2022,Bragantino,Palmeiras,2,2
+2022,25,03/09/2022,Athletico-PR,Fluminense,1,0
+2022,25,03/09/2022,América-MG,Coritiba,2,0
+2022,25,04/09/2022,Flamengo,Ceará,1,1
+2022,25,04/09/2022,Corinthians,Internacional,2,2
+2022,25,04/09/2022,Fortaleza,Botafogo,1,3
+2022,25,04/09/2022,Atlético-GO,Atlético-MG,0,2
+2022,25,04/09/2022,Cuiabá,São Paulo,1,1
+2022,25,05/09/2022,Santos,Goiás,1,2
+2022,26,10/09/2022,Internacional,Cuiabá,1,0
+2022,26,10/09/2022,Ceará,Santos,2,1
+2022,26,10/09/2022,Atlético-MG,Bragantino,1,1
+2022,26,10/09/2022,Fluminense,Fortaleza,2,1
+2022,26,10/09/2022,Goiás,Flamengo,1,1
+2022,26,10/09/2022,Palmeiras,Juventude,2,1
+2022,26,11/09/2022,Botafogo,América-MG,0,0
+2022,26,11/09/2022,Avaí,Athletico-PR,1,1
+2022,26,11/09/2022,São Paulo,Corinthians,1,1
+2022,26,11/09/2022,Coritiba,Atlético-GO,2,0
+2022,27,17/09/2022,Avaí,Atlético-MG,1,0
+2022,27,17/09/2022,Botafogo,Coritiba,2,0
+2022,27,18/09/2022,Bragantino,Goiás,1,1
+2022,27,18/09/2022,Flamengo,Fluminense,1,2
+2022,27,18/09/2022,Ceará,São Paulo,0,2
+2022,27,18/09/2022,América-MG,Corinthians,1,0
+2022,27,18/09/2022,Juventude,Fortaleza,1,1
+2022,27,18/09/2022,Palmeiras,Santos,1,0
+2022,27,18/09/2022,Athletico-PR,Cuiabá,2,2
+2022,27,19/09/2022,Atlético-GO,Internacional,1,2
+2022,28,25/09/2022,São Paulo,Avaí,4,0
+2022,28,27/09/2022,Santos,Athletico-PR,2,0
+2022,28,28/09/2022,Fluminense,Juventude,4,0
+2022,28,28/09/2022,Corinthians,Atlético-GO,2,1
+2022,28,28/09/2022,Internacional,Bragantino,0,0
+2022,28,28/09/2022,Fortaleza,Flamengo,3,2
+2022,28,28/09/2022,Cuiabá,América-MG,2,1
+2022,28,28/09/2022,Atlético-MG,Palmeiras,0,1
+2022,28,28/09/2022,Goiás,Botafogo,0,1
+2022,28,28/09/2022,Coritiba,Ceará,1,0
+2022,29,01/10/2022,Atlético-MG,Fluminense,2,0
+2022,29,01/10/2022,Internacional,Santos,1,0
+2022,29,01/10/2022,Flamengo,Bragantino,4,1
+2022,29,01/10/2022,Ceará,América-MG,1,2
+2022,29,01/10/2022,Goiás,Fortaleza,0,1
+2022,29,01/10/2022,Avaí,Atlético-GO,1,2
+2022,29,01/10/2022,Athletico-PR,Juventude,2,0
+2022,29,01/10/2022,Corinthians,Cuiabá,2,0
+2022,29,03/10/2022,Botafogo,Palmeiras,1,3
+2022,29,20/10/2022,São Paulo,Coritiba,3,1
+2022,30,04/10/2022,Juventude,Corinthians,2,2
+2022,30,05/10/2022,Bragantino,Cuiabá,2,1
+2022,30,05/10/2022,Ceará,Goiás,1,1
+2022,30,05/10/2022,Atlético-GO,Fluminense,3,2
+2022,30,05/10/2022,Athletico-PR,Fortaleza,1,1
+2022,30,05/10/2022,Flamengo,Internacional,0,0
+2022,30,05/10/2022,Santos,Atlético-MG,1,2
+2022,30,06/10/2022,Palmeiras,Coritiba,4,0
+2022,30,06/10/2022,Avaí,Botafogo,1,2
+2022,30,06/10/2022,América-MG,São Paulo,1,2
+2022,31,08/10/2022,Cuiabá,Flamengo,1,2
+2022,31,08/10/2022,Corinthians,Athletico-PR,2,1
+2022,31,09/10/2022,Internacional,Goiás,4,2
+2022,31,09/10/2022,São Paulo,Botafogo,0,1
+2022,31,09/10/2022,Fortaleza,Avaí,2,0
+2022,31,09/10/2022,Atlético-MG,Ceará,0,0
+2022,31,09/10/2022,Fluminense,América-MG,0,2
+2022,31,09/10/2022,Coritiba,Bragantino,2,1
+2022,31,10/10/2022,Atlético-GO,Palmeiras,1,1
+2022,31,10/10/2022,Santos,Juventude,4,1
+2022,32,15/10/2022,América-MG,Fortaleza,1,2
+2022,32,15/10/2022,Flamengo,Atlético-MG,1,0
+2022,32,16/10/2022,Palmeiras,São Paulo,0,0
+2022,32,16/10/2022,Ceará,Cuiabá,1,1
+2022,32,16/10/2022,Botafogo,Internacional,0,1
+2022,32,16/10/2022,Juventude,Atlético-GO,1,1
+2022,32,16/10/2022,Athletico-PR,Coritiba,1,0
+2022,32,16/10/2022,Avaí,Fluminense,0,3
+2022,32,17/10/2022,Bragantino,Santos,0,2
+2022,32,29/10/2022,Goiás,Corinthians,0,0
+2022,33,22/10/2022,Bragantino,Athletico-PR,4,2
+2022,33,22/10/2022,América-MG,Flamengo,1,2
+2022,33,22/10/2022,Santos,Corinthians,0,1
+2022,33,22/10/2022,Palmeiras,Avaí,3,0
+2022,33,23/10/2022,Fluminense,Botafogo,2,2
+2022,33,23/10/2022,Juventude,São Paulo,1,2
+2022,33,23/10/2022,Atlético-GO,Ceará,1,0
+2022,33,23/10/2022,Cuiabá,Goiás,1,2
+2022,33,23/10/2022,Coritiba,Internacional,1,1
+2022,33,24/10/2022,Fortaleza,Atlético-MG,0,0
+2022,34,25/10/2022,Flamengo,Santos,3,2
+2022,34,25/10/2022,Athletico-PR,Palmeiras,1,3
+2022,34,26/10/2022,Botafogo,Bragantino,2,1
+2022,34,26/10/2022,Corinthians,Fluminense,0,2
+2022,34,26/10/2022,Internacional,Ceará,2,1
+2022,34,26/10/2022,Goiás,América-MG,2,2
+2022,34,27/10/2022,São Paulo,Atlético-GO,2,1
+2022,34,27/10/2022,Fortaleza,Coritiba,3,1
+2022,34,27/10/2022,Cuiabá,Avaí,1,0
+2022,34,27/10/2022,Atlético-MG,Juventude,1,0
+2022,35,31/10/2022,Ceará,Fluminense,0,1
+2022,35,01/11/2022,Botafogo,Cuiabá,0,2
+2022,35,01/11/2022,São Paulo,Atlético-MG,2,2
+2022,35,02/11/2022,América-MG,Internacional,1,0
+2022,35,02/11/2022,Athletico-PR,Goiás,3,2
+2022,35,02/11/2022,Juventude,Coritiba,0,1
+2022,35,02/11/2022,Atlético-GO,Santos,2,3
+2022,35,02/11/2022,Avaí,Bragantino,1,2
+2022,35,02/11/2022,Flamengo,Corinthians,1,2
+2022,35,02/11/2022,Palmeiras,Fortaleza,4,0
+2022,36,05/11/2022,Fluminense,São Paulo,3,1
+2022,36,05/11/2022,Santos,Avaí,1,1
+2022,36,05/11/2022,Bragantino,América-MG,1,4
+2022,36,05/11/2022,Goiás,Juventude,1,0
+2022,36,05/11/2022,Corinthians,Ceará,1,0
+2022,36,05/11/2022,Internacional,Athletico-PR,2,0
+2022,36,06/11/2022,Fortaleza,Atlético-GO,1,1
+2022,36,06/11/2022,Coritiba,Flamengo,1,0
+2022,36,06/11/2022,Cuiabá,Palmeiras,1,1
+2022,36,07/11/2022,Atlético-MG,Botafogo,0,2
+2022,37,08/11/2022,São Paulo,Internacional,0,1
+2022,37,09/11/2022,Fluminense,Goiás,3,0
+2022,37,09/11/2022,Avaí,Ceará,2,0
+2022,37,09/11/2022,Coritiba,Corinthians,2,2
+2022,37,09/11/2022,Fortaleza,Bragantino,6,0
+2022,37,09/11/2022,Palmeiras,América-MG,2,1
+2022,37,09/11/2022,Juventude,Flamengo,2,2
+2022,37,09/11/2022,Atlético-GO,Athletico-PR,1,1
+2022,37,10/11/2022,Atlético-MG,Cuiabá,3,0
+2022,37,10/11/2022,Botafogo,Santos,3,0
+2022,38,13/11/2022,América-MG,Atlético-GO,1,1
+2022,38,13/11/2022,Flamengo,Avaí,1,2
+2022,38,13/11/2022,Bragantino,Fluminense,0,1
+2022,38,13/11/2022,Corinthians,Atlético-MG,0,1
+2022,38,13/11/2022,Santos,Fortaleza,0,2
+2022,38,13/11/2022,Internacional,Palmeiras,3,0
+2022,38,13/11/2022,Ceará,Juventude,4,1
+2022,38,13/11/2022,Goiás,São Paulo,0,4
+2022,38,13/11/2022,Cuiabá,Coritiba,2,1
+2022,38,13/11/2022,Athletico-PR,Botafogo,3,0
+2023,1,15/04/2023,Palmeiras,Cuiabá,2,1
+2023,1,15/04/2023,América-MG,Fluminense,0,3
+2023,1,15/04/2023,Botafogo,São Paulo,2,1
+2023,1,15/04/2023,Bragantino,Bahia,2,1
+2023,1,15/04/2023,Athletico-PR,Goiás,2,0
+2023,1,15/04/2023,Fortaleza,Internacional,1,1
+2023,1,15/04/2023,Atlético-MG,Vasco da Gama,1,2
+2023,1,16/04/2023,Flamengo,Coritiba,3,0
+2023,1,16/04/2023,Corinthians,Cruzeiro,2,1
+2023,1,16/04/2023,Grêmio,Santos,1,0
+2023,2,22/04/2023,Fluminense,Athletico-PR,2,0
+2023,2,22/04/2023,São Paulo,América-MG,3,0
+2023,2,22/04/2023,Cuiabá,Bragantino,1,1
+2023,2,22/04/2023,Cruzeiro,Grêmio,1,0
+2023,2,23/04/2023,Internacional,Flamengo,2,1
+2023,2,23/04/2023,Vasco da Gama,Palmeiras,2,2
+2023,2,23/04/2023,Santos,Atlético-MG,0,0
+2023,2,23/04/2023,Coritiba,Fortaleza,0,3
+2023,2,23/04/2023,Goiás,Corinthians,3,1
+2023,2,24/04/2023,Bahia,Botafogo,1,2
+2023,3,29/04/2023,Coritiba,São Paulo,1,1
+2023,3,29/04/2023,Fortaleza,Fluminense,4,2
+2023,3,29/04/2023,Palmeiras,Corinthians,2,1
+2023,3,29/04/2023,Santos,América-MG,3,2
+2023,3,29/04/2023,Bragantino,Cruzeiro,0,3
+2023,3,29/04/2023,Atlético-MG,Athletico-PR,2,1
+2023,3,30/04/2023,Flamengo,Botafogo,2,3
+2023,3,30/04/2023,Internacional,Goiás,1,0
+2023,3,30/04/2023,Cuiabá,Grêmio,1,2
+2023,3,01/05/2023,Vasco da Gama,Bahia,0,1
+2023,4,06/05/2023,Cruzeiro,Santos,2,1
+2023,4,06/05/2023,Fluminense,Vasco da Gama,1,1
+2023,4,07/05/2023,América-MG,Cuiabá,1,2
+2023,4,07/05/2023,São Paulo,Internacional,2,0
+2023,4,07/05/2023,Athletico-PR,Flamengo,2,1
+2023,4,07/05/2023,Bahia,Coritiba,3,1
+2023,4,07/05/2023,Botafogo,Atlético-MG,2,0
+2023,4,07/05/2023,Goiás,Palmeiras,0,5
+2023,4,07/05/2023,Grêmio,Bragantino,3,3
+2023,4,08/05/2023,Corinthians,Fortaleza,1,1
+2023,5,10/05/2023,Santos,Bahia,3,0
+2023,5,10/05/2023,Bragantino,América-MG,2,2
+2023,5,10/05/2023,Internacional,Athletico-PR,0,2
+2023,5,10/05/2023,Flamengo,Goiás,2,0
+2023,5,10/05/2023,Cuiabá,Atlético-MG,0,4
+2023,5,10/05/2023,Palmeiras,Grêmio,4,1
+2023,5,10/05/2023,Cruzeiro,Fluminense,0,2
+2023,5,11/05/2023,Coritiba,Vasco da Gama,1,1
+2023,5,11/05/2023,Botafogo,Corinthians,3,0
+2023,5,11/05/2023,Fortaleza,São Paulo,0,0
+2023,6,13/05/2023,Bahia,Flamengo,2,3
+2023,6,13/05/2023,Fluminense,Cuiabá,2,0
+2023,6,13/05/2023,Palmeiras,Bragantino,1,1
+2023,6,13/05/2023,Atlético-MG,Internacional,2,0
+2023,6,14/05/2023,Vasco da Gama,Santos,0,1
+2023,6,14/05/2023,Corinthians,São Paulo,1,1
+2023,6,14/05/2023,Grêmio,Fortaleza,0,0
+2023,6,14/05/2023,Goiás,Botafogo,2,1
+2023,6,14/05/2023,Athletico-PR,Coritiba,3,2
+2023,6,14/05/2023,América-MG,Cruzeiro,0,4
+2023,7,20/05/2023,Bahia,Goiás,1,1
+2023,7,20/05/2023,Botafogo,Fluminense,1,0
+2023,7,20/05/2023,São Paulo,Vasco da Gama,4,2
+2023,7,20/05/2023,Bragantino,Athletico-PR,2,0
+2023,7,20/05/2023,Coritiba,Atlético-MG,1,2
+2023,7,20/05/2023,América-MG,Fortaleza,2,1
+2023,7,20/05/2023,Santos,Palmeiras,0,0
+2023,7,21/05/2023,Flamengo,Corinthians,1,0
+2023,7,21/05/2023,Grêmio,Internacional,3,1
+2023,7,22/05/2023,Cruzeiro,Cuiabá,0,1
+2023,8,27/05/2023,Athletico-PR,Grêmio,1,2
+2023,8,27/05/2023,Fortaleza,Vasco da Gama,2,0
+2023,8,27/05/2023,Flamengo,Cruzeiro,1,1
+2023,8,27/05/2023,Cuiabá,Coritiba,1,1
+2023,8,27/05/2023,São Paulo,Goiás,2,1
+2023,8,28/05/2023,Corinthians,Fluminense,2,0
+2023,8,28/05/2023,Internacional,Bahia,2,0
+2023,8,28/05/2023,Atlético-MG,Palmeiras,1,1
+2023,8,28/05/2023,Botafogo,América-MG,2,0
+2023,8,29/05/2023,Bragantino,Santos,2,0
+2023,9,03/06/2023,Fortaleza,Bahia,0,0
+2023,9,03/06/2023,Cruzeiro,Atlético-MG,0,1
+2023,9,03/06/2023,Athletico-PR,Botafogo,1,0
+2023,9,03/06/2023,América-MG,Corinthians,2,0
+2023,9,03/06/2023,Santos,Internacional,1,1
+2023,9,04/06/2023,Fluminense,Bragantino,2,1
+2023,9,04/06/2023,Grêmio,São Paulo,2,1
+2023,9,04/06/2023,Palmeiras,Coritiba,3,1
+2023,9,04/06/2023,Goiás,Cuiabá,0,1
+2023,9,05/06/2023,Vasco da Gama,Flamengo,1,4
+2023,10,10/06/2023,Coritiba,Santos,0,0
+2023,10,10/06/2023,Corinthians,Cuiabá,1,1
+2023,10,10/06/2023,Atlético-MG,Bragantino,1,1
+2023,10,10/06/2023,Bahia,Cruzeiro,2,2
+2023,10,10/06/2023,Botafogo,Fortaleza,2,0
+2023,10,11/06/2023,América-MG,Athletico-PR,2,2
+2023,10,11/06/2023,São Paulo,Palmeiras,0,2
+2023,10,11/06/2023,Internacional,Vasco da Gama,2,1
+2023,10,11/06/2023,Flamengo,Grêmio,3,0
+2023,10,11/06/2023,Goiás,Fluminense,2,2
+2023,11,21/06/2023,São Paulo,Athletico-PR,2,1
+2023,11,21/06/2023,Cruzeiro,Fortaleza,0,1
+2023,11,21/06/2023,Santos,Corinthians,0,2
+2023,11,21/06/2023,Fluminense,Atlético-MG,1,1
+2023,11,21/06/2023,Bahia,Palmeiras,1,0
+2023,11,22/06/2023,Grêmio,América-MG,3,1
+2023,11,22/06/2023,Vasco da Gama,Goiás,0,1
+2023,11,22/06/2023,Coritiba,Internacional,0,1
+2023,11,22/06/2023,Cuiabá,Botafogo,0,1
+2023,11,22/06/2023,Bragantino,Flamengo,4,0
+2023,12,24/06/2023,Athletico-PR,Corinthians,1,0
+2023,12,24/06/2023,Fluminense,Bahia,2,1
+2023,12,24/06/2023,Fortaleza,Atlético-MG,2,1
+2023,12,24/06/2023,Cruzeiro,São Paulo,1,0
+2023,12,25/06/2023,Palmeiras,Botafogo,0,1
+2023,12,25/06/2023,Grêmio,Coritiba,5,1
+2023,12,25/06/2023,Santos,Flamengo,2,3
+2023,12,25/06/2023,Bragantino,Goiás,2,0
+2023,12,25/06/2023,América-MG,Internacional,1,2
+2023,12,26/06/2023,Vasco da Gama,Cuiabá,1,0
+2023,13,01/07/2023,São Paulo,Fluminense,1,0
+2023,13,01/07/2023,Flamengo,Fortaleza,2,0
+2023,13,01/07/2023,Bahia,Grêmio,1,2
+2023,13,01/07/2023,Internacional,Cruzeiro,0,0
+2023,13,02/07/2023,Corinthians,Bragantino,0,1
+2023,13,02/07/2023,Botafogo,Vasco da Gama,2,0
+2023,13,02/07/2023,Atlético-MG,América-MG,2,2
+2023,13,02/07/2023,Athletico-PR,Palmeiras,2,2
+2023,13,02/07/2023,Cuiabá,Santos,3,0
+2023,13,03/07/2023,Goiás,Coritiba,1,2
+2023,14,08/07/2023,Vasco da Gama,Cruzeiro,0,1
+2023,14,08/07/2023,Cuiabá,Bahia,1,1
+2023,14,08/07/2023,Atlético-MG,Corinthians,0,1
+2023,14,08/07/2023,Coritiba,América-MG,3,1
+2023,14,08/07/2023,Palmeiras,Flamengo,1,1
+2023,14,09/07/2023,Santos,Goiás,4,3
+2023,14,09/07/2023,Fluminense,Internacional,2,0
+2023,14,09/07/2023,Bragantino,São Paulo,0,0
+2023,14,09/07/2023,Grêmio,Botafogo,0,2
+2023,14,09/07/2023,Fortaleza,Athletico-PR,1,0
+2023,15,15/07/2023,Botafogo,Bragantino,2,0
+2023,15,16/07/2023,Cruzeiro,Coritiba,0,0
+2023,15,16/07/2023,Fluminense,Flamengo,0,0
+2023,15,16/07/2023,São Paulo,Santos,4,1
+2023,15,16/07/2023,Fortaleza,Cuiabá,0,1
+2023,15,16/07/2023,Internacional,Palmeiras,0,0
+2023,15,16/07/2023,Athletico-PR,Bahia,2,0
+2023,15,17/07/2023,Goiás,Atlético-MG,0,0
+2023,15,18/09/2023,Corinthians,Grêmio,4,4
+2023,15,25/09/2023,América-MG,Vasco da Gama,0,1
+2023,16,22/07/2023,Flamengo,América-MG,1,1
+2023,16,22/07/2023,Palmeiras,Fortaleza,3,1
+2023,16,22/07/2023,Bahia,Corinthians,0,0
+2023,16,22/07/2023,Cuiabá,São Paulo,2,1
+2023,16,22/07/2023,Grêmio,Atlético-MG,1,0
+2023,16,23/07/2023,Santos,Botafogo,2,2
+2023,16,23/07/2023,Bragantino,Internacional,0,0
+2023,16,23/07/2023,Cruzeiro,Goiás,0,1
+2023,16,23/07/2023,Vasco da Gama,Athletico-PR,0,2
+2023,16,24/07/2023,Coritiba,Fluminense,2,0
+2023,17,29/07/2023,Fluminense,Santos,1,0
+2023,17,29/07/2023,Internacional,Cuiabá,1,2
+2023,17,29/07/2023,Athletico-PR,Cruzeiro,3,3
+2023,17,29/07/2023,Corinthians,Vasco da Gama,3,1
+2023,17,29/07/2023,Fortaleza,Bragantino,0,3
+2023,17,29/07/2023,Atlético-MG,Flamengo,1,2
+2023,17,30/07/2023,São Paulo,Bahia,0,0
+2023,17,30/07/2023,Botafogo,Coritiba,4,1
+2023,17,30/07/2023,América-MG,Palmeiras,1,4
+2023,17,30/07/2023,Goiás,Grêmio,1,1
+2023,18,05/08/2023,Santos,Athletico-PR,1,1
+2023,18,05/08/2023,Goiás,Fortaleza,1,0
+2023,18,05/08/2023,Internacional,Corinthians,2,2
+2023,18,05/08/2023,Fluminense,Palmeiras,2,1
+2023,18,06/08/2023,Vasco da Gama,Grêmio,1,0
+2023,18,06/08/2023,São Paulo,Atlético-MG,0,2
+2023,18,06/08/2023,Cruzeiro,Botafogo,0,0
+2023,18,06/08/2023,Coritiba,Bragantino,0,1
+2023,18,06/08/2023,Bahia,América-MG,3,1
+2023,18,06/08/2023,Cuiabá,Flamengo,3,0
+2023,19,12/08/2023,Botafogo,Internacional,3,1
+2023,19,13/08/2023,Atlético-MG,Bahia,1,0
+2023,19,13/08/2023,Corinthians,Coritiba,3,1
+2023,19,13/08/2023,Grêmio,Fluminense,2,1
+2023,19,13/08/2023,América-MG,Goiás,0,1
+2023,19,13/08/2023,Flamengo,São Paulo,1,1
+2023,19,13/08/2023,Fortaleza,Santos,4,0
+2023,19,14/08/2023,Palmeiras,Cruzeiro,1,0
+2023,19,14/08/2023,Bragantino,Vasco da Gama,1,1
+2023,19,15/08/2023,Athletico-PR,Cuiabá,2,0
+2023,20,19/08/2023,São Paulo,Botafogo,0,0
+2023,20,19/08/2023,Internacional,Fortaleza,0,1
+2023,20,19/08/2023,Fluminense,América-MG,3,1
+2023,20,19/08/2023,Cuiabá,Palmeiras,0,2
+2023,20,19/08/2023,Cruzeiro,Corinthians,1,1
+2023,20,20/08/2023,Vasco da Gama,Atlético-MG,1,0
+2023,20,20/08/2023,Santos,Grêmio,2,1
+2023,20,20/08/2023,Coritiba,Flamengo,2,3
+2023,20,20/08/2023,Bahia,Bragantino,4,0
+2023,20,21/08/2023,Goiás,Athletico-PR,1,1
+2023,21,26/08/2023,Flamengo,Internacional,0,0
+2023,21,26/08/2023,Corinthians,Goiás,1,1
+2023,21,27/08/2023,Bragantino,Cuiabá,2,0
+2023,21,27/08/2023,Botafogo,Bahia,3,0
+2023,21,27/08/2023,Atlético-MG,Santos,2,0
+2023,21,27/08/2023,América-MG,São Paulo,2,1
+2023,21,27/08/2023,Palmeiras,Vasco da Gama,1,0
+2023,21,27/08/2023,Athletico-PR,Fluminense,2,2
+2023,21,27/08/2023,Fortaleza,Coritiba,3,1
+2023,21,27/08/2023,Grêmio,Cruzeiro,3,0
+2023,22,02/09/2023,Goiás,Internacional,0,0
+2023,22,02/09/2023,Athletico-PR,Atlético-MG,1,1
+2023,22,02/09/2023,Botafogo,Flamengo,1,2
+2023,22,03/09/2023,Grêmio,Cuiabá,2,0
+2023,22,03/09/2023,Fluminense,Fortaleza,1,0
+2023,22,03/09/2023,Corinthians,Palmeiras,0,0
+2023,22,03/09/2023,Cruzeiro,Bragantino,0,0
+2023,22,03/09/2023,Bahia,Vasco da Gama,1,1
+2023,22,03/09/2023,América-MG,Santos,2,0
+2023,22,27/09/2023,São Paulo,Coritiba,2,1
+2023,23,13/09/2023,Flamengo,Athletico-PR,0,3
+2023,23,13/09/2023,Internacional,São Paulo,2,1
+2023,23,14/09/2023,Santos,Cruzeiro,0,3
+2023,23,14/09/2023,Fortaleza,Corinthians,2,1
+2023,23,14/09/2023,Coritiba,Bahia,2,4
+2023,23,14/09/2023,Bragantino,Grêmio,2,0
+2023,23,15/09/2023,Cuiabá,América-MG,2,2
+2023,23,15/09/2023,Palmeiras,Goiás,1,0
+2023,23,16/09/2023,Vasco da Gama,Fluminense,4,2
+2023,23,16/09/2023,Atlético-MG,Botafogo,1,0
+2023,24,18/09/2023,Bahia,Santos,1,2
+2023,24,19/09/2023,América-MG,Bragantino,0,2
+2023,24,20/09/2023,Goiás,Flamengo,0,0
+2023,24,20/09/2023,Fluminense,Cruzeiro,1,0
+2023,24,20/09/2023,São Paulo,Fortaleza,1,2
+2023,24,21/09/2023,Vasco da Gama,Coritiba,5,1
+2023,24,21/09/2023,Athletico-PR,Internacional,2,1
+2023,24,21/09/2023,Grêmio,Palmeiras,1,0
+2023,24,22/09/2023,Corinthians,Botafogo,1,0
+2023,24,23/09/2023,Atlético-MG,Cuiabá,1,0
+2023,25,30/09/2023,Flamengo,Bahia,1,0
+2023,25,30/09/2023,Fortaleza,Grêmio,1,1
+2023,25,30/09/2023,São Paulo,Corinthians,2,1
+2023,25,30/09/2023,Cuiabá,Fluminense,3,0
+2023,25,30/09/2023,Internacional,Atlético-MG,0,2
+2023,25,01/10/2023,Santos,Vasco da Gama,4,1
+2023,25,01/10/2023,Cruzeiro,América-MG,1,1
+2023,25,01/10/2023,Coritiba,Athletico-PR,2,0
+2023,25,01/10/2023,Bragantino,Palmeiras,2,1
+2023,25,02/10/2023,Botafogo,Goiás,1,1
+2023,26,07/10/2023,Goiás,Bahia,4,6
+2023,26,07/10/2023,Vasco da Gama,São Paulo,0,0
+2023,26,07/10/2023,Corinthians,Flamengo,1,1
+2023,26,08/10/2023,Fluminense,Botafogo,0,2
+2023,26,08/10/2023,Palmeiras,Santos,1,2
+2023,26,08/10/2023,Internacional,Grêmio,3,2
+2023,26,08/10/2023,Atlético-MG,Coritiba,1,2
+2023,26,08/10/2023,Athletico-PR,Bragantino,1,1
+2023,26,08/10/2023,Fortaleza,América-MG,3,2
+2023,26,14/10/2023,Cuiabá,Cruzeiro,0,0
+2023,27,18/10/2023,Grêmio,Athletico-PR,1,2
+2023,27,18/10/2023,Coritiba,Cuiabá,0,3
+2023,27,18/10/2023,América-MG,Botafogo,1,2
+2023,27,18/10/2023,Vasco da Gama,Fortaleza,1,0
+2023,27,18/10/2023,Goiás,São Paulo,2,0
+2023,27,18/10/2023,Bahia,Internacional,1,0
+2023,27,19/10/2023,Palmeiras,Atlético-MG,0,2
+2023,27,19/10/2023,Cruzeiro,Flamengo,0,2
+2023,27,19/10/2023,Santos,Bragantino,1,3
+2023,27,19/10/2023,Fluminense,Corinthians,3,3
+2023,28,21/10/2023,São Paulo,Grêmio,3,0
+2023,28,21/10/2023,Bahia,Fortaleza,2,0
+2023,28,21/10/2023,Cuiabá,Goiás,1,1
+2023,28,21/10/2023,Botafogo,Athletico-PR,1,1
+2023,28,22/10/2023,Flamengo,Vasco da Gama,1,0
+2023,28,22/10/2023,Atlético-MG,Cruzeiro,0,1
+2023,28,22/10/2023,Internacional,Santos,7,1
+2023,28,22/10/2023,Corinthians,América-MG,1,1
+2023,28,22/10/2023,Bragantino,Fluminense,1,0
+2023,28,22/10/2023,Coritiba,Palmeiras,0,2
+2023,29,25/10/2023,Fluminense,Goiás,5,3
+2023,29,25/10/2023,Bragantino,Atlético-MG,1,2
+2023,29,25/10/2023,Athletico-PR,América-MG,3,2
+2023,29,25/10/2023,Palmeiras,São Paulo,5,0
+2023,29,25/10/2023,Cruzeiro,Bahia,3,0
+2023,29,25/10/2023,Grêmio,Flamengo,3,2
+2023,29,25/10/2023,Cuiabá,Corinthians,0,1
+2023,29,26/10/2023,Vasco da Gama,Internacional,1,2
+2023,29,26/10/2023,Santos,Coritiba,2,1
+2023,29,23/11/2023,Fortaleza,Botafogo,2,2
+2023,30,28/10/2023,Palmeiras,Bahia,1,0
+2023,30,28/10/2023,América-MG,Grêmio,3,4
+2023,30,28/10/2023,Atlético-MG,Fluminense,2,0
+2023,30,29/10/2023,Goiás,Vasco da Gama,1,1
+2023,30,29/10/2023,Athletico-PR,São Paulo,1,1
+2023,30,29/10/2023,Corinthians,Santos,1,1
+2023,30,29/10/2023,Internacional,Coritiba,3,4
+2023,30,29/10/2023,Botafogo,Cuiabá,0,1
+2023,30,18/11/2023,Fortaleza,Cruzeiro,0,1
+2023,30,23/11/2023,Flamengo,Bragantino,1,0
+2023,31,31/10/2023,Bahia,Fluminense,1,0
+2023,31,01/11/2023,Corinthians,Athletico-PR,1,0
+2023,31,01/11/2023,Internacional,América-MG,1,1
+2023,31,01/11/2023,Flamengo,Santos,1,2
+2023,31,01/11/2023,Coritiba,Grêmio,1,2
+2023,31,01/11/2023,Botafogo,Palmeiras,3,4
+2023,31,01/11/2023,Atlético-MG,Fortaleza,3,1
+2023,31,02/11/2023,Cuiabá,Vasco da Gama,0,2
+2023,31,02/11/2023,Goiás,Bragantino,0,2
+2023,31,02/11/2023,São Paulo,Cruzeiro,1,0
+2023,32,04/11/2023,Grêmio,Bahia,1,0
+2023,32,04/11/2023,América-MG,Atlético-MG,1,1
+2023,32,04/11/2023,Palmeiras,Athletico-PR,1,0
+2023,32,05/11/2023,Bragantino,Corinthians,1,0
+2023,32,05/11/2023,Cruzeiro,Internacional,1,2
+2023,32,05/11/2023,Fortaleza,Flamengo,0,2
+2023,32,05/11/2023,Coritiba,Goiás,0,1
+2023,32,06/11/2023,Vasco da Gama,Botafogo,1,0
+2023,32,06/11/2023,Santos,Cuiabá,0,0
+2023,32,22/11/2023,Fluminense,São Paulo,1,0
+2023,33,08/11/2023,Internacional,Fluminense,0,0
+2023,33,08/11/2023,América-MG,Coritiba,0,3
+2023,33,08/11/2023,São Paulo,Bragantino,1,0
+2023,33,08/11/2023,Athletico-PR,Fortaleza,1,1
+2023,33,08/11/2023,Flamengo,Palmeiras,3,0
+2023,33,09/11/2023,Corinthians,Atlético-MG,1,1
+2023,33,09/11/2023,Goiás,Santos,0,1
+2023,33,09/11/2023,Botafogo,Grêmio,3,4
+2023,33,09/11/2023,Bahia,Cuiabá,0,3
+2023,33,22/11/2023,Cruzeiro,Vasco da Gama,2,2
+2023,34,11/11/2023,Coritiba,Cruzeiro,1,0
+2023,34,11/11/2023,Flamengo,Fluminense,1,1
+2023,34,11/11/2023,Palmeiras,Internacional,3,0
+2023,34,12/11/2023,Bragantino,Botafogo,2,2
+2023,34,12/11/2023,Grêmio,Corinthians,0,1
+2023,34,12/11/2023,Vasco da Gama,América-MG,2,1
+2023,34,12/11/2023,Santos,São Paulo,0,0
+2023,34,12/11/2023,Atlético-MG,Goiás,2,1
+2023,34,12/11/2023,Bahia,Athletico-PR,1,1
+2023,34,12/11/2023,Cuiabá,Fortaleza,2,1
+2023,35,24/11/2023,Corinthians,Bahia,1,5
+2023,35,25/11/2023,Athletico-PR,Vasco da Gama,0,0
+2023,35,25/11/2023,Fluminense,Coritiba,2,1
+2023,35,26/11/2023,Botafogo,Santos,1,1
+2023,35,26/11/2023,Atlético-MG,Grêmio,3,0
+2023,35,26/11/2023,São Paulo,Cuiabá,0,0
+2023,35,26/11/2023,Internacional,Bragantino,1,0
+2023,35,26/11/2023,Fortaleza,Palmeiras,2,2
+2023,35,26/11/2023,América-MG,Flamengo,0,3
+2023,35,27/11/2023,Goiás,Cruzeiro,0,1
+2023,36,28/11/2023,Vasco da Gama,Corinthians,2,4
+2023,36,29/11/2023,Santos,Fluminense,0,3
+2023,36,29/11/2023,Flamengo,Atlético-MG,0,3
+2023,36,29/11/2023,Bahia,São Paulo,0,1
+2023,36,29/11/2023,Cuiabá,Internacional,0,2
+2023,36,29/11/2023,Palmeiras,América-MG,4,0
+2023,36,29/11/2023,Coritiba,Botafogo,1,1
+2023,36,30/11/2023,Grêmio,Goiás,2,1
+2023,36,30/11/2023,Cruzeiro,Athletico-PR,1,1
+2023,36,30/11/2023,Bragantino,Fortaleza,1,2
+2023,37,02/12/2023,Corinthians,Internacional,1,2
+2023,37,02/12/2023,Atlético-MG,São Paulo,2,1
+2023,37,03/12/2023,Flamengo,Cuiabá,2,1
+2023,37,03/12/2023,Palmeiras,Fluminense,1,0
+2023,37,03/12/2023,Botafogo,Cruzeiro,0,0
+2023,37,03/12/2023,Bragantino,Coritiba,1,0
+2023,37,03/12/2023,Grêmio,Vasco da Gama,1,0
+2023,37,03/12/2023,Athletico-PR,Santos,3,0
+2023,37,03/12/2023,Fortaleza,Goiás,1,0
+2023,37,03/12/2023,América-MG,Bahia,3,2
+2023,38,06/12/2023,Goiás,América-MG,1,0
+2023,38,06/12/2023,Fluminense,Grêmio,2,3
+2023,38,06/12/2023,Vasco da Gama,Bragantino,2,1
+2023,38,06/12/2023,São Paulo,Flamengo,1,0
+2023,38,06/12/2023,Santos,Fortaleza,1,2
+2023,38,06/12/2023,Cruzeiro,Palmeiras,1,1
+2023,38,06/12/2023,Internacional,Botafogo,3,1
+2023,38,06/12/2023,Coritiba,Corinthians,0,2
+2023,38,06/12/2023,Bahia,Atlético-MG,4,1
+2023,38,06/12/2023,Cuiabá,Athletico-PR,3,0
+2024,1,13/04/2024,Internacional,Bahia,2,1
+2024,1,13/04/2024,Criciúma,Juventude,1,1
+2024,1,13/04/2024,Fluminense,Bragantino,2,2
+2024,1,13/04/2024,São Paulo,Fortaleza,1,2
+2024,1,14/04/2024,Vasco da Gama,Grêmio,2,1
+2024,1,14/04/2024,Corinthians,Atlético-MG,0,0
+2024,1,14/04/2024,Athletico-PR,Cuiabá,4,0
+2024,1,14/04/2024,Atlético-GO,Flamengo,1,2
+2024,1,14/04/2024,Cruzeiro,Botafogo,3,2
+2024,1,14/04/2024,Vitória,Palmeiras,0,1
+2024,2,16/04/2024,Bahia,Fluminense,2,1
+2024,2,17/04/2024,Grêmio,Athletico-PR,2,0
+2024,2,17/04/2024,Bragantino,Vasco da Gama,2,1
+2024,2,17/04/2024,Atlético-MG,Criciúma,1,1
+2024,2,17/04/2024,Palmeiras,Internacional,0,1
+2024,2,17/04/2024,Fortaleza,Cruzeiro,1,1
+2024,2,17/04/2024,Juventude,Corinthians,2,0
+2024,2,17/04/2024,Flamengo,São Paulo,2,1
+2024,2,18/04/2024,Botafogo,Atlético-GO,1,0
+2024,2,05/06/2024,Cuiabá,Vitória,0,0
+2024,3,20/04/2024,Fluminense,Vasco da Gama,2,1
+2024,3,20/04/2024,Grêmio,Cuiabá,1,0
+2024,3,20/04/2024,Bragantino,Corinthians,1,0
+2024,3,20/04/2024,Atlético-MG,Cruzeiro,3,0
+2024,3,21/04/2024,Vitória,Bahia,2,2
+2024,3,21/04/2024,Palmeiras,Flamengo,0,0
+2024,3,21/04/2024,Athletico-PR,Internacional,1,0
+2024,3,21/04/2024,Botafogo,Juventude,5,1
+2024,3,21/04/2024,Atlético-GO,São Paulo,0,3
+2024,3,24/07/2024,Criciúma,Fortaleza,1,1
+2024,4,27/04/2024,Vasco da Gama,Criciúma,0,4
+2024,4,27/04/2024,Cuiabá,Atlético-MG,0,3
+2024,4,27/04/2024,Bahia,Grêmio,1,0
+2024,4,28/04/2024,Flamengo,Botafogo,0,2
+2024,4,28/04/2024,Cruzeiro,Vitória,3,1
+2024,4,28/04/2024,Corinthians,Fluminense,3,0
+2024,4,28/04/2024,Fortaleza,Bragantino,1,1
+2024,4,28/04/2024,Juventude,Athletico-PR,1,1
+2024,4,28/04/2024,Internacional,Atlético-GO,1,1
+2024,4,29/04/2024,São Paulo,Palmeiras,0,0
+2024,5,04/05/2024,Fluminense,Atlético-MG,2,2
+2024,5,04/05/2024,Bragantino,Flamengo,1,1
+2024,5,04/05/2024,Corinthians,Fortaleza,0,0
+2024,5,05/05/2024,Vitória,São Paulo,1,3
+2024,5,05/05/2024,Athletico-PR,Vasco da Gama,1,0
+2024,5,05/05/2024,Botafogo,Bahia,1,2
+2024,5,05/05/2024,Cuiabá,Palmeiras,0,2
+2024,5,05/06/2024,Juventude,Atlético-GO,1,0
+2024,5,28/08/2024,Cruzeiro,Internacional,0,0
+2024,5,25/09/2024,Grêmio,Criciúma,1,2
+2024,6,11/05/2024,Flamengo,Corinthians,2,0
+2024,6,12/05/2024,Palmeiras,Athletico-PR,0,2
+2024,6,12/05/2024,Fortaleza,Botafogo,1,1
+2024,6,12/05/2024,Atlético-GO,Cruzeiro,0,1
+2024,6,12/05/2024,Bahia,Bragantino,1,0
+2024,6,12/05/2024,Vasco da Gama,Vitória,2,1
+2024,6,13/05/2024,São Paulo,Fluminense,2,1
+2024,6,09/06/2024,Criciúma,Cuiabá,2,5
+2024,6,14/08/2024,Internacional,Juventude,2,1
+2024,6,09/10/2024,Atlético-MG,Grêmio,2,1
+2024,7,01/06/2024,Grêmio,Bragantino,0,2
+2024,7,01/06/2024,Vitória,Atlético-GO,0,2
+2024,7,01/06/2024,Fluminense,Juventude,1,1
+2024,7,01/06/2024,Cuiabá,Internacional,0,1
+2024,7,01/06/2024,Corinthians,Botafogo,0,1
+2024,7,02/06/2024,Atlético-MG,Bahia,1,1
+2024,7,02/06/2024,Vasco da Gama,Flamengo,1,6
+2024,7,02/06/2024,Criciúma,Palmeiras,1,2
+2024,7,02/06/2024,São Paulo,Cruzeiro,2,0
+2024,7,02/06/2024,Fortaleza,Athletico-PR,1,0
+2024,8,11/06/2024,Atlético-GO,Corinthians,2,2
+2024,8,11/06/2024,Juventude,Vitória,1,1
+2024,8,11/06/2024,Botafogo,Fluminense,1,0
+2024,8,11/06/2024,Bragantino,Atlético-MG,1,2
+2024,8,13/06/2024,Cruzeiro,Cuiabá,2,1
+2024,8,13/06/2024,Internacional,São Paulo,0,0
+2024,8,13/06/2024,Flamengo,Grêmio,2,1
+2024,8,13/06/2024,Athletico-PR,Criciúma,3,1
+2024,8,13/06/2024,Bahia,Fortaleza,1,0
+2024,8,13/06/2024,Palmeiras,Vasco da Gama,2,0
+2024,9,15/06/2024,Bragantino,Juventude,2,1
+2024,9,15/06/2024,Fluminense,Atlético-GO,1,2
+2024,9,16/06/2024,Vitória,Internacional,2,1
+2024,9,16/06/2024,Corinthians,São Paulo,2,2
+2024,9,16/06/2024,Athletico-PR,Flamengo,1,1
+2024,9,16/06/2024,Grêmio,Botafogo,1,2
+2024,9,16/06/2024,Vasco da Gama,Cruzeiro,0,0
+2024,9,16/06/2024,Cuiabá,Fortaleza,5,0
+2024,9,16/06/2024,Criciúma,Bahia,2,2
+2024,9,17/06/2024,Atlético-MG,Palmeiras,0,4
+2024,10,19/06/2024,Botafogo,Athletico-PR,1,1
+2024,10,19/06/2024,Atlético-GO,Criciúma,1,2
+2024,10,19/06/2024,São Paulo,Cuiabá,0,1
+2024,10,19/06/2024,Fortaleza,Grêmio,1,0
+2024,10,19/06/2024,Juventude,Vasco da Gama,2,0
+2024,10,19/06/2024,Internacional,Corinthians,1,0
+2024,10,19/06/2024,Cruzeiro,Fluminense,2,0
+2024,10,20/06/2024,Vitória,Atlético-MG,4,2
+2024,10,20/06/2024,Flamengo,Bahia,2,1
+2024,10,20/06/2024,Palmeiras,Bragantino,2,1
+2024,11,22/06/2024,Criciúma,Botafogo,2,1
+2024,11,22/06/2024,Grêmio,Internacional,0,1
+2024,11,22/06/2024,Cuiabá,Atlético-GO,0,0
+2024,11,22/06/2024,Vasco da Gama,São Paulo,4,1
+2024,11,23/06/2024,Bahia,Cruzeiro,4,1
+2024,11,23/06/2024,Fluminense,Flamengo,0,1
+2024,11,23/06/2024,Athletico-PR,Corinthians,1,1
+2024,11,23/06/2024,Atlético-MG,Fortaleza,1,1
+2024,11,23/06/2024,Palmeiras,Juventude,3,1
+2024,11,23/06/2024,Bragantino,Vitória,2,1
+2024,12,26/06/2024,Cruzeiro,Athletico-PR,2,0
+2024,12,26/06/2024,Botafogo,Bragantino,2,1
+2024,12,26/06/2024,Corinthians,Cuiabá,1,1
+2024,12,26/06/2024,Atlético-GO,Grêmio,1,1
+2024,12,26/06/2024,Juventude,Flamengo,2,1
+2024,12,26/06/2024,Internacional,Atlético-MG,1,2
+2024,12,26/06/2024,Bahia,Vasco da Gama,2,1
+2024,12,26/06/2024,Fortaleza,Palmeiras,3,0
+2024,12,27/06/2024,Fluminense,Vitória,0,1
+2024,12,27/06/2024,São Paulo,Criciúma,2,1
+2024,13,29/06/2024,Vasco da Gama,Botafogo,1,1
+2024,13,29/06/2024,Cuiabá,Bragantino,1,1
+2024,13,30/06/2024,Atlético-MG,Atlético-GO,1,1
+2024,13,30/06/2024,Grêmio,Fluminense,1,0
+2024,13,30/06/2024,São Paulo,Bahia,3,1
+2024,13,30/06/2024,Fortaleza,Juventude,2,1
+2024,13,30/06/2024,Vitória,Athletico-PR,0,1
+2024,13,30/06/2024,Flamengo,Cruzeiro,2,1
+2024,13,30/06/2024,Criciúma,Internacional,1,1
+2024,13,01/07/2024,Palmeiras,Corinthians,2,0
+2024,14,03/07/2024,Cuiabá,Botafogo,1,2
+2024,14,03/07/2024,Vasco da Gama,Fortaleza,2,0
+2024,14,03/07/2024,Criciúma,Cruzeiro,1,0
+2024,14,03/07/2024,Atlético-MG,Flamengo,2,4
+2024,14,03/07/2024,Bragantino,Atlético-GO,3,1
+2024,14,03/07/2024,Athletico-PR,São Paulo,1,2
+2024,14,04/07/2024,Grêmio,Palmeiras,2,2
+2024,14,04/07/2024,Bahia,Juventude,2,0
+2024,14,04/07/2024,Fluminense,Internacional,1,1
+2024,14,04/07/2024,Corinthians,Vitória,3,2
+2024,15,06/07/2024,Flamengo,Cuiabá,1,1
+2024,15,06/07/2024,São Paulo,Bragantino,2,0
+2024,15,07/07/2024,Cruzeiro,Corinthians,3,0
+2024,15,07/07/2024,Fortaleza,Fluminense,1,0
+2024,15,07/07/2024,Juventude,Grêmio,3,0
+2024,15,07/07/2024,Internacional,Vasco da Gama,1,2
+2024,15,07/07/2024,Vitória,Criciúma,2,1
+2024,15,07/07/2024,Palmeiras,Bahia,2,0
+2024,15,07/07/2024,Atlético-GO,Athletico-PR,1,2
+2024,15,07/07/2024,Botafogo,Atlético-MG,3,0
+2024,16,10/07/2024,Grêmio,Cruzeiro,0,2
+2024,16,10/07/2024,Vasco da Gama,Corinthians,2,0
+2024,16,10/07/2024,Athletico-PR,Bahia,1,3
+2024,16,11/07/2024,Palmeiras,Atlético-GO,3,1
+2024,16,11/07/2024,Flamengo,Fortaleza,1,2
+2024,16,11/07/2024,Criciúma,Fluminense,1,1
+2024,16,11/07/2024,Atlético-MG,São Paulo,2,1
+2024,16,11/07/2024,Vitória,Botafogo,0,1
+2024,16,05/09/2024,Cuiabá,Juventude,0,0
+2024,16,25/09/2024,Bragantino,Internacional,2,2
+2024,17,13/07/2024,Cruzeiro,Bragantino,2,1
+2024,17,13/07/2024,Bahia,Cuiabá,1,2
+2024,17,16/07/2024,Juventude,Atlético-MG,1,1
+2024,17,16/07/2024,Corinthians,Criciúma,2,1
+2024,17,17/07/2024,Atlético-GO,Vasco da Gama,0,1
+2024,17,17/07/2024,São Paulo,Grêmio,1,0
+2024,17,17/07/2024,Botafogo,Palmeiras,1,0
+2024,17,17/07/2024,Fortaleza,Vitória,3,1
+2024,17,22/10/2024,Fluminense,Athletico-PR,1,0
+2024,17,30/10/2024,Internacional,Flamengo,1,1
+2024,18,20/07/2024,Flamengo,Criciúma,2,1
+2024,18,20/07/2024,Botafogo,Internacional,1,0
+2024,18,20/07/2024,Palmeiras,Cruzeiro,2,0
+2024,18,21/07/2024,Grêmio,Vitória,2,0
+2024,18,21/07/2024,Atlético-MG,Vasco da Gama,2,0
+2024,18,21/07/2024,Bahia,Corinthians,0,1
+2024,18,21/07/2024,Bragantino,Athletico-PR,1,0
+2024,18,21/07/2024,Fortaleza,Atlético-GO,3,1
+2024,18,21/07/2024,Juventude,São Paulo,0,0
+2024,18,21/07/2024,Cuiabá,Fluminense,0,1
+2024,19,24/07/2024,Cruzeiro,Juventude,2,0
+2024,19,24/07/2024,São Paulo,Botafogo,2,2
+2024,19,24/07/2024,Vitória,Flamengo,1,2
+2024,19,24/07/2024,Fluminense,Palmeiras,1,0
+2024,19,24/07/2024,Atlético-GO,Bahia,1,1
+2024,19,25/07/2024,Corinthians,Grêmio,2,2
+2024,19,28/08/2024,Criciúma,Bragantino,1,0
+2024,19,11/09/2024,Internacional,Fortaleza,2,1
+2024,19,24/10/2024,Vasco da Gama,Cuiabá,1,0
+2024,19,16/11/2024,Athletico-PR,Atlético-MG,1,0
+2024,20,27/07/2024,Palmeiras,Vitória,0,2
+2024,20,27/07/2024,Juventude,Criciúma,1,2
+2024,20,27/07/2024,Bahia,Internacional,1,1
+2024,20,27/07/2024,Botafogo,Cruzeiro,0,3
+2024,20,27/07/2024,Fortaleza,São Paulo,1,0
+2024,20,28/07/2024,Bragantino,Fluminense,0,1
+2024,20,28/07/2024,Flamengo,Atlético-GO,2,0
+2024,20,28/07/2024,Grêmio,Vasco da Gama,1,0
+2024,20,28/07/2024,Atlético-MG,Corinthians,2,1
+2024,20,28/07/2024,Cuiabá,Athletico-PR,1,2
+2024,21,03/08/2024,Vitória,Cuiabá,1,0
+2024,21,03/08/2024,Vasco da Gama,Bragantino,2,2
+2024,21,03/08/2024,Atlético-GO,Botafogo,1,4
+2024,21,03/08/2024,Criciúma,Atlético-MG,2,1
+2024,21,03/08/2024,São Paulo,Flamengo,1,0
+2024,21,04/08/2024,Fluminense,Bahia,1,0
+2024,21,04/08/2024,Corinthians,Juventude,1,1
+2024,21,04/08/2024,Athletico-PR,Grêmio,0,2
+2024,21,04/08/2024,Internacional,Palmeiras,1,1
+2024,21,05/08/2024,Cruzeiro,Fortaleza,1,2
+2024,22,10/08/2024,Fortaleza,Criciúma,1,0
+2024,22,10/08/2024,Cuiabá,Grêmio,1,3
+2024,22,10/08/2024,Cruzeiro,Atlético-MG,0,0
+2024,22,10/08/2024,Vasco da Gama,Fluminense,2,0
+2024,22,10/08/2024,Corinthians,Bragantino,1,1
+2024,22,11/08/2024,Juventude,Botafogo,3,2
+2024,22,11/08/2024,Bahia,Vitória,2,0
+2024,22,11/08/2024,Flamengo,Palmeiras,1,1
+2024,22,11/08/2024,São Paulo,Atlético-GO,1,0
+2024,22,11/08/2024,Internacional,Athletico-PR,2,2
+2024,23,17/08/2024,Grêmio,Bahia,0,2
+2024,23,17/08/2024,Atlético-MG,Cuiabá,1,1
+2024,23,17/08/2024,Bragantino,Fortaleza,1,2
+2024,23,17/08/2024,Fluminense,Corinthians,0,0
+2024,23,18/08/2024,Palmeiras,São Paulo,2,1
+2024,23,18/08/2024,Atlético-GO,Internacional,1,0
+2024,23,18/08/2024,Criciúma,Vasco da Gama,2,2
+2024,23,18/08/2024,Botafogo,Flamengo,4,1
+2024,23,18/08/2024,Athletico-PR,Juventude,1,2
+2024,23,19/08/2024,Vitória,Cruzeiro,2,2
+2024,24,24/08/2024,Atlético-GO,Juventude,2,1
+2024,24,24/08/2024,Palmeiras,Cuiabá,5,0
+2024,24,24/08/2024,Atlético-MG,Fluminense,0,2
+2024,24,25/08/2024,Bahia,Botafogo,0,0
+2024,24,25/08/2024,Fortaleza,Corinthians,1,0
+2024,24,25/08/2024,Criciúma,Grêmio,0,1
+2024,24,25/08/2024,São Paulo,Vitória,2,1
+2024,24,25/08/2024,Internacional,Cruzeiro,1,0
+2024,24,25/08/2024,Flamengo,Bragantino,2,1
+2024,24,26/08/2024,Vasco da Gama,Athletico-PR,2,1
+2024,25,31/08/2024,Cuiabá,Criciúma,2,1
+2024,25,31/08/2024,Botafogo,Fortaleza,2,0
+2024,25,01/09/2024,Grêmio,Atlético-MG,2,3
+2024,25,01/09/2024,Cruzeiro,Atlético-GO,3,1
+2024,25,01/09/2024,Corinthians,Flamengo,2,1
+2024,25,01/09/2024,Vitória,Vasco da Gama,0,1
+2024,25,01/09/2024,Fluminense,São Paulo,2,0
+2024,25,01/09/2024,Bragantino,Bahia,2,1
+2024,25,01/09/2024,Athletico-PR,Palmeiras,0,2
+2024,25,01/09/2024,Juventude,Internacional,1,3
+2024,26,14/09/2024,Atlético-GO,Vitória,0,2
+2024,26,14/09/2024,Athletico-PR,Fortaleza,1,1
+2024,26,14/09/2024,Botafogo,Corinthians,2,1
+2024,26,15/09/2024,Palmeiras,Criciúma,5,0
+2024,26,15/09/2024,Bragantino,Grêmio,2,2
+2024,26,15/09/2024,Juventude,Fluminense,2,1
+2024,26,15/09/2024,Cruzeiro,São Paulo,0,1
+2024,26,15/09/2024,Bahia,Atlético-MG,3,0
+2024,26,15/09/2024,Flamengo,Vasco da Gama,1,1
+2024,26,16/09/2024,Internacional,Cuiabá,3,0
+2024,27,21/09/2024,Vitória,Juventude,1,0
+2024,27,21/09/2024,Corinthians,Atlético-GO,3,0
+2024,27,21/09/2024,Fluminense,Botafogo,0,1
+2024,27,21/09/2024,Fortaleza,Bahia,4,1
+2024,27,22/09/2024,Atlético-MG,Bragantino,3,0
+2024,27,22/09/2024,Vasco da Gama,Palmeiras,0,1
+2024,27,22/09/2024,Grêmio,Flamengo,3,2
+2024,27,22/09/2024,São Paulo,Internacional,1,3
+2024,27,22/09/2024,Cuiabá,Cruzeiro,0,0
+2024,27,22/09/2024,Criciúma,Athletico-PR,0,0
+2024,28,28/09/2024,Palmeiras,Atlético-MG,2,1
+2024,28,28/09/2024,Botafogo,Grêmio,0,0
+2024,28,29/09/2024,Juventude,Bragantino,1,1
+2024,28,29/09/2024,São Paulo,Corinthians,3,1
+2024,28,29/09/2024,Fortaleza,Cuiabá,1,0
+2024,28,29/09/2024,Atlético-GO,Fluminense,1,0
+2024,28,29/09/2024,Internacional,Vitória,3,1
+2024,28,29/09/2024,Cruzeiro,Vasco da Gama,1,1
+2024,28,29/09/2024,Bahia,Criciúma,1,0
+2024,28,29/09/2024,Flamengo,Athletico-PR,1,0
+2024,29,03/10/2024,Criciúma,Atlético-GO,2,0
+2024,29,03/10/2024,Fluminense,Cruzeiro,1,0
+2024,29,04/10/2024,Grêmio,Fortaleza,3,1
+2024,29,05/10/2024,Atlético-MG,Vitória,2,2
+2024,29,05/10/2024,Bragantino,Palmeiras,0,0
+2024,29,05/10/2024,Athletico-PR,Botafogo,0,1
+2024,29,05/10/2024,Bahia,Flamengo,0,2
+2024,29,05/10/2024,Corinthians,Internacional,2,2
+2024,29,05/10/2024,Cuiabá,São Paulo,2,0
+2024,29,05/10/2024,Vasco da Gama,Juventude,1,1
+2024,30,16/10/2024,São Paulo,Vasco da Gama,3,0
+2024,30,16/10/2024,Fortaleza,Atlético-MG,1,1
+2024,30,17/10/2024,Flamengo,Fluminense,0,2
+2024,30,17/10/2024,Corinthians,Athletico-PR,5,2
+2024,30,18/10/2024,Atlético-GO,Cuiabá,0,0
+2024,30,18/10/2024,Botafogo,Criciúma,1,1
+2024,30,18/10/2024,Cruzeiro,Bahia,1,1
+2024,30,19/10/2024,Internacional,Grêmio,1,0
+2024,30,19/10/2024,Vitória,Bragantino,1,0
+2024,30,20/10/2024,Juventude,Palmeiras,3,5
+2024,31,26/10/2024,Grêmio,Atlético-GO,3,1
+2024,31,26/10/2024,Vitória,Fluminense,2,1
+2024,31,26/10/2024,Flamengo,Juventude,4,2
+2024,31,26/10/2024,Palmeiras,Fortaleza,2,2
+2024,31,26/10/2024,Athletico-PR,Cruzeiro,3,0
+2024,31,26/10/2024,Atlético-MG,Internacional,1,3
+2024,31,26/10/2024,Bragantino,Botafogo,0,1
+2024,31,26/10/2024,Criciúma,São Paulo,1,1
+2024,31,28/10/2024,Cuiabá,Corinthians,0,1
+2024,31,28/10/2024,Vasco da Gama,Bahia,3,2
+2024,32,01/11/2024,Fluminense,Grêmio,2,2
+2024,32,02/11/2024,Bragantino,Cuiabá,0,0
+2024,32,02/11/2024,Athletico-PR,Vitória,1,2
+2024,32,02/11/2024,Juventude,Fortaleza,0,3
+2024,32,04/11/2024,Corinthians,Palmeiras,2,0
+2024,32,05/11/2024,Internacional,Criciúma,2,0
+2024,32,05/11/2024,Bahia,São Paulo,0,3
+2024,32,05/11/2024,Botafogo,Vasco da Gama,3,0
+2024,32,06/11/2024,Cruzeiro,Flamengo,0,1
+2024,32,06/11/2024,Atlético-GO,Atlético-MG,1,0
+2024,33,08/11/2024,Internacional,Fluminense,2,0
+2024,33,08/11/2024,Palmeiras,Grêmio,1,0
+2024,33,09/11/2024,Vitória,Corinthians,1,2
+2024,33,09/11/2024,Botafogo,Cuiabá,0,0
+2024,33,09/11/2024,Cruzeiro,Criciúma,2,1
+2024,33,09/11/2024,Fortaleza,Vasco da Gama,3,0
+2024,33,09/11/2024,Atlético-GO,Bragantino,0,0
+2024,33,09/11/2024,Juventude,Bahia,2,1
+2024,33,09/11/2024,São Paulo,Athletico-PR,2,1
+2024,33,13/11/2024,Flamengo,Atlético-MG,0,0
+2024,34,20/11/2024,Corinthians,Cruzeiro,2,1
+2024,34,20/11/2024,Bragantino,São Paulo,1,1
+2024,34,20/11/2024,Athletico-PR,Atlético-GO,2,0
+2024,34,20/11/2024,Criciúma,Vitória,0,1
+2024,34,20/11/2024,Bahia,Palmeiras,1,2
+2024,34,20/11/2024,Grêmio,Juventude,2,2
+2024,34,20/11/2024,Cuiabá,Flamengo,1,2
+2024,34,20/11/2024,Atlético-MG,Botafogo,0,0
+2024,34,21/11/2024,Vasco da Gama,Internacional,0,1
+2024,34,22/11/2024,Fluminense,Fortaleza,2,2
+2024,35,23/11/2024,Botafogo,Vitória,1,1
+2024,35,23/11/2024,Atlético-GO,Palmeiras,0,1
+2024,35,23/11/2024,Juventude,Cuiabá,1,1
+2024,35,23/11/2024,São Paulo,Atlético-MG,2,2
+2024,35,24/11/2024,Internacional,Bragantino,4,1
+2024,35,24/11/2024,Bahia,Athletico-PR,1,1
+2024,35,24/11/2024,Corinthians,Vasco da Gama,3,1
+2024,35,26/11/2024,Fluminense,Criciúma,0,0
+2024,35,26/11/2024,Fortaleza,Flamengo,0,0
+2024,35,27/11/2024,Cruzeiro,Grêmio,1,1
+2024,36,26/11/2024,Atlético-MG,Juventude,2,3
+2024,36,26/11/2024,Palmeiras,Botafogo,1,3
+2024,36,30/11/2024,Cuiabá,Bahia,1,2
+2024,36,30/11/2024,Criciúma,Corinthians,2,4
+2024,36,30/11/2024,Vasco da Gama,Atlético-GO,2,2
+2024,36,01/12/2024,Grêmio,São Paulo,2,1
+2024,36,01/12/2024,Flamengo,Internacional,3,2
+2024,36,01/12/2024,Vitória,Fortaleza,2,0
+2024,36,01/12/2024,Bragantino,Cruzeiro,1,1
+2024,36,01/12/2024,Athletico-PR,Fluminense,1,1
+2024,37,03/12/2024,Corinthians,Bahia,3,0
+2024,37,04/12/2024,Vasco da Gama,Atlético-MG,2,0
+2024,37,04/12/2024,Vitória,Grêmio,1,1
+2024,37,04/12/2024,São Paulo,Juventude,1,2
+2024,37,04/12/2024,Criciúma,Flamengo,0,3
+2024,37,04/12/2024,Internacional,Botafogo,0,1
+2024,37,04/12/2024,Cruzeiro,Palmeiras,1,2
+2024,37,04/12/2024,Atlético-GO,Fortaleza,3,1
+2024,37,05/12/2024,Fluminense,Cuiabá,1,0
+2024,37,05/12/2024,Athletico-PR,Bragantino,1,2
+2024,38,08/12/2024,Grêmio,Corinthians,0,3
+2024,38,08/12/2024,Atlético-MG,Athletico-PR,1,0
+2024,38,08/12/2024,Bahia,Atlético-GO,2,0
+2024,38,08/12/2024,Flamengo,Vitória,2,2
+2024,38,08/12/2024,Botafogo,São Paulo,2,1
+2024,38,08/12/2024,Palmeiras,Fluminense,0,1
+2024,38,08/12/2024,Bragantino,Criciúma,5,1
+2024,38,08/12/2024,Fortaleza,Internacional,3,0
+2024,38,08/12/2024,Cuiabá,Vasco da Gama,1,2
+2024,38,08/12/2024,Juventude,Cruzeiro,0,1
