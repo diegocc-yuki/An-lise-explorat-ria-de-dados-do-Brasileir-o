@@ -1,0 +1,4 @@
+"""
+matplotlib>=3.5.0
+tkinter  # Geralmente já vem com Python
+"""

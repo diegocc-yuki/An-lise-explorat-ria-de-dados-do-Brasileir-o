@@ -1,0 +1,761 @@
+ano,rodada,data,mandante,visitante,gols_mandante,gols_visitante
+2010,1,08/05/2010,Botafogo,Santos,3,3
+2010,1,08/05/2010,Atlético-GO,Grêmio,0,0
+2010,1,08/05/2010,Palmeiras,Vitória,1,0
+2010,1,09/05/2010,Flamengo,São Paulo,1,1
+2010,1,09/05/2010,Atlético-MG,Vasco da Gama,2,1
+2010,1,09/05/2010,Internacional,Cruzeiro,1,2
+2010,1,09/05/2010,Corinthians,Atlético-PR,2,1
+2010,1,09/05/2010,Ceará,Fluminense,1,0
+2010,1,09/05/2010,Guarani,Goiás,1,0
+2010,1,09/05/2010,Avaí,Barueri,6,1
+2010,2,15/05/2010,Fluminense,Atlético-GO,1,0
+2010,2,15/05/2010,Barueri,Atlético-MG,4,0
+2010,2,15/05/2010,Vitória,Flamengo,1,1
+2010,2,16/05/2010,São Paulo,Botafogo,1,2
+2010,2,16/05/2010,Grêmio,Corinthians,1,2
+2010,2,16/05/2010,Goiás,Internacional,2,3
+2010,2,16/05/2010,Santos,Ceará,1,1
+2010,2,16/05/2010,Vasco da Gama,Palmeiras,0,0
+2010,2,16/05/2010,Cruzeiro,Avaí,2,2
+2010,2,16/05/2010,Atlético-PR,Guarani,2,2
+2010,3,22/05/2010,Atlético-GO,Santos,1,2
+2010,3,22/05/2010,Palmeiras,Grêmio,4,2
+2010,3,22/05/2010,Botafogo,Goiás,3,0
+2010,3,23/05/2010,Corinthians,Fluminense,1,0
+2010,3,23/05/2010,Atlético-MG,Atlético-PR,3,1
+2010,3,23/05/2010,Internacional,São Paulo,0,2
+2010,3,23/05/2010,Ceará,Vitória,1,0
+2010,3,23/05/2010,Avaí,Vasco da Gama,2,0
+2010,3,23/05/2010,Flamengo,Barueri,3,1
+2010,3,23/05/2010,Guarani,Cruzeiro,2,2
+2010,4,26/05/2010,Vitória,Atlético-MG,4,3
+2010,4,26/05/2010,Grêmio,Avaí,3,0
+2010,4,26/05/2010,Fluminense,Flamengo,2,1
+2010,4,26/05/2010,São Paulo,Palmeiras,1,0
+2010,4,26/05/2010,Barueri,Corinthians,2,2
+2010,4,26/05/2010,Cruzeiro,Botafogo,1,0
+2010,4,27/05/2010,Santos,Guarani,3,1
+2010,4,27/05/2010,Vasco da Gama,Internacional,3,2
+2010,4,27/05/2010,Atlético-PR,Atlético-GO,2,1
+2010,4,27/05/2010,Goiás,Ceará,0,0
+2010,5,29/05/2010,Flamengo,Grêmio,1,1
+2010,5,29/05/2010,Palmeiras,Barueri,0,0
+2010,5,29/05/2010,Avaí,Vitória,0,0
+2010,5,30/05/2010,Corinthians,Santos,4,2
+2010,5,30/05/2010,Guarani,São Paulo,0,0
+2010,5,30/05/2010,Atlético-MG,Fluminense,1,3
+2010,5,30/05/2010,Internacional,Atlético-PR,4,1
+2010,5,30/05/2010,Ceará,Cruzeiro,1,0
+2010,5,30/05/2010,Atlético-GO,Goiás,1,3
+2010,5,30/05/2010,Botafogo,Vasco da Gama,1,1
+2010,6,02/06/2010,Atlético-PR,Botafogo,3,2
+2010,6,02/06/2010,Fluminense,Vitória,2,1
+2010,6,02/06/2010,Barueri,Atlético-GO,1,0
+2010,6,02/06/2010,Ceará,Avaí,2,0
+2010,6,02/06/2010,Palmeiras,Flamengo,0,1
+2010,6,02/06/2010,Goiás,São Paulo,2,1
+2010,6,02/06/2010,Cruzeiro,Santos,0,0
+2010,6,03/06/2010,Grêmio,Atlético-MG,2,1
+2010,6,03/06/2010,Vasco da Gama,Guarani,0,1
+2010,6,03/06/2010,Corinthians,Internacional,2,0
+2010,7,05/06/2010,Avaí,Fluminense,0,3
+2010,7,05/06/2010,Flamengo,Goiás,1,2
+2010,7,05/06/2010,Vitória,Atlético-PR,1,0
+2010,7,06/06/2010,São Paulo,Grêmio,3,1
+2010,7,06/06/2010,Santos,Vasco da Gama,4,0
+2010,7,06/06/2010,Botafogo,Corinthians,2,2
+2010,7,06/06/2010,Atlético-MG,Ceará,0,1
+2010,7,06/06/2010,Internacional,Palmeiras,1,1
+2010,7,06/06/2010,Guarani,Barueri,1,0
+2010,7,06/06/2010,Atlético-GO,Cruzeiro,2,1
+2010,8,14/07/2010,Grêmio,Vitória,1,1
+2010,8,14/07/2010,Atlético-PR,Cruzeiro,0,2
+2010,8,14/07/2010,São Paulo,Avaí,1,2
+2010,8,14/07/2010,Flamengo,Botafogo,1,0
+2010,8,14/07/2010,Guarani,Internacional,0,3
+2010,8,14/07/2010,Goiás,Vasco da Gama,0,0
+2010,8,14/07/2010,Ceará,Corinthians,0,0
+2010,8,15/07/2010,Palmeiras,Santos,2,1
+2010,8,15/07/2010,Atlético-MG,Atlético-GO,3,2
+2010,8,15/07/2010,Fluminense,Barueri,1,1
+2010,9,17/07/2010,Vitória,São Paulo,3,2
+2010,9,17/07/2010,Vasco da Gama,Atlético-PR,3,1
+2010,9,18/07/2010,Corinthians,Atlético-MG,1,0
+2010,9,18/07/2010,Atlético-GO,Flamengo,0,1
+2010,9,18/07/2010,Avaí,Palmeiras,4,2
+2010,9,18/07/2010,Internacional,Ceará,2,1
+2010,9,18/07/2010,Cruzeiro,Goiás,1,0
+2010,9,18/07/2010,Santos,Fluminense,0,1
+2010,9,18/07/2010,Botafogo,Guarani,1,1
+2010,9,18/07/2010,Barueri,Grêmio,2,0
+2010,10,21/07/2010,Atlético-MG,Internacional,1,2
+2010,10,21/07/2010,Vitória,Goiás,2,2
+2010,10,21/07/2010,São Paulo,Barueri,1,1
+2010,10,21/07/2010,Flamengo,Avaí,1,1
+2010,10,21/07/2010,Atlético-PR,Santos,2,0
+2010,10,21/07/2010,Grêmio,Vasco da Gama,1,1
+2010,10,21/07/2010,Atlético-GO,Corinthians,3,1
+2010,10,22/07/2010,Fluminense,Cruzeiro,1,0
+2010,10,22/07/2010,Guarani,Ceará,1,1
+2010,10,22/07/2010,Palmeiras,Botafogo,2,2
+2010,11,24/07/2010,Avaí,Atlético-MG,0,0
+2010,11,24/07/2010,Vasco da Gama,Atlético-GO,2,0
+2010,11,24/07/2010,Barueri,Vitória,0,0
+2010,11,25/07/2010,Santos,São Paulo,1,0
+2010,11,25/07/2010,Cruzeiro,Grêmio,2,2
+2010,11,25/07/2010,Internacional,Flamengo,1,0
+2010,11,25/07/2010,Goiás,Atlético-PR,0,2
+2010,11,25/07/2010,Ceará,Palmeiras,0,0
+2010,11,25/07/2010,Corinthians,Guarani,3,1
+2010,11,25/07/2010,Botafogo,Fluminense,1,1
+2010,12,31/07/2010,Fluminense,Atlético-PR,3,1
+2010,12,31/07/2010,Atlético-GO,Guarani,1,1
+2010,12,31/07/2010,São Paulo,Ceará,2,1
+2010,12,01/08/2010,Palmeiras,Corinthians,1,1
+2010,12,01/08/2010,Vitória,Botafogo,1,3
+2010,12,01/08/2010,Avaí,Goiás,4,1
+2010,12,01/08/2010,Internacional,Grêmio,0,0
+2010,12,01/08/2010,Atlético-MG,Cruzeiro,0,1
+2010,12,01/08/2010,Barueri,Santos,1,2
+2010,12,01/08/2010,Flamengo,Vasco da Gama,0,0
+2010,13,07/08/2010,Botafogo,Atlético-MG,3,0
+2010,13,07/08/2010,Guarani,Avaí,4,1
+2010,13,08/08/2010,Corinthians,Flamengo,1,0
+2010,13,08/08/2010,Goiás,Palmeiras,1,1
+2010,13,08/08/2010,Ceará,Atlético-GO,0,0
+2010,13,08/08/2010,Grêmio,Fluminense,1,2
+2010,13,08/08/2010,Atlético-PR,São Paulo,1,1
+2010,13,08/08/2010,Vasco da Gama,Vitória,1,0
+2010,13,08/08/2010,Cruzeiro,Barueri,0,0
+2010,13,13/10/2010,Santos,Internacional,1,0
+2010,14,14/08/2010,Atlético-GO,Botafogo,0,2
+2010,14,14/08/2010,Palmeiras,Atlético-PR,2,0
+2010,14,14/08/2010,Flamengo,Ceará,1,0
+2010,14,15/08/2010,Atlético-MG,Guarani,3,1
+2010,14,15/08/2010,São Paulo,Cruzeiro,2,2
+2010,14,15/08/2010,Barueri,Vasco da Gama,1,2
+2010,14,15/08/2010,Avaí,Corinthians,3,2
+2010,14,15/08/2010,Fluminense,Internacional,3,0
+2010,14,15/08/2010,Vitória,Santos,4,2
+2010,14,15/08/2010,Grêmio,Goiás,2,0
+2010,15,21/08/2010,Ceará,Grêmio,2,1
+2010,15,21/08/2010,Goiás,Barueri,1,2
+2010,15,21/08/2010,Botafogo,Avaí,1,0
+2010,15,22/08/2010,Santos,Atlético-MG,2,0
+2010,15,22/08/2010,Guarani,Palmeiras,0,0
+2010,15,22/08/2010,Atlético-PR,Flamengo,1,0
+2010,15,22/08/2010,Internacional,Atlético-GO,1,1
+2010,15,22/08/2010,Cruzeiro,Vitória,0,1
+2010,15,22/08/2010,Corinthians,São Paulo,3,0
+2010,15,22/08/2010,Vasco da Gama,Fluminense,2,2
+2010,16,25/08/2010,Goiás,Fluminense,0,3
+2010,16,25/08/2010,Avaí,Internacional,0,1
+2010,16,25/08/2010,Botafogo,Ceará,1,0
+2010,16,25/08/2010,Barueri,Atlético-PR,0,1
+2010,16,25/08/2010,São Paulo,Vasco da Gama,0,0
+2010,16,25/08/2010,Cruzeiro,Corinthians,1,0
+2010,16,25/08/2010,Grêmio,Santos,1,2
+2010,16,26/08/2010,Flamengo,Atlético-MG,0,0
+2010,16,26/08/2010,Vitória,Guarani,1,1
+2010,16,26/08/2010,Palmeiras,Atlético-GO,0,3
+2010,17,28/08/2010,Internacional,Botafogo,1,0
+2010,17,28/08/2010,Vasco da Gama,Cruzeiro,1,1
+2010,17,28/08/2010,Ceará,Barueri,2,2
+2010,17,28/08/2010,Santos,Goiás,2,0
+2010,17,29/08/2010,Corinthians,Vitória,2,1
+2010,17,29/08/2010,Guarani,Flamengo,2,1
+2010,17,29/08/2010,Atlético-MG,Palmeiras,1,2
+2010,17,29/08/2010,Fluminense,São Paulo,2,2
+2010,17,29/08/2010,Atlético-GO,Avaí,2,2
+2010,17,29/08/2010,Atlético-PR,Grêmio,1,1
+2010,18,01/09/2010,Vitória,Internacional,0,0
+2010,18,01/09/2010,Grêmio,Guarani,1,0
+2010,18,01/09/2010,Barueri,Botafogo,0,1
+2010,18,01/09/2010,Goiás,Atlético-MG,1,3
+2010,18,01/09/2010,Cruzeiro,Flamengo,1,0
+2010,18,01/09/2010,Atlético-PR,Ceará,2,1
+2010,18,01/09/2010,Fluminense,Palmeiras,1,1
+2010,18,02/09/2010,Santos,Avaí,2,1
+2010,18,02/09/2010,São Paulo,Atlético-GO,2,1
+2010,18,13/10/2010,Vasco da Gama,Corinthians,2,0
+2010,19,04/09/2010,Botafogo,Grêmio,2,2
+2010,19,04/09/2010,Ceará,Vasco da Gama,0,2
+2010,19,04/09/2010,Corinthians,Goiás,5,1
+2010,19,05/09/2010,Avaí,Atlético-PR,0,1
+2010,19,05/09/2010,Palmeiras,Cruzeiro,2,3
+2010,19,05/09/2010,Guarani,Fluminense,2,1
+2010,19,05/09/2010,Flamengo,Santos,0,0
+2010,19,05/09/2010,Atlético-MG,São Paulo,2,3
+2010,19,05/09/2010,Atlético-GO,Vitória,4,1
+2010,19,05/09/2010,Internacional,Barueri,2,0
+2010,20,08/09/2010,Fluminense,Ceará,3,1
+2010,20,08/09/2010,Cruzeiro,Internacional,1,0
+2010,20,08/09/2010,Grêmio,Atlético-GO,2,0
+2010,20,08/09/2010,Goiás,Guarani,3,1
+2010,20,09/09/2010,São Paulo,Flamengo,2,0
+2010,20,09/09/2010,Vitória,Palmeiras,1,1
+2010,20,09/09/2010,Atlético-PR,Corinthians,1,1
+2010,20,09/09/2010,Santos,Botafogo,0,1
+2010,20,09/09/2010,Vasco da Gama,Atlético-MG,1,1
+2010,20,09/09/2010,Barueri,Avaí,1,1
+2010,21,11/09/2010,Corinthians,Grêmio,0,1
+2010,21,11/09/2010,Flamengo,Vitória,2,2
+2010,21,11/09/2010,Atlético-GO,Fluminense,2,1
+2010,21,12/09/2010,Palmeiras,Vasco da Gama,0,0
+2010,21,12/09/2010,Botafogo,São Paulo,2,0
+2010,21,12/09/2010,Atlético-MG,Barueri,1,0
+2010,21,12/09/2010,Avaí,Cruzeiro,1,2
+2010,21,12/09/2010,Guarani,Atlético-PR,1,0
+2010,21,12/09/2010,Internacional,Goiás,0,0
+2010,21,12/09/2010,Ceará,Santos,2,1
+2010,22,15/09/2010,Santos,Atlético-GO,4,2
+2010,22,15/09/2010,Fluminense,Corinthians,1,2
+2010,22,15/09/2010,Barueri,Flamengo,1,2
+2010,22,15/09/2010,Cruzeiro,Guarani,4,2
+2010,22,15/09/2010,Grêmio,Palmeiras,1,2
+2010,22,15/09/2010,Goiás,Botafogo,4,1
+2010,22,15/09/2010,Vitória,Ceará,0,0
+2010,22,15/09/2010,Atlético-PR,Atlético-MG,2,1
+2010,22,16/09/2010,São Paulo,Internacional,1,3
+2010,22,16/09/2010,Vasco da Gama,Avaí,1,1
+2010,23,18/09/2010,Botafogo,Cruzeiro,2,2
+2010,23,18/09/2010,Atlético-GO,Atlético-PR,1,2
+2010,23,18/09/2010,Corinthians,Barueri,3,0
+2010,23,19/09/2010,Palmeiras,São Paulo,0,2
+2010,23,19/09/2010,Guarani,Santos,0,0
+2010,23,19/09/2010,Atlético-MG,Vitória,2,3
+2010,23,19/09/2010,Internacional,Vasco da Gama,1,0
+2010,23,19/09/2010,Flamengo,Fluminense,3,3
+2010,23,19/09/2010,Ceará,Goiás,1,1
+2010,23,19/09/2010,Avaí,Grêmio,0,3
+2010,24,22/09/2010,São Paulo,Guarani,2,1
+2010,24,22/09/2010,Barueri,Palmeiras,0,1
+2010,24,22/09/2010,Cruzeiro,Ceará,2,0
+2010,24,22/09/2010,Goiás,Atlético-GO,1,3
+2010,24,22/09/2010,Vasco da Gama,Botafogo,2,2
+2010,24,22/09/2010,Santos,Corinthians,2,3
+2010,24,22/09/2010,Atlético-PR,Internacional,1,0
+2010,24,22/09/2010,Grêmio,Flamengo,2,2
+2010,24,23/09/2010,Fluminense,Atlético-MG,5,1
+2010,24,23/09/2010,Vitória,Avaí,3,0
+2010,25,25/09/2010,São Paulo,Goiás,0,3
+2010,25,25/09/2010,Santos,Cruzeiro,4,1
+2010,25,25/09/2010,Flamengo,Palmeiras,1,3
+2010,25,25/09/2010,Guarani,Vasco da Gama,1,0
+2010,25,25/09/2010,Atlético-GO,Barueri,3,0
+2010,25,26/09/2010,Botafogo,Atlético-PR,1,1
+2010,25,26/09/2010,Internacional,Corinthians,3,2
+2010,25,26/09/2010,Vitória,Fluminense,1,2
+2010,25,26/09/2010,Atlético-MG,Grêmio,1,2
+2010,25,26/09/2010,Avaí,Ceará,5,0
+2010,26,28/09/2010,Vasco da Gama,Santos,3,1
+2010,26,29/09/2010,Goiás,Flamengo,1,1
+2010,26,29/09/2010,Palmeiras,Internacional,2,0
+2010,26,29/09/2010,Barueri,Guarani,4,2
+2010,26,29/09/2010,Cruzeiro,Atlético-GO,3,0
+2010,26,29/09/2010,Atlético-PR,Vitória,1,0
+2010,26,29/09/2010,Fluminense,Avaí,1,0
+2010,26,29/09/2010,Corinthians,Botafogo,1,1
+2010,26,29/09/2010,Grêmio,São Paulo,4,2
+2010,26,29/09/2010,Ceará,Atlético-MG,0,0
+2010,27,01/10/2010,Vasco da Gama,Goiás,3,2
+2010,27,02/10/2010,Corinthians,Ceará,2,2
+2010,27,02/10/2010,Santos,Palmeiras,1,1
+2010,27,02/10/2010,Barueri,Fluminense,1,1
+2010,27,02/10/2010,Vitória,Grêmio,0,3
+2010,27,02/10/2010,Botafogo,Flamengo,1,1
+2010,27,02/10/2010,Cruzeiro,Atlético-PR,0,0
+2010,27,02/10/2010,Internacional,Guarani,3,0
+2010,27,02/10/2010,Atlético-GO,Atlético-MG,2,3
+2010,27,02/10/2010,Avaí,São Paulo,0,0
+2010,28,06/10/2010,Fluminense,Santos,0,3
+2010,28,06/10/2010,Guarani,Botafogo,1,1
+2010,28,06/10/2010,Grêmio,Barueri,4,0
+2010,28,06/10/2010,São Paulo,Vitória,2,0
+2010,28,06/10/2010,Atlético-MG,Corinthians,2,1
+2010,28,06/10/2010,Ceará,Internacional,1,0
+2010,28,06/10/2010,Atlético-PR,Vasco da Gama,0,0
+2010,28,07/10/2010,Palmeiras,Avaí,4,1
+2010,28,07/10/2010,Flamengo,Atlético-GO,2,0
+2010,28,07/10/2010,Goiás,Cruzeiro,0,1
+2010,29,09/10/2010,Santos,Atlético-PR,2,0
+2010,29,09/10/2010,Vasco da Gama,Grêmio,3,3
+2010,29,09/10/2010,Barueri,São Paulo,2,3
+2010,29,10/10/2010,Corinthians,Atlético-GO,3,4
+2010,29,10/10/2010,Botafogo,Palmeiras,0,0
+2010,29,10/10/2010,Cruzeiro,Fluminense,1,0
+2010,29,10/10/2010,Goiás,Vitória,1,0
+2010,29,10/10/2010,Avaí,Flamengo,2,2
+2010,29,10/10/2010,Internacional,Atlético-MG,1,0
+2010,29,10/10/2010,Ceará,Guarani,2,0
+2010,30,16/10/2010,Flamengo,Internacional,3,0
+2010,30,16/10/2010,Atlético-PR,Goiás,2,1
+2010,30,17/10/2010,Guarani,Corinthians,0,0
+2010,30,17/10/2010,Atlético-MG,Avaí,2,0
+2010,30,17/10/2010,Grêmio,Cruzeiro,2,1
+2010,30,17/10/2010,Atlético-GO,Vasco da Gama,2,0
+2010,30,17/10/2010,São Paulo,Santos,4,3
+2010,30,17/10/2010,Palmeiras,Ceará,1,1
+2010,30,17/10/2010,Fluminense,Botafogo,0,0
+2010,30,17/10/2010,Vitória,Barueri,2,0
+2010,31,23/10/2010,Botafogo,Vitória,1,0
+2010,31,23/10/2010,Guarani,Atlético-GO,0,1
+2010,31,24/10/2010,Corinthians,Palmeiras,1,0
+2010,31,24/10/2010,Goiás,Avaí,1,0
+2010,31,24/10/2010,Ceará,São Paulo,2,0
+2010,31,24/10/2010,Atlético-PR,Fluminense,2,2
+2010,31,24/10/2010,Santos,Barueri,2,3
+2010,31,24/10/2010,Vasco da Gama,Flamengo,1,1
+2010,31,24/10/2010,Cruzeiro,Atlético-MG,3,4
+2010,31,24/10/2010,Grêmio,Internacional,2,2
+2010,32,27/10/2010,Flamengo,Corinthians,1,1
+2010,32,28/10/2010,São Paulo,Atlético-PR,2,1
+2010,32,28/10/2010,Fluminense,Grêmio,2,0
+2010,32,28/10/2010,Atlético-GO,Ceará,1,1
+2010,32,30/10/2010,Internacional,Santos,1,1
+2010,32,30/10/2010,Vitória,Vasco da Gama,4,2
+2010,32,30/10/2010,Palmeiras,Goiás,3,2
+2010,32,30/10/2010,Barueri,Cruzeiro,0,2
+2010,32,30/10/2010,Atlético-MG,Botafogo,0,2
+2010,32,30/10/2010,Avaí,Guarani,1,0
+2010,33,03/11/2010,Santos,Vitória,1,1
+2010,33,03/11/2010,Botafogo,Atlético-GO,3,2
+2010,33,03/11/2010,Guarani,Atlético-MG,0,0
+2010,33,03/11/2010,Internacional,Fluminense,0,0
+2010,33,03/11/2010,Goiás,Grêmio,0,2
+2010,33,03/11/2010,Corinthians,Avaí,4,0
+2010,33,03/11/2010,Cruzeiro,São Paulo,0,2
+2010,33,03/11/2010,Ceará,Flamengo,2,2
+2010,33,03/11/2010,Vasco da Gama,Barueri,2,1
+2010,33,04/11/2010,Atlético-PR,Palmeiras,1,0
+2010,34,07/11/2010,São Paulo,Corinthians,0,2
+2010,34,07/11/2010,Barueri,Goiás,4,1
+2010,34,07/11/2010,Vitória,Cruzeiro,0,1
+2010,34,07/11/2010,Avaí,Botafogo,0,0
+2010,34,07/11/2010,Atlético-MG,Santos,2,2
+2010,34,07/11/2010,Grêmio,Ceará,5,1
+2010,34,07/11/2010,Atlético-GO,Internacional,2,2
+2010,34,07/11/2010,Palmeiras,Guarani,1,0
+2010,34,07/11/2010,Flamengo,Atlético-PR,0,1
+2010,34,07/11/2010,Fluminense,Vasco da Gama,1,0
+2010,35,10/11/2010,Ceará,Botafogo,2,2
+2010,35,13/11/2010,Corinthians,Cruzeiro,1,0
+2010,35,13/11/2010,Santos,Grêmio,0,0
+2010,35,13/11/2010,Atlético-MG,Flamengo,4,1
+2010,35,14/11/2010,Fluminense,Goiás,1,1
+2010,35,14/11/2010,Internacional,Avaí,2,3
+2010,35,14/11/2010,Atlético-GO,Palmeiras,3,0
+2010,35,14/11/2010,Guarani,Vitória,1,1
+2010,35,14/11/2010,Vasco da Gama,São Paulo,1,1
+2010,35,14/11/2010,Atlético-PR,Barueri,2,1
+2010,36,20/11/2010,Flamengo,Guarani,2,1
+2010,36,20/11/2010,Barueri,Ceará,1,1
+2010,36,20/11/2010,Grêmio,Atlético-PR,3,1
+2010,36,21/11/2010,São Paulo,Fluminense,1,4
+2010,36,21/11/2010,Palmeiras,Atlético-MG,0,2
+2010,36,21/11/2010,Botafogo,Internacional,1,2
+2010,36,21/11/2010,Vitória,Corinthians,1,1
+2010,36,21/11/2010,Cruzeiro,Vasco da Gama,3,1
+2010,36,21/11/2010,Goiás,Santos,1,4
+2010,36,21/11/2010,Avaí,Atlético-GO,3,0
+2010,37,28/11/2010,Corinthians,Vasco da Gama,2,0
+2010,37,28/11/2010,Palmeiras,Fluminense,1,2
+2010,37,28/11/2010,Flamengo,Cruzeiro,1,2
+2010,37,28/11/2010,Botafogo,Barueri,3,1
+2010,37,28/11/2010,Guarani,Grêmio,0,3
+2010,37,28/11/2010,Atlético-MG,Goiás,3,1
+2010,37,28/11/2010,Internacional,Vitória,1,1
+2010,37,28/11/2010,Atlético-GO,São Paulo,1,1
+2010,37,28/11/2010,Ceará,Atlético-PR,1,1
+2010,37,28/11/2010,Avaí,Santos,3,2
+2010,38,02/12/2010,Barueri,Internacional,0,3
+2010,38,05/12/2010,São Paulo,Atlético-MG,4,0
+2010,38,05/12/2010,Santos,Flamengo,0,0
+2010,38,05/12/2010,Vasco da Gama,Ceará,2,0
+2010,38,05/12/2010,Fluminense,Guarani,1,0
+2010,38,05/12/2010,Cruzeiro,Palmeiras,2,1
+2010,38,05/12/2010,Grêmio,Botafogo,3,0
+2010,38,05/12/2010,Goiás,Corinthians,1,1
+2010,38,05/12/2010,Vitória,Atlético-GO,0,0
+2010,38,05/12/2010,Atlético-PR,Avaí,1,0
+2011,1,21/05/2011,Flamengo,Avaí,4,0
+2011,1,21/05/2011,Ceará,Vasco da Gama,1,3
+2011,1,21/05/2011,Atlético-MG,Atlético-PR,3,0
+2011,1,21/05/2011,Santos,Internacional,1,1
+2011,1,22/05/2011,Palmeiras,Botafogo,1,0
+2011,1,22/05/2011,Grêmio,Corinthians,1,2
+2011,1,22/05/2011,Coritiba,Atlético-GO,0,1
+2011,1,22/05/2011,Figueirense,Cruzeiro,1,0
+2011,1,22/05/2011,Fluminense,São Paulo,0,2
+2011,1,22/05/2011,América-MG,Bahia,2,1
+2011,2,28/05/2011,Internacional,Ceará,0,1
+2011,2,28/05/2011,Botafogo,Santos,1,0
+2011,2,28/05/2011,Avaí,Atlético-MG,1,3
+2011,2,28/05/2011,São Paulo,Figueirense,1,0
+2011,2,29/05/2011,Corinthians,Coritiba,2,1
+2011,2,29/05/2011,Bahia,Flamengo,3,3
+2011,2,29/05/2011,Atlético-PR,Grêmio,0,1
+2011,2,29/05/2011,Cruzeiro,Palmeiras,1,1
+2011,2,29/05/2011,Atlético-GO,Fluminense,0,1
+2011,2,29/05/2011,Vasco da Gama,América-MG,3,0
+2011,3,04/06/2011,Palmeiras,Atlético-PR,1,0
+2011,3,04/06/2011,Fluminense,Cruzeiro,2,1
+2011,3,04/06/2011,Ceará,Botafogo,2,2
+2011,3,04/06/2011,Figueirense,Atlético-GO,2,0
+2011,3,05/06/2011,Flamengo,Corinthians,1,1
+2011,3,05/06/2011,Grêmio,Bahia,2,0
+2011,3,05/06/2011,Coritiba,Vasco da Gama,5,1
+2011,3,05/06/2011,América-MG,Internacional,2,4
+2011,3,05/06/2011,Santos,Avaí,3,1
+2011,3,08/06/2011,Atlético-MG,São Paulo,0,1
+2011,4,11/06/2011,Cruzeiro,Santos,1,1
+2011,4,11/06/2011,Avaí,América-MG,2,2
+2011,4,11/06/2011,São Paulo,Grêmio,3,1
+2011,4,11/06/2011,Vasco da Gama,Figueirense,1,1
+2011,4,12/06/2011,Bahia,Atlético-MG,1,1
+2011,4,12/06/2011,Atlético-GO,Ceará,4,1
+2011,4,12/06/2011,Internacional,Palmeiras,2,2
+2011,4,12/06/2011,Corinthians,Fluminense,2,0
+2011,4,12/06/2011,Atlético-PR,Flamengo,1,1
+2011,4,12/06/2011,Botafogo,Coritiba,3,1
+2011,5,18/06/2011,Fluminense,Bahia,0,1
+2011,5,18/06/2011,América-MG,Cruzeiro,1,1
+2011,5,19/06/2011,Palmeiras,Avaí,5,0
+2011,5,19/06/2011,Grêmio,Vasco da Gama,1,1
+2011,5,19/06/2011,Figueirense,Atlético-PR,2,0
+2011,5,19/06/2011,Flamengo,Botafogo,0,0
+2011,5,19/06/2011,Ceará,São Paulo,0,2
+2011,5,19/06/2011,Atlético-MG,Atlético-GO,2,2
+2011,5,19/06/2011,Coritiba,Internacional,1,1
+2011,5,10/08/2011,Santos,Corinthians,0,0
+2011,6,25/06/2011,Flamengo,Atlético-MG,4,1
+2011,6,25/06/2011,Atlético-PR,Bahia,0,2
+2011,6,25/06/2011,Cruzeiro,Coritiba,2,1
+2011,6,26/06/2011,Corinthians,São Paulo,5,0
+2011,6,26/06/2011,Botafogo,Grêmio,2,1
+2011,6,26/06/2011,Ceará,Palmeiras,2,0
+2011,6,26/06/2011,Avaí,Fluminense,0,1
+2011,6,26/06/2011,Atlético-GO,Vasco da Gama,0,1
+2011,6,26/06/2011,Internacional,Figueirense,4,1
+2011,6,02/07/2011,Santos,América-MG,1,0
+2011,7,29/06/2011,Vasco da Gama,Cruzeiro,0,3
+2011,7,29/06/2011,Grêmio,Avaí,2,2
+2011,7,29/06/2011,América-MG,Flamengo,2,3
+2011,7,29/06/2011,Figueirense,Santos,2,1
+2011,7,29/06/2011,Bahia,Corinthians,0,1
+2011,7,29/06/2011,São Paulo,Botafogo,0,2
+2011,7,30/06/2011,Palmeiras,Atlético-GO,2,0
+2011,7,30/06/2011,Coritiba,Ceará,3,1
+2011,7,30/06/2011,Atlético-MG,Internacional,0,4
+2011,7,30/06/2011,Fluminense,Atlético-PR,3,1
+2011,8,06/07/2011,Internacional,Atlético-PR,1,0
+2011,8,06/07/2011,Cruzeiro,Grêmio,2,0
+2011,8,06/07/2011,Avaí,Bahia,2,2
+2011,8,06/07/2011,Corinthians,Vasco da Gama,2,1
+2011,8,06/07/2011,Flamengo,São Paulo,1,0
+2011,8,06/07/2011,Ceará,Atlético-MG,3,0
+2011,8,07/07/2011,Botafogo,Atlético-GO,1,1
+2011,8,07/07/2011,Coritiba,Figueirense,3,0
+2011,8,07/07/2011,América-MG,Palmeiras,1,1
+2011,8,24/08/2011,Santos,Fluminense,2,1
+2011,9,09/07/2011,Vasco da Gama,Internacional,2,0
+2011,9,09/07/2011,São Paulo,Cruzeiro,2,1
+2011,9,09/07/2011,Atlético-PR,Avaí,0,0
+2011,9,10/07/2011,Grêmio,Coritiba,2,0
+2011,9,10/07/2011,Atlético-GO,Corinthians,0,1
+2011,9,10/07/2011,Bahia,Botafogo,1,1
+2011,9,10/07/2011,Fluminense,Flamengo,0,1
+2011,9,10/07/2011,Figueirense,Ceará,1,1
+2011,9,10/07/2011,Palmeiras,Santos,3,0
+2011,9,10/07/2011,Atlético-MG,América-MG,2,0
+2011,10,16/07/2011,Vasco da Gama,Atlético-PR,2,1
+2011,10,16/07/2011,Coritiba,Fluminense,3,1
+2011,10,16/07/2011,Atlético-GO,Avaí,0,1
+2011,10,16/07/2011,Santos,Atlético-MG,2,1
+2011,10,17/07/2011,Ceará,América-MG,4,0
+2011,10,17/07/2011,Internacional,São Paulo,0,3
+2011,10,17/07/2011,Cruzeiro,Bahia,2,1
+2011,10,20/07/2011,Palmeiras,Flamengo,0,0
+2011,10,20/07/2011,Botafogo,Corinthians,0,2
+2011,10,20/07/2011,Figueirense,Grêmio,0,0
+2011,11,21/07/2011,Avaí,Internacional,1,3
+2011,11,23/07/2011,Atlético-PR,Botafogo,2,1
+2011,11,23/07/2011,São Paulo,Atlético-GO,2,2
+2011,11,23/07/2011,América-MG,Figueirense,0,0
+2011,11,23/07/2011,Flamengo,Ceará,1,1
+2011,11,24/07/2011,Fluminense,Palmeiras,1,0
+2011,11,24/07/2011,Corinthians,Cruzeiro,0,1
+2011,11,24/07/2011,Atlético-MG,Vasco da Gama,1,2
+2011,11,24/07/2011,Bahia,Coritiba,0,0
+2011,11,05/10/2011,Grêmio,Santos,1,0
+2011,12,14/07/2011,Corinthians,Internacional,1,0
+2011,12,27/07/2011,Botafogo,Avaí,2,1
+2011,12,27/07/2011,Grêmio,América-MG,1,1
+2011,12,27/07/2011,Atlético-MG,Fluminense,1,0
+2011,12,27/07/2011,Atlético-GO,Cruzeiro,2,0
+2011,12,27/07/2011,Santos,Flamengo,4,5
+2011,12,27/07/2011,Figueirense,Palmeiras,0,1
+2011,12,27/07/2011,Coritiba,São Paulo,3,4
+2011,12,28/07/2011,Vasco da Gama,Bahia,1,1
+2011,12,28/07/2011,Ceará,Atlético-PR,2,1
+2011,13,30/07/2011,Flamengo,Grêmio,2,0
+2011,13,30/07/2011,Cruzeiro,Botafogo,0,1
+2011,13,30/07/2011,Palmeiras,Atlético-MG,3,2
+2011,13,31/07/2011,São Paulo,Vasco da Gama,0,2
+2011,13,31/07/2011,Fluminense,Ceará,4,0
+2011,13,31/07/2011,Internacional,Atlético-GO,0,0
+2011,13,31/07/2011,Avaí,Corinthians,3,2
+2011,13,31/07/2011,América-MG,Coritiba,1,3
+2011,13,31/07/2011,Atlético-PR,Santos,3,2
+2011,13,31/07/2011,Bahia,Figueirense,3,1
+2011,14,03/08/2011,Corinthians,América-MG,2,1
+2011,14,03/08/2011,Grêmio,Atlético-MG,2,2
+2011,14,03/08/2011,Figueirense,Botafogo,2,0
+2011,14,03/08/2011,Ceará,Avaí,0,3
+2011,14,03/08/2011,Vasco da Gama,Santos,2,0
+2011,14,03/08/2011,Cruzeiro,Flamengo,0,1
+2011,14,03/08/2011,Coritiba,Palmeiras,1,1
+2011,14,04/08/2011,São Paulo,Bahia,3,0
+2011,14,04/08/2011,Fluminense,Internacional,2,0
+2011,14,04/08/2011,Atlético-GO,Atlético-PR,0,3
+2011,15,06/08/2011,Flamengo,Coritiba,1,0
+2011,15,06/08/2011,Palmeiras,Grêmio,0,0
+2011,15,06/08/2011,Atlético-MG,Figueirense,1,2
+2011,15,07/08/2011,Internacional,Cruzeiro,3,2
+2011,15,07/08/2011,Santos,Ceará,1,0
+2011,15,07/08/2011,Atlético-PR,Corinthians,1,1
+2011,15,07/08/2011,América-MG,Fluminense,3,0
+2011,15,07/08/2011,Botafogo,Vasco da Gama,4,0
+2011,15,07/08/2011,Avaí,São Paulo,1,2
+2011,15,07/08/2011,Bahia,Atlético-GO,2,1
+2011,16,13/08/2011,São Paulo,Atlético-PR,2,2
+2011,16,13/08/2011,Atlético-GO,Santos,2,0
+2011,16,13/08/2011,Cruzeiro,Avaí,5,0
+2011,16,13/08/2011,Botafogo,América-MG,4,2
+2011,16,14/08/2011,Corinthians,Ceará,2,2
+2011,16,14/08/2011,Vasco da Gama,Palmeiras,1,0
+2011,16,14/08/2011,Figueirense,Flamengo,2,2
+2011,16,14/08/2011,Coritiba,Atlético-MG,3,0
+2011,16,14/08/2011,Grêmio,Fluminense,2,1
+2011,16,14/08/2011,Bahia,Internacional,1,1
+2011,17,17/08/2011,Fluminense,Figueirense,3,0
+2011,17,17/08/2011,Atlético-PR,Cruzeiro,2,1
+2011,17,17/08/2011,Ceará,Grêmio,3,0
+2011,17,17/08/2011,Avaí,Vasco da Gama,0,2
+2011,17,17/08/2011,Internacional,Botafogo,1,0
+2011,17,17/08/2011,Santos,Coritiba,2,3
+2011,17,17/08/2011,Atlético-MG,Corinthians,2,3
+2011,17,18/08/2011,Palmeiras,Bahia,1,1
+2011,17,18/08/2011,América-MG,São Paulo,1,1
+2011,17,18/08/2011,Flamengo,Atlético-GO,1,4
+2011,18,20/08/2011,Cruzeiro,Ceará,1,0
+2011,18,20/08/2011,Botafogo,Atlético-MG,3,1
+2011,18,20/08/2011,Corinthians,Figueirense,0,2
+2011,18,21/08/2011,Internacional,Flamengo,2,2
+2011,18,21/08/2011,Avaí,Coritiba,0,0
+2011,18,21/08/2011,São Paulo,Palmeiras,1,1
+2011,18,21/08/2011,Atlético-GO,Grêmio,1,0
+2011,18,21/08/2011,Atlético-PR,América-MG,2,2
+2011,18,21/08/2011,Vasco da Gama,Fluminense,1,1
+2011,18,21/08/2011,Bahia,Santos,1,2
+2011,19,27/08/2011,Coritiba,Atlético-PR,1,1
+2011,19,27/08/2011,América-MG,Atlético-GO,1,2
+2011,19,27/08/2011,Fluminense,Botafogo,1,2
+2011,19,28/08/2011,Palmeiras,Corinthians,2,1
+2011,19,28/08/2011,Santos,São Paulo,1,1
+2011,19,28/08/2011,Flamengo,Vasco da Gama,0,0
+2011,19,28/08/2011,Grêmio,Internacional,2,1
+2011,19,28/08/2011,Ceará,Bahia,3,0
+2011,19,28/08/2011,Atlético-MG,Cruzeiro,1,2
+2011,19,28/08/2011,Figueirense,Avaí,2,3
+2011,20,31/08/2011,Corinthians,Grêmio,3,2
+2011,20,31/08/2011,Vasco da Gama,Ceará,3,1
+2011,20,31/08/2011,Atlético-GO,Coritiba,3,1
+2011,20,31/08/2011,Atlético-PR,Atlético-MG,0,1
+2011,20,31/08/2011,Cruzeiro,Figueirense,2,4
+2011,20,31/08/2011,São Paulo,Fluminense,1,2
+2011,20,31/08/2011,Botafogo,Palmeiras,3,1
+2011,20,31/08/2011,Internacional,Santos,3,3
+2011,20,31/08/2011,Avaí,Flamengo,3,2
+2011,20,01/09/2011,Bahia,América-MG,0,0
+2011,21,03/09/2011,Fluminense,Atlético-GO,3,2
+2011,21,03/09/2011,Atlético-MG,Avaí,2,0
+2011,21,03/09/2011,Figueirense,São Paulo,1,2
+2011,21,04/09/2011,Palmeiras,Cruzeiro,1,1
+2011,21,04/09/2011,Flamengo,Bahia,1,3
+2011,21,04/09/2011,Grêmio,Atlético-PR,4,0
+2011,21,04/09/2011,Coritiba,Corinthians,1,0
+2011,21,04/09/2011,América-MG,Vasco da Gama,4,1
+2011,21,04/09/2011,Ceará,Internacional,1,1
+2011,21,19/10/2011,Santos,Botafogo,2,0
+2011,22,07/09/2011,São Paulo,Atlético-MG,2,1
+2011,22,07/09/2011,Botafogo,Ceará,4,0
+2011,22,07/09/2011,Internacional,América-MG,4,2
+2011,22,07/09/2011,Avaí,Santos,1,2
+2011,22,07/09/2011,Cruzeiro,Fluminense,1,2
+2011,22,07/09/2011,Atlético-PR,Palmeiras,2,2
+2011,22,07/09/2011,Atlético-GO,Figueirense,1,1
+2011,22,08/09/2011,Vasco da Gama,Coritiba,2,0
+2011,22,08/09/2011,Bahia,Grêmio,1,2
+2011,22,08/09/2011,Corinthians,Flamengo,2,1
+2011,23,10/09/2011,Santos,Cruzeiro,1,0
+2011,23,10/09/2011,América-MG,Avaí,2,2
+2011,23,11/09/2011,Palmeiras,Internacional,0,3
+2011,23,11/09/2011,Fluminense,Corinthians,1,0
+2011,23,11/09/2011,Ceará,Atlético-GO,1,1
+2011,23,11/09/2011,Coritiba,Botafogo,5,0
+2011,23,11/09/2011,Figueirense,Vasco da Gama,1,1
+2011,23,11/09/2011,Flamengo,Atlético-PR,1,2
+2011,23,11/09/2011,Grêmio,São Paulo,1,0
+2011,23,11/09/2011,Atlético-MG,Bahia,2,0
+2011,24,17/09/2011,Atlético-GO,Atlético-MG,1,0
+2011,24,17/09/2011,Vasco da Gama,Grêmio,4,0
+2011,24,17/09/2011,São Paulo,Ceará,4,0
+2011,24,18/09/2011,Bahia,Fluminense,3,0
+2011,24,18/09/2011,Atlético-PR,Figueirense,0,0
+2011,24,18/09/2011,Avaí,Palmeiras,1,1
+2011,24,18/09/2011,Botafogo,Flamengo,1,1
+2011,24,18/09/2011,Corinthians,Santos,1,3
+2011,24,18/09/2011,Cruzeiro,América-MG,0,0
+2011,24,18/09/2011,Internacional,Coritiba,1,1
+2011,25,21/09/2011,Coritiba,Cruzeiro,2,1
+2011,25,21/09/2011,América-MG,Santos,1,2
+2011,25,21/09/2011,Bahia,Atlético-PR,1,0
+2011,25,21/09/2011,Fluminense,Avaí,3,1
+2011,25,21/09/2011,São Paulo,Corinthians,0,0
+2011,25,21/09/2011,Figueirense,Internacional,1,1
+2011,25,21/09/2011,Atlético-MG,Flamengo,1,1
+2011,25,22/09/2011,Palmeiras,Ceará,1,0
+2011,25,22/09/2011,Vasco da Gama,Atlético-GO,1,1
+2011,25,22/09/2011,Grêmio,Botafogo,0,1
+2011,26,24/09/2011,Atlético-PR,Fluminense,1,1
+2011,26,24/09/2011,Santos,Figueirense,2,3
+2011,26,24/09/2011,Flamengo,América-MG,2,1
+2011,26,25/09/2011,Corinthians,Bahia,1,0
+2011,26,25/09/2011,Botafogo,São Paulo,2,2
+2011,26,25/09/2011,Internacional,Atlético-MG,2,1
+2011,26,25/09/2011, Cruzeiro,Vasco da Gama,0,3
+2011,26,25/09/2011,Avaí,Grêmio,1,2
+2011,26,25/09/2011,Atlético-GO,Palmeiras,1,1
+2011,26,25/09/2011,Ceará,Coritiba,3,2
+2011,27,01/10/2011,Palmeiras,América-MG,1,1
+2011,27,01/10/2011,Fluminense,Santos,3,2
+2011,27,01/10/2011,Bahia,Avaí,3,2
+2011,27,02/10/2011,São Paulo,Flamengo,1,2
+2011,27,02/10/2011,Vasco da Gama,Corinthians,2,2
+2011,27,02/10/2011,Atlético-MG,Ceará,1,1
+2011,27,02/10/2011,Figueirense,Coritiba,0,0
+2011,27,02/10/2011,Atlético-PR,Internacional,2,0
+2011,27,02/10/2011,Grêmio,Cruzeiro,2,0
+2011,27,02/10/2011,Atlético-GO,Botafogo,2,0
+2011,28,05/10/2011,Cruzeiro,São Paulo,3,3
+2011,28,08/10/2011,Botafogo,Bahia,2,2
+2011,28,08/10/2011,Coritiba,Grêmio,2,0
+2011,28,08/10/2011,América-MG,Atlético-MG,0,0
+2011,28,09/10/2011,Santos,Palmeiras,1,0
+2011,28,09/10/2011,Flamengo,Fluminense,3,2
+2011,28,09/10/2011,Internacional,Vasco da Gama,3,0
+2011,28,09/10/2011,Corinthians,Atlético-GO,3,0
+2011,28,09/10/2011,Avaí,Atlético-PR,3,0
+2011,28,09/10/2011,Ceará,Figueirense,1,1
+2011,29,12/10/2011,São Paulo,Internacional,0,0
+2011,29,12/10/2011,Grêmio,Figueirense,1,3
+2011,29,12/10/2011,Avaí,Atlético-GO,2,2
+2011,29,12/10/2011,América-MG,Ceará,4,1
+2011,29,12/10/2011,Corinthians,Botafogo,0,2
+2011,29,12/10/2011,Flamengo,Palmeiras,1,1
+2011,29,12/10/2011,Bahia,Cruzeiro,0,0
+2011,29,13/10/2011,Fluminense,Coritiba,3,1
+2011,29,13/10/2011,Atlético-MG,Santos,2,1
+2011,29,13/10/2011,Atlético-PR,Vasco da Gama,2,2
+2011,30,15/10/2011,Figueirense,América-MG,2,1
+2011,30,15/10/2011,Ceará,Flamengo,0,1
+2011,30,16/10/2011,Palmeiras,Fluminense,1,2
+2011,30,16/10/2011,Santos,Grêmio,0,1
+2011,30,16/10/2011,Botafogo,Atlético-PR,2,0
+2011,30,16/10/2011,Internacional,Avaí,4,2
+2011,30,16/10/2011,Cruzeiro,Corinthians,0,1
+2011,30,16/10/2011,Vasco da Gama,Atlético-MG,2,0
+2011,30,16/10/2011,Coritiba,Bahia,0,0
+2011,30,16/10/2011,Atlético-GO,São Paulo,3,0
+2011,31,22/10/2011,Palmeiras,Figueirense,1,2
+2011,31,22/10/2011,Fluminense,Atlético-MG,0,2
+2011,31,22/10/2011,Avaí,Botafogo,3,2
+2011,31,23/10/2011,América-MG,Grêmio,2,2
+2011,31,23/10/2011,São Paulo,Coritiba,0,0
+2011,31,23/10/2011,Internacional,Corinthians,1,1
+2011,31,23/10/2011,Atlético-PR,Ceará,1,0
+2011,31,23/10/2011,Bahia,Vasco da Gama,0,2
+2011,31,23/10/2011,Flamengo,Santos,1,1
+2011,31,23/10/2011,Atlético-GO,Cruzeiro,3,2
+2011,32,29/10/2011,Santos,Atlético-PR,4,1
+2011,32,29/10/2011,Botafogo,Cruzeiro,1,0
+2011,32,29/10/2011,Ceará,Fluminense,1,2
+2011,32,30/10/2011,Corinthians,Avaí,2,1
+2011,32,30/10/2011,Vasco da Gama,São Paulo,0,0
+2011,32,30/10/2011,Grêmio,Flamengo,4,2
+2011,32,30/10/2011,Figueirense,Bahia,2,1
+2011,32,30/10/2011,Atlético-MG,Palmeiras,2,1
+2011,32,30/10/2011,Coritiba,América-MG,3,1
+2011,32,30/10/2011,Atlético-GO,Internacional,0,1
+2011,33,05/11/2011,Botafogo,Figueirense,0,1
+2011,33,05/11/2011,Atlético-MG,Grêmio,2,0
+2011,33,05/11/2011,Bahia,São Paulo,4,3
+2011,33,06/11/2011,Santos,Vasco da Gama,2,0
+2011,33,06/11/2011,Flamengo,Cruzeiro,5,1
+2011,33,06/11/2011,Avaí,Ceará,1,2
+2011,33,06/11/2011,América-MG,Corinthians,2,1
+2011,33,06/11/2011,Palmeiras,Coritiba,0,2
+2011,33,06/11/2011,Internacional,Fluminense,1,2
+2011,33,06/11/2011,Atlético-PR,Atlético-GO,2,1
+2011,34,12/11/2011,São Paulo,Avaí,2,0
+2011,34,12/11/2011,Fluminense,América-MG,1,2
+2011,34,12/11/2011,Figueirense,Atlético-MG,2,1
+2011,34,13/11/2011,Corinthians,Atlético-PR,2,1
+2011,34,13/11/2011,Ceará,Santos,2,3
+2011,34,13/11/2011,Coritiba,Flamengo,2,0
+2011,34,13/11/2011,Grêmio,Palmeiras,2,2
+2011,34,13/11/2011,Vasco da Gama,Botafogo,2,0
+2011,34,13/11/2011,Cruzeiro,Internacional,1,0
+2011,34,13/11/2011,Atlético-GO,Bahia,0,1
+2011,35,16/11/2011,Fluminense,Grêmio,5,4
+2011,35,16/11/2011,Internacional,Bahia,1,0
+2011,35,16/11/2011,Atlético-PR,São Paulo,1,0
+2011,35,16/11/2011,América-MG,Botafogo,2,1
+2011,35,16/11/2011,Palmeiras,Vasco da Gama,1,1
+2011,35,16/11/2011,Avaí,Cruzeiro,0,0
+2011,35,16/11/2011,Ceará,Corinthians,0,1
+2011,35,17/11/2011,Santos,Atlético-GO,1,1
+2011,35,17/11/2011,Flamengo,Figueirense,0,0
+2011,35,17/11/2011,Atlético-MG,Coritiba,2,1
+2011,36,19/11/2011,São Paulo,América-MG,3,1
+2011,36,19/11/2011,Vasco da Gama,Avaí,2,0
+2011,36,19/11/2011,Grêmio,Ceará,1,3
+2011,36,20/11/2011,Corinthians,Atlético-MG,2,1
+2011,36,20/11/2011,Botafogo,Internacional,1,2
+2011,36,20/11/2011,Cruzeiro,Atlético-PR,1,1
+2011,36,20/11/2011,Atlético-GO,Flamengo,0,0
+2011,36,20/11/2011,Figueirense,Fluminense,0,4
+2011,36,20/11/2011,Coritiba,Santos,1,0
+2011,36,20/11/2011,Bahia,Palmeiras,0,2
+2011,37,27/11/2011,Palmeiras,São Paulo,1,0
+2011,37,27/11/2011,Santos,Bahia,1,1
+2011,37,27/11/2011,Flamengo,Internacional,1,0
+2011,37,27/11/2011,Fluminense,Vasco da Gama,1,2
+2011,37,27/11/2011,Grêmio,Atlético-GO,2,2
+2011,37,27/11/2011,Atlético-MG,Botafogo,4,0
+2011,37,27/11/2011,Figueirense,Corinthians,0,1
+2011,37,27/11/2011,Coritiba,Avaí,1,0
+2011,37,27/11/2011,América-MG,Atlético-PR,2,1
+2011,37,27/11/2011,Ceará,Cruzeiro,2,2
+2011,38,04/12/2011,Corinthians,Palmeiras,0,0
+2011,38,04/12/2011,São Paulo,Santos,4,1
+2011,38,04/12/2011,Internacional,Grêmio,1,0
+2011,38,04/12/2011,Cruzeiro,Atlético-MG,6,1
+2011,38,04/12/2011,Atlético-GO,América-MG,5,1
+2011,38,04/12/2011,Atlético-PR,Coritiba,1,0
+2011,38,04/12/2011,Bahia,Ceará,2,1
+2011,38,04/12/2011,Avaí,Figueirense,1,1
+2011,38,04/12/2011,Botafogo,Fluminense,1,1
+2011,38,04/12/2011,Vasco da Gama,Flamengo,1,1

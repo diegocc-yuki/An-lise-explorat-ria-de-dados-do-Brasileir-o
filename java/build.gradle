@@ -1,0 +1,94 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // JFreeChart para gráficos
+    implementation 'org.jfree:jfreechart:1.5.4'
+    
+    // OpenCSV para leitura do arquivo único brasileiro_completo.csv
+    implementation 'com.opencsv:opencsv:5.7.1'
+    
+    // Apache Commons para utilitários gerais
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+    
+    // Dependências de teste (opcionais)
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.2'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+application {
+    mainClass = 'main.Main'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+// Configuração para criar JAR executável
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'main.Main',
+            'Implementation-Title': 'Análise Campeonato Brasileiro',
+            'Implementation-Version': project.version ?: '1.0.0'
+        )
+    }
+    
+    // Incluir todas as dependências no JAR (fat jar)
+    from {
+        configurations.runtimeClasspath.collect { 
+            it.isDirectory() ? it : zipTree(it) 
+        }
+    }
+    
+    // Evitar duplicação de arquivos
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+// Configuração para executar com dados do diretório pai
+run {
+    workingDir = rootProject.projectDir
+    
+    // Configurar heap size para processar arquivo grande
+    jvmArgs = ['-Xmx2g', '-Xms512m']
+    
+    // Argumentos de sistema para debug (opcional)
+    systemProperties = [
+        'file.encoding': 'UTF-8'
+    ]
+}
+
+// Task personalizada para executar com dados de exemplo
+task runWithSampleData(type: JavaExec) {
+    group = 'application'
+    description = 'Executa a aplicação com dados de exemplo'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'main.Main'
+    workingDir = rootProject.projectDir
+    jvmArgs = ['-Xmx2g', '-Xms512m']
+}
+
+// Configuração de testes
+test {
+    useJUnitPlatform()
+}
+
+// Task para limpar e compilar
+task buildAndRun {
+    group = 'application'
+    description = 'Limpa, compila e executa a aplicação'
+    dependsOn 'clean', 'build', 'run'
+}
+
+// Configurações adicionais para desenvolvimento
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+    options.compilerArgs += ['-Xlint:unchecked', '-Xlint:deprecation']
+}
