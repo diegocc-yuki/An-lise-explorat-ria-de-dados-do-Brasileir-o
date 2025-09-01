@@ -759,3 +759,1902 @@ ano,rodada,data,mandante,visitante,gols_mandante,gols_visitante
 2011,38,04/12/2011,Avaí,Figueirense,1,1
 2011,38,04/12/2011,Botafogo,Fluminense,1,1
 2011,38,04/12/2011,Vasco da Gama,Flamengo,1,1
+2012,1,19/05/2012,Palmeiras,Portuguesa,1,1
+2012,1,19/05/2012,Sport,Flamengo,1,1
+2012,1,19/05/2012,Figueirense,Náutico,2,1
+2012,1,20/05/2012,Botafogo,São Paulo,4,2
+2012,1,20/05/2012,Corinthians,Fluminense,0,1
+2012,1,20/05/2012,Internacional,Coritiba,2,0
+2012,1,20/05/2012,Ponte Preta,Atlético-MG,0,1
+2012,1,20/05/2012,Vasco da Gama,Grêmio,2,1
+2012,1,20/05/2012,Cruzeiro,Atlético-GO,0,0
+2012,1,20/05/2012,Bahia,Santos,0,0
+2012,2,26/05/2012,Flamengo,Internacional,3,3
+2012,2,26/05/2012,Portuguesa,Vasco da Gama,0,1
+2012,2,26/05/2012,Atlético-GO,Ponte Preta,1,1
+2012,2,26/05/2012,Náutico,Cruzeiro,0,0
+2012,2,27/05/2012,Santos,Sport,0,0
+2012,2,27/05/2012,Coritiba,Botafogo,2,3
+2012,2,27/05/2012,Atlético-MG,Corinthians,1,0
+2012,2,27/05/2012,São Paulo,Bahia,1,0
+2012,2,27/05/2012,Fluminense,Figueirense,2,2
+2012,2,27/05/2012,Grêmio,Palmeiras,1,0
+2012,3,06/06/2012,Atlético-GO,Grêmio,0,1
+2012,3,06/06/2012,Sport,Palmeiras,2,1
+2012,3,06/06/2012,Vasco da Gama,Náutico,4,2
+2012,3,06/06/2012,Coritiba,Portuguesa,2,0
+2012,3,06/06/2012,Atlético-MG,Bahia,1,1
+2012,3,06/06/2012,Internacional,São Paulo,1,0
+2012,3,06/06/2012,Ponte Preta,Flamengo,2,2
+2012,3,06/06/2012,Santos,Fluminense,1,1
+2012,3,07/06/2012,Botafogo,Cruzeiro,2,3
+2012,3,07/06/2012,Corinthians,Figueirense,1,1
+2012,4,09/06/2012,Palmeiras,Atlético-MG,0,1
+2012,4,09/06/2012,Flamengo,Coritiba,3,1
+2012,4,10/06/2012,Portuguesa,Atlético-GO,2,0
+2012,4,10/06/2012,Fluminense,Internacional,0,0
+2012,4,10/06/2012,Grêmio,Corinthians,2,0
+2012,4,10/06/2012,Bahia,Vasco da Gama,1,2
+2012,4,10/06/2012,Cruzeiro,Sport,1,0
+2012,4,10/06/2012,São Paulo,Santos,1,0
+2012,4,10/06/2012,Figueirense,Ponte Preta,0,0
+2012,4,10/06/2012,Náutico,Botafogo,3,2
+2012,5,16/06/2012,Internacional,Botafogo,1,2
+2012,5,16/06/2012,Cruzeiro,Figueirense,1,0
+2012,5,16/06/2012,Fluminense,Portuguesa,4,1
+2012,5,17/06/2012,Palmeiras,Vasco da Gama,1,1
+2012,5,17/06/2012,Flamengo,Santos,1,0
+2012,5,17/06/2012,São Paulo,Atlético-MG,1,0
+2012,5,17/06/2012,Bahia,Sport,2,1
+2012,5,17/06/2012,Ponte Preta,Corinthians,1,0
+2012,5,17/06/2012,Coritiba,Atlético-GO,3,0
+2012,5,17/06/2012,Náutico,Grêmio,1,0
+2012,6,23/06/2012,Vasco da Gama,Cruzeiro,1,3
+2012,6,23/06/2012,Portuguesa,São Paulo,1,0
+2012,6,24/06/2012,Atlético-MG,Náutico,5,1
+2012,6,24/06/2012,Corinthians,Palmeiras,2,1
+2012,6,24/06/2012,Grêmio,Flamengo,2,0
+2012,6,24/06/2012,Figueirense,Bahia,1,1
+2012,6,24/06/2012,Botafogo,Ponte Preta,1,2
+2012,6,24/06/2012,Sport,Internacional,0,2
+2012,6,24/06/2012,Santos,Coritiba,2,2
+2012,6,24/06/2012,Atlético-GO,Fluminense,1,4
+2012,7,30/06/2012,Cruzeiro,São Paulo,2,3
+2012,7,30/06/2012,Náutico,Fluminense,0,2
+2012,7,30/06/2012,Vasco da Gama,Ponte Preta,3,2
+2012,7,01/07/2012,Coritiba,Sport,2,3
+2012,7,01/07/2012,Portuguesa,Santos,0,0
+2012,7,01/07/2012,Bahia,Internacional,1,1
+2012,7,01/07/2012,Flamengo,Atlético-GO,3,2
+2012,7,01/07/2012,Grêmio,Atlético-MG,0,1
+2012,7,01/07/2012,Palmeiras,Figueirense,3,1
+2012,7,11/07/2012,Corinthians,Botafogo,1,3
+2012,8,07/07/2012,Botafogo,Bahia,3,0
+2012,8,07/07/2012,Internacional,Cruzeiro,2,1
+2012,8,07/07/2012,Atlético-GO,Náutico,0,1
+2012,8,08/07/2012,Fluminense,Flamengo,1,0
+2012,8,08/07/2012,São Paulo,Coritiba,3,1
+2012,8,08/07/2012,Santos,Grêmio,4,2
+2012,8,08/07/2012,Figueirense,Vasco da Gama,1,1
+2012,8,08/07/2012,Atlético-MG,Portuguesa,2,0
+2012,8,08/07/2012,Sport,Corinthians,1,1
+2012,8,08/07/2012,Ponte Preta,Palmeiras,1,0
+2012,9,14/07/2012,Figueirense,Atlético-MG,3,4
+2012,9,14/07/2012,Corinthians,Náutico,2,1
+2012,9,14/07/2012,Ponte Preta,Coritiba,4,1
+2012,9,15/07/2012,Botafogo,Fluminense,1,1
+2012,9,15/07/2012,Bahia,Flamengo,1,2
+2012,9,15/07/2012,Internacional,Santos,0,0
+2012,9,15/07/2012,Cruzeiro,Grêmio,1,3
+2012,9,15/07/2012,Sport,Portuguesa,2,1
+2012,9,15/07/2012,Vasco da Gama,Atlético-GO,1,0
+2012,9,15/07/2012,Palmeiras,São Paulo,1,1
+2012,10,18/07/2012,Santos,Botafogo,0,0
+2012,10,18/07/2012,Grêmio,Sport,3,1
+2012,10,18/07/2012,Portuguesa,Cruzeiro,0,2
+2012,10,18/07/2012,Náutico,Ponte Preta,3,0
+2012,10,18/07/2012,Atlético-MG,Internacional,3,1
+2012,10,18/07/2012,São Paulo,Vasco da Gama,0,1
+2012,10,18/07/2012,Flamengo,Corinthians,0,3
+2012,10,19/07/2012,Fluminense,Bahia,4,0
+2012,10,19/07/2012,Atlético-GO,Figueirense,3,2
+2012,10,19/07/2012,Coritiba,Palmeiras,1,1
+2012,11,21/07/2012,Vasco da Gama,Santos,2,0
+2012,11,21/07/2012,Sport,Atlético-MG,1,4
+2012,11,21/07/2012,Corinthians,Portuguesa,1,1
+2012,11,22/07/2012,Palmeiras,Náutico,3,0
+2012,11,22/07/2012,Internacional,Atlético-GO,4,1
+2012,11,22/07/2012,Cruzeiro,Flamengo,1,0
+2012,11,22/07/2012,Figueirense,São Paulo,0,2
+2012,11,22/07/2012,Botafogo,Grêmio,0,1
+2012,11,22/07/2012,Bahia,Coritiba,2,2
+2012,11,22/07/2012,Ponte Preta,Fluminense,1,2
+2012,12,25/07/2012,Ponte Preta,Sport,1,1
+2012,12,25/07/2012,Figueirense,Internacional,0,1
+2012,12,25/07/2012,Vasco da Gama,Botafogo,1,0
+2012,12,25/07/2012,Náutico,Coritiba,3,4
+2012,12,25/07/2012,Corinthians,Cruzeiro,2,0
+2012,12,25/07/2012,Atlético-GO,São Paulo,4,3
+2012,12,25/07/2012,Grêmio,Fluminense,1,0
+2012,12,26/07/2012,Palmeiras,Bahia,0,2
+2012,12,26/07/2012,Flamengo,Portuguesa,0,0
+2012,12,26/07/2012,Atlético-MG,Santos,2,0
+2012,13,28/07/2012,Coritiba,Grêmio,2,1
+2012,13,28/07/2012,Internacional,Vasco da Gama,0,0
+2012,13,28/07/2012,Botafogo,Figueirense,1,0
+2012,13,29/07/2012,Fluminense,Atlético-MG,0,0
+2012,13,29/07/2012,Sport,Atlético-GO,0,0
+2012,13,29/07/2012,Bahia,Corinthians,0,0
+2012,13,29/07/2012,São Paulo,Flamengo,4,1
+2012,13,29/07/2012,Santos,Ponte Preta,2,1
+2012,13,29/07/2012,Portuguesa,Náutico,3,1
+2012,13,29/07/2012,Cruzeiro,Palmeiras,2,1
+2012,14,04/08/2012,Palmeiras,Internacional,0,1
+2012,14,04/08/2012,Atlético-GO,Botafogo,1,2
+2012,14,04/08/2012,Portuguesa,Figueirense,2,0
+2012,14,05/08/2012,Grêmio,Bahia,3,1
+2012,14,05/08/2012,Coritiba,Fluminense,0,2
+2012,14,05/08/2012,Vasco da Gama,Corinthians,0,0
+2012,14,05/08/2012,São Paulo,Sport,1,0
+2012,14,05/08/2012,Cruzeiro,Ponte Preta,1,2
+2012,14,05/08/2012,Náutico,Santos,3,0
+2012,14,26/09/2012,Flamengo,Atlético-MG,2,1
+2012,15,08/08/2012,Internacional,Náutico,0,0
+2012,15,08/08/2012,Sport,Vasco da Gama,0,2
+2012,15,08/08/2012,Corinthians,Atlético-GO,1,1
+2012,15,08/08/2012,Bahia,Portuguesa,0,0
+2012,15,08/08/2012,Santos,Cruzeiro,4,2
+2012,15,08/08/2012,Botafogo,Palmeiras,1,2
+2012,15,08/08/2012,Figueirense,Flamengo,0,2
+2012,15,09/08/2012,Atlético-MG,Coritiba,1,0
+2012,15,09/08/2012,Fluminense,São Paulo,2,1
+2012,15,09/08/2012,Ponte Preta,Grêmio,0,0
+2012,16,11/08/2012,Santos,Atlético-GO,2,2
+2012,16,11/08/2012,Bahia,Cruzeiro,0,1
+2012,16,11/08/2012,Sport,Figueirense,0,1
+2012,16,11/08/2012,Flamengo,Náutico,2,0
+2012,16,12/08/2012,São Paulo,Grêmio,1,2
+2012,16,12/08/2012,Coritiba,Corinthians,1,2
+2012,16,12/08/2012,Atlético-MG,Vasco da Gama,1,0
+2012,16,12/08/2012,Internacional,Ponte Preta,2,1
+2012,16,12/08/2012,Fluminense,Palmeiras,1,0
+2012,16,12/08/2012,Portuguesa,Botafogo,1,1
+2012,17,15/08/2012,Cruzeiro,Fluminense,1,1
+2012,17,15/08/2012,Grêmio,Portuguesa,1,2
+2012,17,15/08/2012,Atlético-GO,Atlético-MG,1,1
+2012,17,15/08/2012,Ponte Preta,Bahia,0,2
+2012,17,15/08/2012,Náutico,São Paulo,3,0
+2012,17,15/08/2012,Palmeiras,Flamengo,1,0
+2012,17,15/08/2012,Botafogo,Sport,2,0
+2012,17,16/08/2012,Figueirense,Santos,1,3
+2012,17,16/08/2012,Vasco da Gama,Coritiba,2,2
+2012,17,16/08/2012,Corinthians,Internacional,1,0
+2012,18,18/08/2012,Náutico,Bahia,1,0
+2012,18,18/08/2012,Fluminense,Sport,1,0
+2012,18,18/08/2012,São Paulo,Ponte Preta,3,0
+2012,18,19/08/2012,Grêmio,Figueirense,4,0
+2012,18,19/08/2012,Coritiba,Cruzeiro,4,0
+2012,18,19/08/2012,Santos,Corinthians,3,2
+2012,18,19/08/2012,Atlético-MG,Botafogo,3,2
+2012,18,19/08/2012,Atlético-GO,Palmeiras,2,1
+2012,18,19/08/2012,Portuguesa,Internacional,1,1
+2012,18,19/08/2012,Flamengo,Vasco da Gama,1,0
+2012,19,25/08/2012,Palmeiras,Santos,1,2
+2012,19,25/08/2012,Vasco da Gama,Fluminense,1,2
+2012,19,25/08/2012,Ponte Preta,Portuguesa,2,1
+2012,19,26/08/2012,Corinthians,São Paulo,1,2
+2012,19,26/08/2012,Internacional,Grêmio,0,1
+2012,19,26/08/2012,Figueirense,Coritiba,3,1
+2012,19,26/08/2012,Botafogo,Flamengo,0,0
+2012,19,26/08/2012,Bahia,Atlético-GO,1,1
+2012,19,26/08/2012,Cruzeiro,Atlético-MG,2,2
+2012,19,26/08/2012,Sport,Náutico,0,0
+2012,20,29/08/2012,Coritiba,Internacional,1,0
+2012,20,29/08/2012,Santos,Bahia,1,3
+2012,20,29/08/2012,Náutico,Figueirense,3,2
+2012,20,29/08/2012,Portuguesa,Palmeiras,3,0
+2012,20,29/08/2012,Atlético-MG,Ponte Preta,2,2
+2012,20,29/08/2012,Atlético-GO,Cruzeiro,0,2
+2012,20,29/08/2012,Grêmio,Vasco da Gama,2,0
+2012,20,29/08/2012,Fluminense,Corinthians,1,1
+2012,20,30/08/2012,São Paulo,Botafogo,4,0
+2012,20,30/08/2012,Flamengo,Sport,1,1
+2012,21,01/09/2012,Figueirense,Fluminense,2,2
+2012,21,01/09/2012,Palmeiras,Grêmio,0,0
+2012,21,01/09/2012,Vasco da Gama,Portuguesa,2,0
+2012,21,02/09/2012,Bahia,São Paulo,1,0
+2012,21,02/09/2012,Sport,Santos,2,1
+2012,21,02/09/2012,Internacional,Flamengo,4,1
+2012,21,02/09/2012,Corinthians,Atlético-MG,1,0
+2012,21,02/09/2012,Ponte Preta,Atlético-GO,3,1
+2012,21,02/09/2012,Cruzeiro,Náutico,3,0
+2012,21,02/09/2012,Botafogo,Coritiba,2,0
+2012,22,05/09/2012,Bahia,Atlético-MG,0,0
+2012,22,05/09/2012,Náutico,Vasco da Gama,1,1
+2012,22,05/09/2012,Portuguesa,Coritiba,3,0
+2012,22,05/09/2012,Flamengo,Ponte Preta,0,1
+2012,22,05/09/2012,Grêmio,Atlético-GO,2,1
+2012,22,05/09/2012,Figueirense,Corinthians,1,0
+2012,22,05/09/2012,Cruzeiro,Botafogo,1,3
+2012,22,05/09/2012,São Paulo,Internacional,1,1
+2012,22,06/09/2012,Palmeiras,Sport,3,1
+2012,22,06/09/2012,Fluminense,Santos,3,1
+2012,23,08/09/2012,Coritiba,Flamengo,3,0
+2012,23,08/09/2012,Ponte Preta,Figueirense,2,2
+2012,23,08/09/2012,Corinthians,Grêmio,3,1
+2012,23,09/09/2012,Botafogo,Náutico,3,1
+2012,23,09/09/2012,Internacional,Fluminense,0,1
+2012,23,09/09/2012,Santos,São Paulo,0,0
+2012,23,09/09/2012,Atlético-GO,Portuguesa,1,1
+2012,23,09/09/2012,Sport,Cruzeiro,2,1
+2012,23,09/09/2012,Vasco da Gama,Bahia,0,4
+2012,23,09/09/2012,Atlético-MG,Palmeiras,3,0
+2012,24,12/09/2012,Portuguesa,Fluminense,0,2
+2012,24,12/09/2012,Figueirense,Cruzeiro,2,0
+2012,24,12/09/2012,Corinthians,Ponte Preta,1,1
+2012,24,12/09/2012,Sport,Bahia,1,1
+2012,24,12/09/2012,Atlético-GO,Coritiba,1,2
+2012,24,12/09/2012,Atlético-MG,São Paulo,1,0
+2012,24,12/09/2012,Vasco da Gama,Palmeiras,3,1
+2012,24,12/09/2012,Santos,Flamengo,2,0
+2012,24,13/09/2012,Grêmio,Náutico,2,0
+2012,24,13/09/2012,Botafogo,Internacional,1,1
+2012,25,15/09/2012,São Paulo,Portuguesa,3,1
+2012,25,15/09/2012,Fluminense,Atlético-GO,1,2
+2012,25,16/09/2012,Palmeiras,Corinthians,0,2
+2012,25,16/09/2012,Cruzeiro,Vasco da Gama,1,1
+2012,25,16/09/2012,Coritiba,Santos,1,2
+2012,25,16/09/2012,Náutico,Atlético-MG,1,0
+2012,25,16/09/2012,Bahia,Figueirense,2,1
+2012,25,16/09/2012,Ponte Preta,Botafogo,0,0
+2012,25,16/09/2012,Internacional,Sport,2,2
+2012,25,16/09/2012,Flamengo,Grêmio,1,1
+2012,26,22/09/2012,Fluminense,Náutico,2,1
+2012,26,22/09/2012,Figueirense,Palmeiras,1,3
+2012,26,22/09/2012,Santos,Portuguesa,1,3
+2012,26,23/09/2012,Atlético-GO,Flamengo,1,2
+2012,26,23/09/2012,São Paulo,Cruzeiro,1,0
+2012,26,23/09/2012,Botafogo,Corinthians,2,2
+2012,26,23/09/2012,Ponte Preta,Vasco da Gama,0,0
+2012,26,23/09/2012,Sport,Coritiba,1,0
+2012,26,23/09/2012,Atlético-MG,Grêmio,0,0
+2012,26,23/09/2012,Internacional,Bahia,3,1
+2012,27,29/09/2012,Portuguesa,Atlético-MG,1,1
+2012,27,29/09/2012,Náutico,Atlético-GO,2,0
+2012,27,29/09/2012,Vasco da Gama,Figueirense,3,1
+2012,27,29/09/2012,Cruzeiro,Internacional,0,0
+2012,27,29/09/2012,Palmeiras,Ponte Preta,3,0
+2012,27,30/09/2012,Bahia,Botafogo,2,0
+2012,27,30/09/2012,Coritiba,São Paulo,1,1
+2012,27,30/09/2012,Flamengo,Fluminense,0,1
+2012,27,30/09/2012,Corinthians,Sport,3,0
+2012,27,30/09/2012,Grêmio,Santos,1,1
+2012,28,04/10/2012,Portuguesa,Sport,5,1
+2012,28,06/10/2012,Coritiba,Ponte Preta,1,0
+2012,28,06/10/2012,Flamengo,Bahia,0,0
+2012,28,06/10/2012,São Paulo,Palmeiras,3,0
+2012,28,06/10/2012,Náutico,Corinthians,2,1
+2012,28,06/10/2012,Atlético-GO,Vasco da Gama,0,1
+2012,28,06/10/2012,Santos,Internacional,1,1
+2012,28,06/10/2012,Grêmio,Cruzeiro,2,1
+2012,28,06/10/2012,Atlético-MG,Figueirense,6,0
+2012,28,06/10/2012,Fluminense,Botafogo,1,0
+2012,29,10/10/2012,Ponte Preta,Náutico,2,1
+2012,29,10/10/2012,Cruzeiro,Portuguesa,2,0
+2012,29,10/10/2012,Figueirense,Atlético-GO,3,1
+2012,29,10/10/2012,Bahia,Fluminense,0,2
+2012,29,10/10/2012,Botafogo,Santos,0,2
+2012,29,10/10/2012,Corinthians,Flamengo,3,2
+2012,29,10/10/2012,Internacional,Atlético-MG,3,0
+2012,29,10/10/2012,Vasco da Gama,São Paulo,0,2
+2012,29,11/10/2012,Sport,Grêmio,1,3
+2012,29,11/10/2012,Palmeiras,Coritiba,0,1
+2012,30,13/10/2012,Atlético-GO,Internacional,3,1
+2012,30,13/10/2012,Flamengo,Cruzeiro,1,1
+2012,30,13/10/2012,Portuguesa,Corinthians,1,1
+2012,30,14/10/2012,Náutico,Palmeiras,1,0
+2012,30,14/10/2012,Coritiba,Bahia,2,1
+2012,30,14/10/2012,Atlético-MG,Sport,2,1
+2012,30,14/10/2012,Santos,Vasco da Gama,2,0
+2012,30,14/10/2012,São Paulo,Figueirense,2,0
+2012,30,14/10/2012,Grêmio,Botafogo,1,1
+2012,30,14/10/2012,Fluminense,Ponte Preta,2,1
+2012,31,17/10/2012,Internacional,Figueirense,2,3
+2012,31,17/10/2012,Coritiba,Náutico,2,1
+2012,31,17/10/2012,Bahia,Palmeiras,0,1
+2012,31,17/10/2012,Fluminense,Grêmio,2,2
+2012,31,17/10/2012,Cruzeiro,Corinthians,2,0
+2012,31,17/10/2012,Santos,Atlético-MG,2,2
+2012,31,17/10/2012,Portuguesa,Flamengo,0,0
+2012,31,18/10/2012,São Paulo,Atlético-GO,2,0
+2012,31,18/10/2012,Botafogo,Vasco da Gama,3,2
+2012,31,18/10/2012,Sport,Ponte Preta,3,1
+2012,32,20/10/2012,Grêmio,Coritiba,0,0
+2012,32,20/10/2012,Corinthians,Bahia,1,1
+2012,32,20/10/2012,Palmeiras,Cruzeiro,2,0
+2012,32,21/10/2012,Náutico,Portuguesa,0,0
+2012,32,21/10/2012,Flamengo,São Paulo,1,0
+2012,32,21/10/2012,Atlético-MG,Fluminense,3,2
+2012,32,21/10/2012,Atlético-GO,Sport,0,1
+2012,32,21/10/2012,Ponte Preta,Santos,1,0
+2012,32,24/10/2012,Vasco da Gama,Internacional,1,2
+2012,32,24/10/2012,Figueirense,Botafogo,0,2
+2012,33,25/10/2012,Fluminense,Coritiba,2,1
+2012,33,25/10/2012,Santos,Náutico,0,0
+2012,33,25/10/2012,Ponte Preta,Cruzeiro,1,0
+2012,33,27/10/2012,Corinthians,Vasco da Gama,1,0
+2012,33,27/10/2012,Internacional,Palmeiras,2,1
+2012,33,27/10/2012,Botafogo,Atlético-GO,4,0
+2012,33,27/10/2012,Bahia,Grêmio,1,1
+2012,33,27/10/2012,Sport,São Paulo,2,4
+2012,33,27/10/2012,Figueirense,Portuguesa,0,0
+2012,33,31/10/2012,Atlético-MG,Flamengo,1,1
+2012,34,03/11/2012,Grêmio,Ponte Preta,1,0
+2012,34,03/11/2012,Cruzeiro,Santos,0,4
+2012,34,03/11/2012,Flamengo,Figueirense,1,0
+2012,34,04/11/2012,São Paulo,Fluminense,1,1
+2012,34,04/11/2012,Palmeiras,Botafogo,2,2
+2012,34,04/11/2012,Vasco da Gama,Sport,0,3
+2012,34,04/11/2012,Atlético-GO,Corinthians,0,2
+2012,34,04/11/2012,Náutico,Internacional,3,0
+2012,34,04/11/2012,Portuguesa,Bahia,0,1
+2012,34,04/11/2012,Coritiba,Atlético-MG,1,0
+2012,35,10/11/2012,Atlético-GO,Santos,2,1
+2012,35,10/11/2012,Botafogo,Portuguesa,3,0
+2012,35,10/11/2012,Corinthians,Coritiba,5,1
+2012,35,11/11/2012,Grêmio,São Paulo,2,1
+2012,35,11/11/2012,Vasco da Gama,Atlético-MG,1,1
+2012,35,11/11/2012,Palmeiras,Fluminense,2,3
+2012,35,11/11/2012,Figueirense,Sport,1,1
+2012,35,11/11/2012,Ponte Preta,Internacional,1,0
+2012,35,11/11/2012,Náutico,Flamengo,0,1
+2012,35,11/11/2012,Cruzeiro,Bahia,3,1
+2012,36,17/11/2012,Santos,Figueirense,2,0
+2012,36,17/11/2012,Coritiba,Vasco da Gama,1,2
+2012,36,17/11/2012,Flamengo,Palmeiras,1,1
+2012,36,17/11/2012,Atlético-MG,Atlético-GO,2,2
+2012,36,17/11/2012,Fluminense,Cruzeiro,0,2
+2012,36,18/11/2012,São Paulo,Náutico,2,1
+2012,36,18/11/2012,Bahia,Ponte Preta,1,0
+2012,36,18/11/2012,Internacional,Corinthians,0,2
+2012,36,18/11/2012,Portuguesa,Grêmio,2,2
+2012,36,18/11/2012,Sport,Botafogo,2,0
+2012,37,24/11/2012,Corinthians,Santos,1,1
+2012,37,24/11/2012,Vasco da Gama,Flamengo,1,1
+2012,37,24/11/2012,Palmeiras,Atlético-GO,1,2
+2012,37,24/11/2012,Cruzeiro,Coritiba,2,1
+2012,37,24/11/2012,Sport,Fluminense,1,1
+2012,37,25/11/2012,Figueirense,Grêmio,2,4
+2012,37,25/11/2012,Ponte Preta,São Paulo,0,0
+2012,37,25/11/2012,Internacional,Portuguesa,0,2
+2012,37,25/11/2012,Bahia,Náutico,1,1
+2012,37,25/11/2012,Botafogo,Atlético-MG,2,3
+2012,38,01/12/2012,Flamengo,Botafogo,2,2
+2012,38,01/12/2012,Santos,Palmeiras,3,1
+2012,38,02/12/2012,Náutico,Sport,1,0
+2012,38,02/12/2012,Fluminense,Vasco da Gama,1,2
+2012,38,02/12/2012,Atlético-GO,Bahia,0,1
+2012,38,02/12/2012,São Paulo,Corinthians,3,1
+2012,38,02/12/2012,Atlético-MG,Cruzeiro,3,2
+2012,38,02/12/2012,Grêmio,Internacional,0,0
+2012,38,02/12/2012,Coritiba,Figueirense,3,0
+2012,38,02/12/2012,Portuguesa,Ponte Preta,0,0
+2013,1,25/05/2013,Vitória,Internacional,2,2
+2013,1,25/05/2013,Vasco da Gama,Portuguesa,1,0
+2013,1,25/05/2013,Corinthians,Botafogo,1,1
+2013,1,26/05/2013,Grêmio,Náutico,2,0
+2013,1,26/05/2013,Ponte Preta,São Paulo,0,2
+2013,1,26/05/2013,Criciúma,Bahia,3,1
+2013,1,26/05/2013,Santos,Flamengo,0,0
+2013,1,26/05/2013,Fluminense,Atlético-PR,2,1
+2013,1,26/05/2013,Coritiba,Atlético-MG,2,1
+2013,1,26/05/2013,Cruzeiro,Goiás,5,0
+2013,2,29/05/2013,Atlético-PR,Cruzeiro,2,2
+2013,2,29/05/2013,Botafogo,Santos,2,1
+2013,2,29/05/2013,São Paulo,Vasco da Gama,5,1
+2013,2,29/05/2013,Flamengo,Ponte Preta,0,2
+2013,2,29/05/2013,Bahia,Coritiba,0,0
+2013,2,29/05/2013,Náutico,Vitória,0,3
+2013,2,29/05/2013,Goiás,Corinthians,1,1
+2013,2,30/05/2013,Internacional,Criciúma,2,0
+2013,2,09/06/2013,Atlético-MG,Grêmio,2,0
+2013,2,12/06/2013,Portuguesa,Fluminense,2,1
+2013,3,01/06/2013,Botafogo,Cruzeiro,2,1
+2013,3,01/06/2013,Atlético-PR,Flamengo,2,2
+2013,3,01/06/2013,Santos,Grêmio,1,1
+2013,3,01/06/2013,Vitória,Vasco da Gama,2,0
+2013,3,01/06/2013,Goiás,Coritiba,1,1
+2013,3,01/06/2013,Corinthians,Ponte Preta,1,0
+2013,3,02/06/2013,Fluminense,Criciúma,3,0
+2013,3,02/06/2013,Internacional,Bahia,1,2
+2013,3,02/06/2013,Náutico,Portuguesa,2,2
+2013,3,02/06/2013,Atlético-MG,São Paulo,0,0
+2013,4,05/06/2013,São Paulo,Goiás,0,1
+2013,4,05/06/2013,Criciúma,Santos,3,1
+2013,4,05/06/2013,Portuguesa,Internacional,1,1
+2013,4,05/06/2013,Vasco da Gama,Atlético-MG,2,0
+2013,4,05/06/2013,Grêmio,Vitória,1,0
+2013,4,05/06/2013,Ponte Preta,Atlético-PR,3,4
+2013,4,05/06/2013,Flamengo,Náutico,0,1
+2013,4,05/06/2013,Bahia,Botafogo,2,1
+2013,4,05/06/2013,Cruzeiro,Corinthians,1,0
+2013,4,06/06/2013,Coritiba,Fluminense,2,1
+2013,5,08/06/2013,Criciúma,Flamengo,0,3
+2013,5,08/06/2013,Cruzeiro,Internacional,2,2
+2013,5,08/06/2013,Vasco da Gama,Bahia,1,1
+2013,5,08/06/2013,Corinthians,Portuguesa,0,0
+2013,5,08/06/2013,Ponte Preta,Botafogo,0,2
+2013,5,09/06/2013,Fluminense,Goiás,2,1
+2013,5,09/06/2013,Vitória,Atlético-PR,3,2
+2013,5,09/06/2013,Coritiba,Náutico,1,0
+2013,5,12/06/2013,Santos,Atlético-MG,1,0
+2013,5,12/06/2013,Grêmio,São Paulo,1,1
+2013,6,06/07/2013,Flamengo,Coritiba,2,2
+2013,6,06/07/2013,Náutico,Ponte Preta,1,3
+2013,6,06/07/2013,Atlético-PR,Grêmio,1,1
+2013,6,06/07/2013,Portuguesa,Cruzeiro,1,1
+2013,6,07/07/2013,São Paulo,Santos,0,2
+2013,6,07/07/2013,Bahia,Corinthians,0,2
+2013,6,07/07/2013,Internacional,Vasco da Gama,5,3
+2013,6,07/07/2013,Goiás,Vitória,1,0
+2013,6,07/07/2013,Atlético-MG,Criciúma,3,2
+2013,6,07/07/2013,Botafogo,Fluminense,1,0
+2013,7,13/07/2013,Fluminense,Internacional,2,3
+2013,7,13/07/2013,Santos,Portuguesa,4,1
+2013,7,13/07/2013,Ponte Preta,Bahia,0,0
+2013,7,14/07/2013,Corinthians,Atlético-MG,0,1
+2013,7,14/07/2013,Vitória,São Paulo,3,2
+2013,7,14/07/2013,Grêmio,Botafogo,2,1
+2013,7,14/07/2013,Coritiba,Atlético-PR,1,0
+2013,7,14/07/2013,Vasco da Gama,Flamengo,0,1
+2013,7,14/07/2013,Criciúma,Goiás,0,0
+2013,7,14/07/2013,Cruzeiro,Náutico,3,0
+2013,8,20/07/2013,São Paulo,Cruzeiro,0,3
+2013,8,20/07/2013,Criciúma,Grêmio,2,1
+2013,8,20/07/2013,Botafogo,Náutico,2,0
+2013,8,21/07/2013,Vitória,Bahia,0,0
+2013,8,21/07/2013,Internacional,Flamengo,1,0
+2013,8,21/07/2013,Atlético-PR,Corinthians,1,1
+2013,8,21/07/2013,Santos,Coritiba,2,2
+2013,8,21/07/2013,Fluminense,Vasco da Gama,1,3
+2013,8,21/07/2013,Goiás,Portuguesa,2,1
+2013,8,03/10/2013,Atlético-MG,Ponte Preta,4,0
+2013,9,27/07/2013,Vasco da Gama,Criciúma,3,2
+2013,9,27/07/2013,Portuguesa,Atlético-PR,2,3
+2013,9,27/07/2013,Ponte Preta,Santos,1,0
+2013,9,28/07/2013,Corinthians,São Paulo,0,0
+2013,9,28/07/2013,Grêmio,Fluminense,2,0
+2013,9,28/07/2013,Náutico,Internacional,3,0
+2013,9,28/07/2013,Cruzeiro,Atlético-MG,4,1
+2013,9,28/07/2013,Flamengo,Botafogo,1,1
+2013,9,28/07/2013,Bahia,Goiás,2,1
+2013,9,28/07/2013,Coritiba,Vitória,1,1
+2013,10,31/07/2013,Fluminense,Cruzeiro,1,0
+2013,10,31/07/2013,Atlético-MG,Atlético-PR,1,2
+2013,10,31/07/2013,Portuguesa,Criciúma,1,1
+2013,10,31/07/2013,Coritiba,Ponte Preta,5,3
+2013,10,31/07/2013,Corinthians,Grêmio,2,0
+2013,10,31/07/2013,Bahia,Flamengo,3,0
+2013,10,01/08/2013,Botafogo,Vitória,2,0
+2013,10,01/08/2013,Goiás,Vasco da Gama,1,1
+2013,10,03/09/2013,Náutico,São Paulo,0,1
+2013,10,10/09/2013,Internacional,Santos,1,2
+2013,11,10/07/2013,São Paulo,Bahia,1,2
+2013,11,03/08/2013,Cruzeiro,Coritiba,1,0
+2013,11,04/08/2013,Flamengo,Atlético-MG,3,0
+2013,11,04/08/2013,Grêmio,Internacional,1,1
+2013,11,04/08/2013,Ponte Preta,Fluminense,1,1
+2013,11,04/08/2013,Criciúma,Corinthians,0,2
+2013,11,04/08/2013,Atlético-PR,Goiás,2,0
+2013,11,04/08/2013,Vasco da Gama,Botafogo,2,3
+2013,11,04/08/2013,Vitória,Portuguesa,2,1
+2013,11,25/09/2013,Santos,Náutico,1,1
+2013,12,24/07/2013,São Paulo,Internacional,0,1
+2013,12,07/08/2013,Vitória,Fluminense,1,1
+2013,12,07/08/2013,Criciúma,Cruzeiro,1,2
+2013,12,07/08/2013,Atlético-PR,Bahia,1,0
+2013,12,07/08/2013,Flamengo,Portuguesa,1,1
+2013,12,07/08/2013,Atlético-MG,Botafogo,2,2
+2013,12,07/08/2013,Goiás,Náutico,2,1
+2013,12,07/08/2013,Santos,Corinthians,1,1
+2013,12,08/08/2013,Vasco da Gama,Ponte Preta,1,1
+2013,12,08/08/2013,Grêmio,Coritiba,0,1
+2013,13,10/08/2013,Botafogo,Goiás,1,1
+2013,13,10/08/2013,Náutico,Atlético-MG,0,0
+2013,13,11/08/2013,Corinthians,Vitória,2,0
+2013,13,11/08/2013,Fluminense,Flamengo,2,3
+2013,13,11/08/2013,Coritiba,Vasco da Gama,0,1
+2013,13,11/08/2013,Cruzeiro,Santos,0,0
+2013,13,11/08/2013,Ponte Preta,Criciúma,3,1
+2013,13,11/08/2013,Portuguesa,São Paulo,2,1
+2013,13,11/08/2013,Bahia,Grêmio,0,3
+2013,13,11/08/2013,Internacional,Atlético-PR,2,2
+2013,14,14/08/2013,Criciúma,Náutico,3,0
+2013,14,14/08/2013,Santos,Vasco da Gama,1,1
+2013,14,14/08/2013,Atlético-MG,Bahia,2,0
+2013,14,14/08/2013,Coritiba,Portuguesa,1,1
+2013,14,14/08/2013,Vitória,Ponte Preta,3,1
+2013,14,14/08/2013,Goiás,Flamengo,1,1
+2013,14,14/08/2013,Grêmio,Cruzeiro,3,1
+2013,14,14/08/2013,Fluminense,Corinthians,0,0
+2013,14,15/08/2013,São Paulo,Atlético-PR,1,1
+2013,14,15/08/2013,Botafogo,Internacional,3,3
+2013,15,17/08/2013,Cruzeiro,Vitória,5,1
+2013,15,17/08/2013,Náutico,Fluminense,0,1
+2013,15,17/08/2013,Vasco da Gama,Grêmio,2,3
+2013,15,18/08/2013,Ponte Preta,Goiás,0,1
+2013,15,18/08/2013,Flamengo,São Paulo,0,0
+2013,15,18/08/2013,Portuguesa,Botafogo,1,3
+2013,15,18/08/2013,Corinthians,Coritiba,1,0
+2013,15,18/08/2013,Atlético-PR,Criciúma,2,1
+2013,15,18/08/2013,Bahia,Santos,0,0
+2013,15,18/08/2013,Internacional,Atlético-MG,0,0
+2013,16,24/08/2013,Santos,Vitória,2,0
+2013,16,24/08/2013,Flamengo,Grêmio,0,1
+2013,16,24/08/2013,Ponte Preta,Cruzeiro,0,2
+2013,16,24/08/2013,Criciúma,Coritiba,2,1
+2013,16,25/08/2013,São Paulo,Fluminense,2,1
+2013,16,25/08/2013,Bahia,Náutico,2,0
+2013,16,25/08/2013,Atlético-MG,Portuguesa,2,1
+2013,16,25/08/2013,Vasco da Gama,Corinthians,1,1
+2013,16,25/08/2013,Atlético-PR,Botafogo,2,0
+2013,16,25/08/2013,Internacional,Goiás,3,3
+2013,17,31/08/2013,Goiás,Atlético-MG,0,0
+2013,17,31/08/2013,Grêmio,Ponte Preta,1,0
+2013,17,31/08/2013,Portuguesa,Bahia,4,2
+2013,17,31/08/2013,Náutico,Atlético-PR,1,4
+2013,17,31/08/2013,Fluminense,Santos,0,2
+2013,17,01/09/2013,Coritiba,Internacional,0,0
+2013,17,01/09/2013,Botafogo,São Paulo,0,0
+2013,17,01/09/2013,Corinthians,Flamengo,4,0
+2013,17,01/09/2013,Vitória,Criciúma,0,1
+2013,17,01/09/2013,Cruzeiro,Vasco da Gama,5,3
+2013,18,03/09/2013,Goiás,Grêmio,2,0
+2013,18,04/09/2013,Flamengo,Vitória,2,1
+2013,18,04/09/2013,Atlético-PR,Santos,2,1
+2013,18,04/09/2013,Portuguesa,Ponte Preta,2,1
+2013,18,04/09/2013,Bahia,Cruzeiro,1,3
+2013,18,04/09/2013,Internacional,Corinthians,1,0
+2013,18,04/09/2013,Atlético-MG,Fluminense,2,2
+2013,18,05/09/2013,Botafogo,Coritiba,3,1
+2013,18,05/09/2013,Náutico,Vasco da Gama,0,3
+2013,18,05/09/2013,São Paulo,Criciúma,1,2
+2013,19,07/09/2013,Fluminense,Bahia,1,0
+2013,19,07/09/2013,Ponte Preta,Internacional,1,3
+2013,19,07/09/2013,Vitória,Atlético-MG,1,1
+2013,19,07/09/2013,Santos,Goiás,1,0
+2013,19,07/09/2013,Grêmio,Portuguesa,3,2
+2013,19,08/09/2013,Corinthians,Náutico,0,0
+2013,19,08/09/2013,Cruzeiro,Flamengo,1,0
+2013,19,08/09/2013,Coritiba,São Paulo,2,0
+2013,19,08/09/2013,Vasco da Gama,Atlético-PR,0,0
+2013,19,08/09/2013,Criciúma,Botafogo,1,2
+2013,20,11/09/2013,Atlético-PR,Fluminense,1,1
+2013,20,11/09/2013,Bahia,Criciúma,2,2
+2013,20,11/09/2013,Goiás,Cruzeiro,1,2
+2013,20,11/09/2013,Portuguesa,Vasco da Gama,2,0
+2013,20,11/09/2013,Botafogo,Corinthians,1,0
+2013,20,11/09/2013,Náutico,Grêmio,0,2
+2013,20,12/09/2013,Internacional,Vitória,2,2
+2013,20,12/09/2013,São Paulo,Ponte Preta,1,0
+2013,20,12/09/2013,Atlético-MG,Coritiba,3,0
+2013,20,12/09/2013,Flamengo,Santos,2,1
+2013,21,14/09/2013,Cruzeiro,Atlético-PR,1,0
+2013,21,14/09/2013,Fluminense,Portuguesa,2,1
+2013,21,15/09/2013,Coritiba,Bahia,2,2
+2013,21,15/09/2013,Corinthians,Goiás,1,2
+2013,21,15/09/2013,Criciúma,Internacional,0,1
+2013,21,15/09/2013,Vasco da Gama,São Paulo,0,2
+2013,21,15/09/2013,Ponte Preta,Flamengo,1,1
+2013,21,15/09/2013,Santos,Botafogo,1,2
+2013,21,15/09/2013,Vitória,Náutico,2,1
+2013,21,15/09/2013,Grêmio,Atlético-MG,0,1
+2013,22,18/09/2013,Vasco da Gama,Vitória,1,2
+2013,22,18/09/2013,Grêmio,Santos,1,1
+2013,22,18/09/2013,Criciúma,Fluminense,1,2
+2013,22,18/09/2013,Coritiba,Goiás,2,2
+2013,22,18/09/2013,Cruzeiro,Botafogo,3,0
+2013,22,18/09/2013,São Paulo,Atlético-MG,1,0
+2013,22,18/09/2013,Ponte Preta,Corinthians,2,0
+2013,22,19/09/2013,Flamengo,Atlético-PR,2,4
+2013,22,19/09/2013,Portuguesa,Náutico,3,0
+2013,22,19/09/2013,Bahia,Internacional,2,0
+2013,23,21/09/2013,Fluminense,Coritiba,1,1
+2013,23,21/09/2013,Vitória,Grêmio,0,0
+2013,23,22/09/2013,Internacional,Portuguesa,0,1
+2013,23,22/09/2013,Goiás,São Paulo,1,0
+2013,23,22/09/2013,Corinthians,Cruzeiro,0,0
+2013,23,22/09/2013,Botafogo,Bahia,1,2
+2013,23,22/09/2013,Náutico,Flamengo,0,0
+2013,23,22/09/2013,Santos,Criciúma,2,1
+2013,23,22/09/2013,Atlético-MG,Vasco da Gama,2,1
+2013,23,22/09/2013,Atlético-PR,Ponte Preta,1,0
+2013,24,28/09/2013,Náutico,Coritiba,3,0
+2013,24,28/09/2013,Goiás,Fluminense,1,2
+2013,24,28/09/2013,Botafogo,Ponte Preta,0,1
+2013,24,29/09/2013,Flamengo,Criciúma,4,1
+2013,24,29/09/2013,São Paulo,Grêmio,0,1
+2013,24,29/09/2013,Bahia,Vasco da Gama,0,0
+2013,24,29/09/2013,Portuguesa,Corinthians,4,0
+2013,24,29/09/2013,Atlético-PR,Vitória,3,5
+2013,24,29/09/2013,Internacional,Cruzeiro,1,2
+2013,24,29/09/2013,Atlético-MG,Santos,3,1
+2013,25,25/09/2013,Criciúma,Atlético-MG,1,1
+2013,25,01/10/2013,Ponte Preta,Náutico,1,2
+2013,25,02/10/2013,Grêmio,Atlético-PR,1,0
+2013,25,02/10/2013,Cruzeiro,Portuguesa,4,0
+2013,25,02/10/2013,Vitória,Goiás,2,1
+2013,25,02/10/2013,Fluminense,Botafogo,1,1
+2013,25,02/10/2013,Coritiba,Flamengo,0,2
+2013,25,02/10/2013,Corinthians,Bahia,2,0
+2013,25,02/10/2013,Santos,São Paulo,3,0
+2013,25,03/10/2013,Vasco da Gama,Internacional,3,1
+2013,26,05/10/2013,Botafogo,Grêmio,0,1
+2013,26,05/10/2013,São Paulo,Vitória,3,2
+2013,26,06/10/2013,Flamengo,Vasco da Gama,1,1
+2013,26,06/10/2013,Atlético-MG,Corinthians,0,0
+2013,26,06/10/2013,Atlético-PR,Coritiba,2,1
+2013,26,06/10/2013,Internacional,Fluminense,1,0
+2013,26,06/10/2013,Náutico,Cruzeiro,1,4
+2013,26,06/10/2013,Bahia,Ponte Preta,1,1
+2013,26,06/10/2013,Portuguesa,Santos,3,0
+2013,26,06/10/2013,Goiás,Criciúma,1,1
+2013,27,09/10/2013,Grêmio,Criciúma,1,2
+2013,27,09/10/2013,Coritiba,Santos,1,0
+2013,27,09/10/2013,Bahia,Vitória,2,0
+2013,27,09/10/2013,Ponte Preta,Atlético-MG,2,0
+2013,27,09/10/2013,Cruzeiro,São Paulo,0,2
+2013,27,09/10/2013,Náutico,Botafogo,1,3
+2013,27,09/10/2013,Vasco da Gama,Fluminense,1,0
+2013,27,09/10/2013,Corinthians,Atlético-PR,0,0
+2013,27,10/10/2013,Portuguesa,Goiás,1,2
+2013,27,10/10/2013,Flamengo,Internacional,2,1
+2013,28,12/10/2013,Fluminense,Grêmio,1,1
+2013,28,12/10/2013,Vitória,Coritiba,2,1
+2013,28,12/10/2013,Santos,Ponte Preta,2,1
+2013,28,13/10/2013,Criciúma,Vasco da Gama,3,2
+2013,28,13/10/2013,Internacional,Náutico,4,1
+2013,28,13/10/2013,São Paulo,Corinthians,0,0
+2013,28,13/10/2013,Atlético-MG,Cruzeiro,1,0
+2013,28,13/10/2013,Botafogo,Flamengo,2,1
+2013,28,13/10/2013,Atlético-PR,Portuguesa,1,0
+2013,28,13/10/2013,Goiás,Bahia,3,1
+2013,29,16/10/2013,Santos,Internacional,0,0
+2013,29,16/10/2013,Cruzeiro,Fluminense,1,0
+2013,29,16/10/2013,São Paulo,Náutico,3,0
+2013,29,16/10/2013,Ponte Preta,Coritiba,1,0
+2013,29,16/10/2013,Criciúma,Portuguesa,1,3
+2013,29,16/10/2013,Flamengo,Bahia,2,1
+2013,29,16/10/2013,Grêmio,Corinthians,1,0
+2013,29,16/10/2013,Atlético-PR,Atlético-MG,1,0
+2013,29,17/10/2013,Vasco da Gama,Goiás,0,2
+2013,29,17/10/2013,Vitória,Botafogo,1,0
+2013,30,19/10/2013,Fluminense,Ponte Preta,1,1
+2013,30,19/10/2013,Náutico,Santos,1,5
+2013,30,19/10/2013,Corinthians,Criciúma,1,0
+2013,30,20/10/2013,Atlético-MG,Flamengo,1,0
+2013,30,20/10/2013,Goiás,Atlético-PR,3,0
+2013,30,20/10/2013,Bahia,São Paulo,0,1
+2013,30,20/10/2013,Internacional,Grêmio,2,2
+2013,30,20/10/2013,Coritiba,Cruzeiro,2,1
+2013,30,20/10/2013,Portuguesa,Vitória,1,1
+2013,30,20/10/2013,Botafogo,Vasco da Gama,2,2
+2013,31,26/10/2013,Cruzeiro,Criciúma,5,3
+2013,31,26/10/2013,Botafogo,Atlético-MG,1,0
+2013,31,27/10/2013,Corinthians,Santos,1,1
+2013,31,27/10/2013,Ponte Preta,Vasco da Gama,2,1
+2013,31,27/10/2013,Portuguesa,Flamengo,0,0
+2013,31,27/10/2013,Internacional,São Paulo,2,3
+2013,31,27/10/2013,Bahia,Atlético-PR,1,1
+2013,31,27/10/2013,Fluminense,Vitória,2,3
+2013,31,27/10/2013,Coritiba,Grêmio,4,0
+2013,31,27/10/2013,Náutico,Goiás,0,2
+2013,32,02/11/2013,Vasco da Gama,Coritiba,2,1
+2013,32,02/11/2013,São Paulo,Portuguesa,2,1
+2013,32,02/11/2013,Atlético-MG,Náutico,5,0
+2013,32,03/11/2013,Vitória,Corinthians,1,1
+2013,32,03/11/2013,Santos,Cruzeiro,0,1
+2013,32,03/11/2013,Grêmio,Bahia,0,0
+2013,32,03/11/2013,Goiás,Botafogo,1,0
+2013,32,03/11/2013,Flamengo,Fluminense,1,0
+2013,32,03/11/2013,Criciúma,Ponte Preta,1,1
+2013,32,03/11/2013,Atlético-PR,Internacional,1,0
+2013,33,09/11/2013,Portuguesa,Coritiba,0,0
+2013,33,09/11/2013,Bahia,Atlético-MG,0,0
+2013,33,09/11/2013,Flamengo,Goiás,1,1
+2013,33,10/11/2013,Internacional,Botafogo,2,1
+2013,33,10/11/2013,Cruzeiro,Grêmio,3,0
+2013,33,10/11/2013,Atlético-PR,São Paulo,3,0
+2013,33,10/11/2013,Ponte Preta,Vitória,0,3
+2013,33,10/11/2013,Vasco da Gama,Santos,2,2
+2013,33,10/11/2013,Náutico,Criciúma,0,1
+2013,33,10/11/2013,Corinthians,Fluminense,1,0
+2013,34,13/11/2013,Grêmio,Vasco da Gama,1,0
+2013,34,13/11/2013,Goiás,Ponte Preta,2,0
+2013,34,13/11/2013,Botafogo,Portuguesa,0,0
+2013,34,13/11/2013,Criciúma,Atlético-PR,2,1
+2013,34,13/11/2013,São Paulo,Flamengo,2,0
+2013,34,13/11/2013,Vitória,Cruzeiro,1,3
+2013,34,13/11/2013,Coritiba,Corinthians,0,1
+2013,34,14/11/2013,Santos,Bahia,3,0
+2013,34,14/11/2013,Fluminense,Náutico,2,0
+2013,34,14/11/2013,Atlético-MG,Internacional,2,1
+2013,35,16/11/2013,Botafogo,Atlético-PR,4,0
+2013,35,16/11/2013,Coritiba,Criciúma,1,2
+2013,35,17/11/2013,Corinthians,Vasco da Gama,0,0
+2013,35,17/11/2013,Cruzeiro,Ponte Preta,2,2
+2013,35,17/11/2013,Fluminense,São Paulo,2,1
+2013,35,17/11/2013,Vitória,Santos,2,0
+2013,35,17/11/2013,Portuguesa,Atlético-MG,2,0
+2013,35,17/11/2013,Náutico,Bahia,0,1
+2013,35,17/11/2013,Grêmio,Flamengo,2,1
+2013,35,17/11/2013,Goiás,Internacional,3,1
+2013,36,23/11/2013,Criciúma,Vitória,1,1
+2013,36,23/11/2013,Vasco da Gama,Cruzeiro,2,1
+2013,36,23/11/2013,Atlético-MG,Goiás,4,1
+2013,36,24/11/2013,Atlético-PR,Náutico,6,1
+2013,36,24/11/2013,Flamengo,Corinthians,1,0
+2013,36,24/11/2013,Santos,Fluminense,1,0
+2013,36,24/11/2013,Ponte Preta,Grêmio,1,1
+2013,36,24/11/2013,Bahia,Portuguesa,1,0
+2013,36,24/11/2013,São Paulo,Botafogo,1,1
+2013,36,24/11/2013,Internacional,Coritiba,0,0
+2013,37,30/11/2013,Fluminense,Atlético-MG,2,2
+2013,37,30/11/2013,Corinthians,Internacional,0,0
+2013,37,01/12/2013,Vasco da Gama,Náutico,2,0
+2013,37,01/12/2013,Vitória,Flamengo,4,2
+2013,37,01/12/2013,Cruzeiro,Bahia,1,2
+2013,37,01/12/2013,Coritiba,Botafogo,2,1
+2013,37,01/12/2013,Criciúma,São Paulo,1,0
+2013,37,01/12/2013,Ponte Preta,Portuguesa,0,2
+2013,37,01/12/2013,Santos,Atlético-PR,2,1
+2013,37,01/12/2013,Grêmio,Goiás,1,0
+2013,38,07/12/2013,Flamengo,Cruzeiro,1,1
+2013,38,07/12/2013,Náutico,Corinthians,1,0
+2013,38,08/12/2013,Portuguesa,Grêmio,0,0
+2013,38,08/12/2013,Atlético-PR,Vasco da Gama,5,1
+2013,38,08/12/2013,Goiás,Santos,0,3
+2013,38,08/12/2013,Internacional,Ponte Preta,0,0
+2013,38,08/12/2013,Bahia,Fluminense,1,2
+2013,38,08/12/2013,Atlético-MG,Vitória,2,2
+2013,38,08/12/2013,São Paulo,Coritiba,0,1
+2013,38,08/12/2013,Botafogo,Criciúma,3,0
+2014,1,19/04/2014,Fluminense,Figueirense,3,0
+2014,1,19/04/2014,Internacional,Vitória,1,0
+2014,1,19/04/2014,Chapecoense,Coritiba,0,0
+2014,1,20/04/2014,São Paulo,Botafogo,3,0
+2014,1,20/04/2014,Atlético-PR,Grêmio,1,0
+2014,1,20/04/2014,Atlético-MG,Corinthians,0,0
+2014,1,20/04/2014,Bahia,Cruzeiro,1,2
+2014,1,20/04/2014,Flamengo,Goiás,0,0
+2014,1,20/04/2014,Santos,Sport,1,1
+2014,1,20/04/2014,Criciúma,Palmeiras,1,2
+2014,2,26/04/2014,Coritiba,Santos,0,0
+2014,2,26/04/2014,Palmeiras,Fluminense,0,1
+2014,2,27/04/2014,Botafogo,Internacional,2,2
+2014,2,27/04/2014,Corinthians,Flamengo,2,0
+2014,2,27/04/2014,Cruzeiro,São Paulo,1,1
+2014,2,27/04/2014,Vitória,Atlético-PR,2,2
+2014,2,27/04/2014,Sport,Chapecoense,2,1
+2014,2,27/04/2014,Grêmio,Atlético-MG,2,1
+2014,2,27/04/2014,Figueirense,Bahia,0,2
+2014,2,27/04/2014,Goiás,Criciúma,1,0
+2014,3,03/05/2014,São Paulo,Coritiba,2,2
+2014,3,03/05/2014,Atlético-PR,Cruzeiro,2,3
+2014,3,03/05/2014,Santos,Grêmio,0,0
+2014,3,03/05/2014,Fluminense,Vitória,1,2
+2014,3,04/05/2014,Flamengo,Palmeiras,4,2
+2014,3,04/05/2014,Bahia,Botafogo,1,0
+2014,3,04/05/2014,Internacional,Sport,2,1
+2014,3,04/05/2014,Criciúma,Figueirense,1,0
+2014,3,04/05/2014,Atlético-MG,Goiás,0,1
+2014,3,04/05/2014,Chapecoense,Corinthians,0,1
+2014,4,10/05/2014,Palmeiras,Goiás,2,0
+2014,4,10/05/2014,Internacional,Atlético-PR,2,1
+2014,4,10/05/2014,Botafogo,Criciúma,6,0
+2014,4,11/05/2014,Fluminense,Flamengo,2,0
+2014,4,11/05/2014,São Paulo,Corinthians,1,1
+2014,4,11/05/2014,Atlético-MG,Cruzeiro,2,1
+2014,4,11/05/2014,Chapecoense,Grêmio,1,2
+2014,4,11/05/2014,Coritiba,Sport,0,1
+2014,4,11/05/2014,Bahia,Vitória,1,1
+2014,4,11/05/2014,Figueirense,Santos,0,2
+2014,5,14/05/2014,Goiás,Botafogo,2,0
+2014,5,17/05/2014,Cruzeiro,Coritiba,3,2
+2014,5,18/05/2014,Flamengo,São Paulo,0,2
+2014,5,18/05/2014,Corinthians,Figueirense,0,1
+2014,5,18/05/2014,Atlético-PR,Chapecoense,1,1
+2014,5,18/05/2014,Grêmio,Fluminense,1,0
+2014,5,18/05/2014,Santos,Atlético-MG,1,2
+2014,5,18/05/2014,Vitória,Palmeiras,0,1
+2014,5,18/05/2014,Criciúma,Internacional,0,0
+2014,5,04/06/2014,Sport,Bahia,1,0
+2014,6,21/05/2014,Flamengo,Bahia,1,1
+2014,6,21/05/2014,Coritiba,Internacional,1,1
+2014,6,21/05/2014,Cruzeiro,Sport,2,0
+2014,6,21/05/2014,Criciúma,Chapecoense,1,0
+2014,6,21/05/2014,Fluminense,São Paulo,5,2
+2014,6,21/05/2014,Corinthians,Atlético-PR,1,1
+2014,6,21/05/2014,Grêmio,Botafogo,2,1
+2014,6,22/05/2014,Palmeiras,Figueirense,1,0
+2014,6,22/05/2014,Goiás,Santos,2,2
+2014,6,22/05/2014,Vitória,Atlético-MG,2,3
+2014,7,24/05/2014,Bahia,Fluminense,0,1
+2014,7,24/05/2014,São Paulo,Grêmio,1,0
+2014,7,25/05/2014,Sport,Corinthians,1,4
+2014,7,25/05/2014,Santos,Flamengo,0,0
+2014,7,25/05/2014,Atlético-PR,Coritiba,2,0
+2014,7,25/05/2014,Figueirense,Goiás,0,1
+2014,7,25/05/2014,Botafogo,Vitória,1,1
+2014,7,25/05/2014,Atlético-MG,Criciúma,0,0
+2014,7,25/05/2014,Internacional,Cruzeiro,1,3
+2014,7,25/05/2014,Chapecoense,Palmeiras,2,0
+2014,8,27/05/2014,Sport,Grêmio,0,0
+2014,8,27/05/2014,Palmeiras,Botafogo,0,2
+2014,8,27/05/2014,Criciúma,Coritiba,1,0
+2014,8,27/05/2014,Internacional,Chapecoense,2,0
+2014,8,27/05/2014,Goiás,Vitória,0,0
+2014,8,27/05/2014,Corinthians,Cruzeiro,1,0
+2014,8,27/05/2014,Atlético-PR,São Paulo,2,2
+2014,8,27/05/2014,Atlético-MG,Fluminense,2,0
+2014,8,28/05/2014,Flamengo,Figueirense,1,1
+2014,8,28/05/2014,Bahia,Santos,0,2
+2014,9,31/05/2014,São Paulo,Atlético-MG,2,1
+2014,9,31/05/2014,Coritiba,Goiás,3,0
+2014,9,31/05/2014,Vitória,Sport,0,1
+2014,9,01/06/2014,Cruzeiro,Flamengo,3,0
+2014,9,01/06/2014,Grêmio,Palmeiras,0,0
+2014,9,01/06/2014,Chapecoense,Bahia,2,1
+2014,9,01/06/2014,Fluminense,Internacional,1,1
+2014,9,01/06/2014,Santos,Criciúma,2,0
+2014,9,01/06/2014,Figueirense,Atlético-PR,1,3
+2014,9,11/10/2014,Botafogo,Corinthians,1,0
+2014,10,16/07/2014,Sport,Botafogo,1,0
+2014,10,16/07/2014,Coritiba,Figueirense,0,2
+2014,10,16/07/2014,Grêmio,Goiás,0,0
+2014,10,16/07/2014,Flamengo,Atlético-PR,1,2
+2014,10,16/07/2014,Bahia,São Paulo,0,2
+2014,10,16/07/2014,Criciúma,Fluminense,3,2
+2014,10,17/07/2014,Corinthians,Internacional,2,1
+2014,10,17/07/2014,Santos,Palmeiras,2,0
+2014,10,17/07/2014,Cruzeiro,Vitória,3,1
+2014,10,06/08/2014,Chapecoense,Atlético-MG,1,1
+2014,11,19/07/2014,São Paulo,Chapecoense,0,1
+2014,11,19/07/2014,Atlético-MG,Bahia,1,1
+2014,11,19/07/2014,Figueirense,Grêmio,0,1
+2014,11,19/07/2014,Botafogo,Coritiba,1,0
+2014,11,20/07/2014,Palmeiras,Cruzeiro,1,2
+2014,11,20/07/2014,Vitória,Corinthians,0,0
+2014,11,20/07/2014,Internacional,Flamengo,4,0
+2014,11,20/07/2014,Fluminense,Santos,1,0
+2014,11,20/07/2014,Atlético-PR,Criciúma,2,0
+2014,11,20/07/2014,Goiás,Sport,0,0
+2014,12,26/07/2014,Santos,Chapecoense,3,0
+2014,12,26/07/2014,Cruzeiro,Figueirense,5,0
+2014,12,26/07/2014,Criciúma,Vitória,1,3
+2014,12,26/07/2014,Bahia,Internacional,0,1
+2014,12,27/07/2014,Sport,Atlético-MG,2,1
+2014,12,27/07/2014,Corinthians,Palmeiras,2,0
+2014,12,27/07/2014,Atlético-PR,Fluminense,0,3
+2014,12,27/07/2014,Goiás,São Paulo,2,1
+2014,12,27/07/2014,Flamengo,Botafogo,1,0
+2014,12,27/07/2014,Grêmio,Coritiba,2,3
+2014,13,02/08/2014,Botafogo,Cruzeiro,1,1
+2014,13,02/08/2014,São Paulo,Criciúma,1,1
+2014,13,02/08/2014,Vitória,Grêmio,2,1
+2014,13,03/08/2014,Palmeiras,Bahia,1,1
+2014,13,03/08/2014,Coritiba,Corinthians,0,0
+2014,13,03/08/2014,Figueirense,Sport,3,0
+2014,13,03/08/2014,Chapecoense,Flamengo,1,0
+2014,13,03/08/2014,Fluminense,Goiás,2,0
+2014,13,03/08/2014,Atlético-MG,Atlético-PR,3,1
+2014,13,03/08/2014,Internacional,Santos,1,0
+2014,14,09/08/2014,Bahia,Goiás,1,0
+2014,14,09/08/2014,Criciúma,Cruzeiro,0,0
+2014,14,09/08/2014,Fluminense,Coritiba,1,1
+2014,14,10/08/2014,Flamengo,Sport,1,0
+2014,14,10/08/2014,Santos,Corinthians,0,1
+2014,14,10/08/2014,Atlético-PR,Botafogo,2,0
+2014,14,10/08/2014,Internacional,Grêmio,2,0
+2014,14,10/08/2014,São Paulo,Vitória,3,1
+2014,14,10/08/2014,Atlético-MG,Palmeiras,2,1
+2014,14,10/08/2014,Chapecoense,Figueirense,0,1
+2014,15,16/08/2014,Goiás,Internacional,0,1
+2014,15,16/08/2014,Corinthians,Bahia,1,1
+2014,15,17/08/2014,Palmeiras,São Paulo,1,2
+2014,15,17/08/2014,Coritiba,Flamengo,0,1
+2014,15,17/08/2014,Cruzeiro,Santos,3,0
+2014,15,17/08/2014,Vitória,Chapecoense,0,0
+2014,15,17/08/2014,Grêmio,Criciúma,2,0
+2014,15,17/08/2014,Botafogo,Fluminense,2,0
+2014,15,17/08/2014,Sport,Atlético-PR,1,1
+2014,15,17/08/2014,Figueirense,Atlético-MG,2,2
+2014,16,20/08/2014,Sport,Palmeiras,2,1
+2014,16,20/08/2014,Santos,Atlético-PR,2,0
+2014,16,20/08/2014,Figueirense,Botafogo,1,0
+2014,16,20/08/2014,Coritiba,Vitória,2,0
+2014,16,20/08/2014,Bahia,Criciúma,0,0
+2014,16,20/08/2014,Flamengo,Atlético-MG,2,1
+2014,16,20/08/2014,Internacional,São Paulo,0,1
+2014,16,20/08/2014,Chapecoense,Fluminense,1,0
+2014,16,21/08/2014,Corinthians,Goiás,5,2
+2014,16,21/08/2014,Cruzeiro,Grêmio,1,0
+2014,17,23/08/2014,Botafogo,Chapecoense,1,0
+2014,17,23/08/2014,Atlético-MG,Internacional,1,0
+2014,17,23/08/2014,Palmeiras,Coritiba,1,0
+2014,17,24/08/2014,Fluminense,Sport,4,0
+2014,17,24/08/2014,São Paulo,Santos,2,1
+2014,17,24/08/2014,Vitória,Figueirense,0,1
+2014,17,24/08/2014,Grêmio,Corinthians,2,1
+2014,17,24/08/2014,Criciúma,Flamengo,0,2
+2014,17,24/08/2014,Atlético-PR,Bahia,0,0
+2014,17,24/08/2014,Goiás,Cruzeiro,0,1
+2014,18,30/08/2014,Palmeiras,Internacional,0,1
+2014,18,30/08/2014,Cruzeiro,Chapecoense,4,2
+2014,18,31/08/2014,Botafogo,Santos,1,0
+2014,18,31/08/2014,Sport,Criciúma,2,0
+2014,18,31/08/2014,Corinthians,Fluminense,1,1
+2014,18,31/08/2014,Coritiba,Atlético-MG,0,0
+2014,18,31/08/2014,Figueirense,São Paulo,1,1
+2014,18,31/08/2014,Vitória,Flamengo,1,2
+2014,18,31/08/2014,Grêmio,Bahia,1,0
+2014,18,31/08/2014,Goiás,Atlético-PR,3,1
+2014,19,06/09/2014,Flamengo,Grêmio,0,1
+2014,19,06/09/2014,Santos,Vitória,3,1
+2014,19,06/09/2014,Chapecoense,Goiás,0,0
+2014,19,07/09/2014,Fluminense,Cruzeiro,3,3
+2014,19,07/09/2014,São Paulo,Sport,2,0
+2014,19,07/09/2014,Atlético-MG,Botafogo,1,0
+2014,19,07/09/2014,Criciúma,Corinthians,0,0
+2014,19,07/09/2014,Atlético-PR,Palmeiras,1,1
+2014,19,07/09/2014,Bahia,Coritiba,0,0
+2014,19,07/09/2014,Internacional,Figueirense,2,3
+2014,20,10/09/2014,Palmeiras,Criciúma,1,0
+2014,20,10/09/2014,Grêmio,Atlético-PR,1,0
+2014,20,10/09/2014,Figueirense,Fluminense,1,1
+2014,20,10/09/2014,Sport,Santos,3,1
+2014,20,10/09/2014,Coritiba,Chapecoense,3,0
+2014,20,10/09/2014,Botafogo,São Paulo,2,4
+2014,20,10/09/2014,Vitória,Internacional,2,0
+2014,20,10/09/2014,Goiás,Flamengo,1,0
+2014,20,11/09/2014,Corinthians,Atlético-MG,1,0
+2014,20,11/09/2014,Cruzeiro,Bahia,2,1
+2014,21,13/09/2014,Fluminense,Palmeiras,3,0
+2014,21,13/09/2014,Chapecoense,Sport,3,1
+2014,21,13/09/2014,Santos,Coritiba,2,1
+2014,21,14/09/2014,Flamengo,Corinthians,1,0
+2014,21,14/09/2014,São Paulo,Cruzeiro,2,0
+2014,21,14/09/2014,Bahia,Figueirense,3,0
+2014,21,14/09/2014,Internacional,Botafogo,2,0
+2014,21,14/09/2014,Atlético-PR,Vitória,2,0
+2014,21,14/09/2014,Atlético-MG,Grêmio,0,0
+2014,21,14/09/2014,Criciúma,Goiás,1,0
+2014,22,17/09/2014,Cruzeiro,Atlético-PR,2,0
+2014,22,17/09/2014,Vitória,Fluminense,3,1
+2014,22,17/09/2014,Sport,Internacional,0,0
+2014,22,17/09/2014,Figueirense,Criciúma,1,1
+2014,22,17/09/2014,Botafogo,Bahia,2,3
+2014,22,17/09/2014,Palmeiras,Flamengo,2,2
+2014,22,17/09/2014,Coritiba,São Paulo,3,1
+2014,22,18/09/2014,Corinthians,Chapecoense,1,1
+2014,22,18/09/2014,Goiás,Atlético-MG,2,3
+2014,22,18/09/2014,Grêmio,Santos,0,0
+2014,23,20/09/2014,Atlético-PR,Internacional,0,1
+2014,23,20/09/2014,Criciúma,Botafogo,1,1
+2014,23,21/09/2014,Flamengo,Fluminense,1,1
+2014,23,21/09/2014,Sport,Coritiba,1,0
+2014,23,21/09/2014,Corinthians,São Paulo,3,2
+2014,23,21/09/2014,Cruzeiro,Atlético-MG,2,3
+2014,23,21/09/2014,Vitória,Bahia,2,1
+2014,23,21/09/2014,Santos,Figueirense,3,1
+2014,23,21/09/2014,Grêmio,Chapecoense,1,0
+2014,23,21/09/2014,Goiás,Palmeiras,6,0
+2014,24,24/09/2014,Coritiba,Cruzeiro,1,2
+2014,24,24/09/2014,Internacional,Criciúma,3,0
+2014,24,24/09/2014,Bahia,Sport,1,0
+2014,24,24/09/2014,Chapecoense,Atlético-PR,3,0
+2014,24,24/09/2014,Fluminense,Grêmio,0,0
+2014,24,24/09/2014,São Paulo,Flamengo,2,2
+2014,24,24/09/2014,Figueirense,Corinthians,1,0
+2014,24,25/09/2014,Botafogo,Goiás,1,0
+2014,24,25/09/2014,Palmeiras,Vitória,2,0
+2014,24,25/09/2014,Atlético-MG,Santos,3,2
+2014,25,27/09/2014,Sport,Cruzeiro,0,0
+2014,25,27/09/2014,Chapecoense,Criciúma,1,1
+2014,25,27/09/2014,São Paulo,Fluminense,1,3
+2014,25,28/09/2014,Botafogo,Grêmio,0,2
+2014,25,28/09/2014,Atlético-PR,Corinthians,1,0
+2014,25,28/09/2014,Atlético-MG,Vitória,2,0
+2014,25,28/09/2014,Bahia,Flamengo,2,1
+2014,25,28/09/2014,Santos,Goiás,2,0
+2014,25,28/09/2014,Internacional,Coritiba,4,2
+2014,25,28/09/2014,Figueirense,Palmeiras,3,1
+2014,26,02/10/2014,Palmeiras,Chapecoense,4,2
+2014,26,04/10/2014,Flamengo,Santos,0,1
+2014,26,04/10/2014,Fluminense,Bahia,1,1
+2014,26,04/10/2014,Coritiba,Atlético-PR,1,0
+2014,26,04/10/2014,Vitória,Botafogo,2,1
+2014,26,04/10/2014,Grêmio,São Paulo,0,1
+2014,26,04/10/2014,Corinthians,Sport,3,0
+2014,26,04/10/2014,Cruzeiro,Internacional,2,1
+2014,26,04/10/2014,Criciúma,Atlético-MG,3,1
+2014,26,04/10/2014,Goiás,Figueirense,1,0
+2014,27,08/10/2014,Botafogo,Palmeiras,0,1
+2014,27,08/10/2014,São Paulo,Atlético-PR,1,0
+2014,27,08/10/2014,Coritiba,Criciúma,1,0
+2014,27,08/10/2014,Vitória,Goiás,2,2
+2014,27,08/10/2014,Cruzeiro,Corinthians,0,1
+2014,27,08/10/2014,Grêmio,Sport,2,0
+2014,27,08/10/2014,Figueirense,Flamengo,1,2
+2014,27,09/10/2014,Fluminense,Atlético-MG,0,0
+2014,27,09/10/2014,Santos,Bahia,1,0
+2014,27,09/10/2014,Chapecoense,Internacional,5,0
+2014,28,01/06/2014,Corinthians,Botafogo,1,1
+2014,28,11/10/2014,Goiás,Coritiba,3,0
+2014,28,11/10/2014,Palmeiras,Grêmio,2,1
+2014,28,12/10/2014,Flamengo,Cruzeiro,3,0
+2014,28,12/10/2014,Atlético-MG,São Paulo,1,0
+2014,28,12/10/2014,Bahia,Chapecoense,0,1
+2014,28,12/10/2014,Internacional,Fluminense,2,1
+2014,28,12/10/2014,Sport,Vitória,1,2
+2014,28,12/10/2014,Atlético-PR,Figueirense,3,0
+2014,28,12/10/2014,Criciúma,Santos,3,0
+2014,29,18/10/2014,Fluminense,Criciúma,4,2
+2014,29,18/10/2014,São Paulo,Bahia,2,1
+2014,29,18/10/2014,Goiás,Grêmio,0,0
+2014,29,18/10/2014,Atlético-MG,Chapecoense,1,0
+2014,29,19/10/2014,Palmeiras,Santos,1,3
+2014,29,19/10/2014,Atlético-PR,Flamengo,2,1
+2014,29,19/10/2014,Internacional,Corinthians,1,2
+2014,29,19/10/2014,Figueirense,Coritiba,4,0
+2014,29,19/10/2014,Botafogo,Sport,1,1
+2014,29,19/10/2014,Vitória,Cruzeiro,0,1
+2014,30,21/10/2014,Bahia,Atlético-MG,1,1
+2014,30,22/10/2014,Flamengo,Internacional,2,0
+2014,30,22/10/2014,Corinthians,Vitória,2,1
+2014,30,22/10/2014,Cruzeiro,Palmeiras,1,1
+2014,30,22/10/2014,Criciúma,Atlético-PR,0,1
+2014,30,22/10/2014,Coritiba,Botafogo,2,0
+2014,30,22/10/2014,Grêmio,Figueirense,1,0
+2014,30,22/10/2014,Santos,Fluminense,0,1
+2014,30,22/10/2014,Chapecoense,São Paulo,0,0
+2014,30,22/10/2014,Sport,Goiás,0,1
+2014,31,25/10/2014,Fluminense,Atlético-PR,2,1
+2014,31,25/10/2014,Palmeiras,Corinthians,1,1
+2014,31,25/10/2014,Figueirense,Cruzeiro,1,1
+2014,31,25/10/2014,Coritiba,Grêmio,1,1
+2014,31,25/10/2014,Atlético-MG,Sport,3,2
+2014,31,25/10/2014,Vitória,Criciúma,3,1
+2014,31,25/10/2014,Chapecoense,Santos,1,1
+2014,31,25/10/2014,Botafogo,Flamengo,2,1
+2014,31,25/10/2014,Internacional,Bahia,2,0
+2014,31,27/10/2014,São Paulo,Goiás,3,0
+2014,32,01/11/2014,Grêmio,Vitória,1,0
+2014,32,01/11/2014,Goiás,Fluminense,0,2
+2014,32,01/11/2014,Corinthians,Coritiba,2,2
+2014,32,02/11/2014,Sport,Figueirense,1,0
+2014,32,02/11/2014,Santos,Internacional,1,2
+2014,32,02/11/2014,Cruzeiro,Botafogo,2,1
+2014,32,02/11/2014,Criciúma,São Paulo,1,2
+2014,32,02/11/2014,Flamengo,Chapecoense,3,0
+2014,32,02/11/2014,Atlético-PR,Atlético-MG,1,0
+2014,32,02/11/2014,Bahia,Palmeiras,0,1
+2014,33,08/11/2014,Palmeiras,Atlético-MG,0,2
+2014,33,08/11/2014,Coritiba,Fluminense,1,0
+2014,33,08/11/2014,Botafogo,Atlético-PR,0,2
+2014,33,09/11/2014,Sport,Flamengo,2,2
+2014,33,09/11/2014,Vitória,São Paulo,1,2
+2014,33,09/11/2014,Grêmio,Internacional,4,1
+2014,33,09/11/2014,Figueirense,Chapecoense,1,0
+2014,33,09/11/2014,Corinthians,Santos,1,0
+2014,33,09/11/2014,Cruzeiro,Criciúma,3,1
+2014,33,09/11/2014,Goiás,Bahia,3,0
+2014,34,15/11/2014,Fluminense,Botafogo,1,0
+2014,34,15/11/2014,Criciúma,Grêmio,0,3
+2014,34,16/11/2014,Flamengo,Coritiba,3,2
+2014,34,16/11/2014,Santos,Cruzeiro,0,1
+2014,34,16/11/2014,Atlético-PR,Sport,0,1
+2014,34,16/11/2014,Bahia,Corinthians,1,2
+2014,34,16/11/2014,Internacional,Goiás,1,0
+2014,34,16/11/2014,São Paulo,Palmeiras,2,0
+2014,34,16/11/2014,Atlético-MG,Figueirense,1,1
+2014,34,16/11/2014,Chapecoense,Vitória,0,1
+2014,35,12/11/2014,São Paulo,Internacional,1,1
+2014,35,19/11/2014,Botafogo,Figueirense,0,1
+2014,35,19/11/2014,Atlético-PR,Santos,1,1
+2014,35,19/11/2014,Vitória,Coritiba,1,1
+2014,35,19/11/2014,Criciúma,Bahia,0,1
+2014,35,19/11/2014,Goiás,Corinthians,0,1
+2014,35,19/11/2014,Palmeiras,Sport,0,2
+2014,35,19/11/2014,Atlético-MG,Flamengo,4,0
+2014,35,20/11/2014,Fluminense,Chapecoense,1,4
+2014,35,20/11/2014,Grêmio,Cruzeiro,1,2
+2014,36,22/11/2014,Internacional,Atlético-MG,2,1
+2014,36,22/11/2014,Bahia,Atlético-PR,1,2
+2014,36,23/11/2014,Flamengo,Criciúma,1,1
+2014,36,23/11/2014,Sport,Fluminense,2,2
+2014,36,23/11/2014,Santos,São Paulo,0,1
+2014,36,23/11/2014,Cruzeiro,Goiás,2,1
+2014,36,23/11/2014,Figueirense,Vitória,2,0
+2014,36,23/11/2014,Corinthians,Grêmio,1,0
+2014,36,23/11/2014,Coritiba,Palmeiras,2,0
+2014,36,23/11/2014,Chapecoense,Botafogo,2,0
+2014,37,29/11/2014,Internacional,Palmeiras,3,1
+2014,37,29/11/2014,Criciúma,Sport,2,2
+2014,37,29/11/2014,Flamengo,Vitória,4,0
+2014,37,30/11/2014,Fluminense,Corinthians,5,2
+2014,37,30/11/2014,São Paulo,Figueirense,1,1
+2014,37,30/11/2014,Santos,Botafogo,2,0
+2014,37,30/11/2014,Chapecoense,Cruzeiro,1,1
+2014,37,30/11/2014,Atlético-PR,Goiás,1,0
+2014,37,30/11/2014,Bahia,Grêmio,1,0
+2014,37,30/11/2014,Atlético-MG,Coritiba,1,2
+2014,38,06/12/2014,Corinthians,Criciúma,2,1
+2014,38,06/12/2014,Figueirense,Internacional,1,2
+2014,38,07/12/2014,Botafogo,Atlético-MG,0,0
+2014,38,07/12/2014,Sport,São Paulo,1,0
+2014,38,07/12/2014,Palmeiras,Atlético-PR,1,1
+2014,38,07/12/2014,Coritiba,Bahia,3,2
+2014,38,07/12/2014,Cruzeiro,Fluminense,2,1
+2014,38,07/12/2014,Vitória,Santos,0,1
+2014,38,07/12/2014,Grêmio,Flamengo,1,1
+2014,38,07/12/2014,Goiás,Chapecoense,4,2
+2015,1,09/05/2015,Palmeiras,Atlético-MG,2,2
+2015,1,09/05/2015,Chapecoense,Coritiba,2,1
+2015,1,09/05/2015,Fluminense,Joinville,1,0
+2015,1,10/05/2015,Grêmio,Ponte Preta,3,3
+2015,1,10/05/2015,São Paulo,Flamengo,2,1
+2015,1,10/05/2015,Cruzeiro,Corinthians,0,1
+2015,1,10/05/2015,Atlético-PR,Internacional,3,0
+2015,1,10/05/2015,Sport,Figueirense,4,1
+2015,1,10/05/2015,Vasco da Gama,Goiás,0,0
+2015,1,10/05/2015,Avaí,Santos,1,1
+2015,2,16/05/2015,Coritiba,Grêmio,2,0
+2015,2,16/05/2015,Goiás,Atlético-PR,2,0
+2015,2,16/05/2015,Corinthians,Chapecoense,1,0
+2015,2,17/05/2015,Figueirense,Vasco da Gama,0,0
+2015,2,17/05/2015,Flamengo,Sport,2,2
+2015,2,17/05/2015,Santos,Cruzeiro,1,0
+2015,2,17/05/2015,Atlético-MG,Fluminense,4,1
+2015,2,17/05/2015,Joinville,Palmeiras,0,0
+2015,2,17/05/2015,Ponte Preta,São Paulo,1,0
+2015,2,17/05/2015,Internacional,Avaí,1,0
+2015,3,23/05/2015,São Paulo,Joinville,3,0
+2015,3,23/05/2015,Vasco da Gama,Internacional,1,1
+2015,3,23/05/2015,Grêmio,Figueirense,1,0
+2015,3,24/05/2015,Palmeiras,Goiás,0,1
+2015,3,24/05/2015,Fluminense,Corinthians,0,0
+2015,3,24/05/2015,Avaí,Flamengo,2,1
+2015,3,24/05/2015,Atlético-PR,Atlético-MG,1,0
+2015,3,24/05/2015,Chapecoense,Santos,1,0
+2015,3,24/05/2015,Cruzeiro,Ponte Preta,1,1
+2015,3,24/05/2015,Sport,Coritiba,1,0
+2015,4,30/05/2015,Ponte Preta,Chapecoense,3,1
+2015,4,30/05/2015,Coritiba,Avaí,1,2
+2015,4,30/05/2015,Joinville,Atlético-PR,1,2
+2015,4,31/05/2015,Santos,Sport,2,2
+2015,4,31/05/2015,Corinthians,Palmeiras,0,2
+2015,4,31/05/2015,Internacional,São Paulo,0,0
+2015,4,31/05/2015,Atlético-MG,Vasco da Gama,3,0
+2015,4,31/05/2015,Goiás,Grêmio,1,1
+2015,4,31/05/2015,Flamengo,Fluminense,2,3
+2015,4,31/05/2015,Figueirense,Cruzeiro,2,1
+2015,5,03/06/2015,Vasco da Gama,Ponte Preta,0,3
+2015,5,03/06/2015,Atlético-PR,Figueirense,1,0
+2015,5,03/06/2015,Chapecoense,Joinville,2,0
+2015,5,03/06/2015,São Paulo,Santos,3,2
+2015,5,03/06/2015,Grêmio,Corinthians,3,1
+2015,5,03/06/2015,Cruzeiro,Flamengo,1,0
+2015,5,03/06/2015,Avaí,Atlético-MG,1,4
+2015,5,04/06/2015,Fluminense,Coritiba,2,0
+2015,5,04/06/2015,Sport,Goiás,1,0
+2015,5,04/06/2015,Palmeiras,Internacional,1,1
+2015,6,06/06/2015,Santos,Ponte Preta,2,2
+2015,6,06/06/2015,Flamengo,Chapecoense,1,0
+2015,6,06/06/2015,Atlético-MG,Cruzeiro,1,3
+2015,6,06/06/2015,São Paulo,Grêmio,2,0
+2015,6,06/06/2015,Atlético-PR,Vasco da Gama,2,0
+2015,6,06/06/2015,Joinville,Corinthians,0,1
+2015,6,07/06/2015,Internacional,Coritiba,2,0
+2015,6,07/06/2015,Fluminense,Sport,0,0
+2015,6,07/06/2015,Figueirense,Palmeiras,2,1
+2015,6,07/06/2015,Goiás,Avaí,0,1
+2015,7,10/06/2015,Atlético-MG,Santos,2,2
+2015,7,13/06/2015,Corinthians,Internacional,2,1
+2015,7,13/06/2015,Coritiba,Flamengo,0,1
+2015,7,13/06/2015,Chapecoense,São Paulo,0,1
+2015,7,13/06/2015,Vasco da Gama,Cruzeiro,1,3
+2015,7,13/06/2015,Sport,Joinville,2,1
+2015,7,14/06/2015,Ponte Preta,Goiás,0,0
+2015,7,14/06/2015,Palmeiras,Fluminense,2,1
+2015,7,14/06/2015,Grêmio,Atlético-PR,2,1
+2015,7,14/06/2015,Avaí,Figueirense,1,1
+2015,8,18/06/2015,Figueirense,Internacional,0,0
+2015,8,20/06/2015,Santos,Corinthians,1,0
+2015,8,20/06/2015,Flamengo,Atlético-MG,0,2
+2015,8,20/06/2015,Sport,Vasco da Gama,2,1
+2015,8,20/06/2015,Grêmio,Palmeiras,1,0
+2015,8,21/06/2015,Cruzeiro,Chapecoense,0,1
+2015,8,21/06/2015,São Paulo,Avaí,1,1
+2015,8,21/06/2015,Atlético-PR,Coritiba,2,2
+2015,8,21/06/2015,Joinville,Goiás,2,1
+2015,8,24/06/2015,Fluminense,Ponte Preta,2,0
+2015,9,27/06/2015,Avaí,Grêmio,1,2
+2015,9,27/06/2015,Chapecoense,Sport,1,1
+2015,9,27/06/2015,Corinthians,Figueirense,2,1
+2015,9,28/06/2015,Atlético-MG,Joinville,1,0
+2015,9,28/06/2015,Palmeiras,São Paulo,4,0
+2015,9,28/06/2015,Ponte Preta,Atlético-PR,2,1
+2015,9,28/06/2015,Coritiba,Cruzeiro,1,0
+2015,9,28/06/2015,Goiás,Fluminense,1,2
+2015,9,28/06/2015,Vasco da Gama,Flamengo,1,0
+2015,9,28/06/2015,Internacional,Santos,1,0
+2015,10,01/07/2015,Vasco da Gama,Avaí,1,0
+2015,10,01/07/2015,Sport,Internacional,3,0
+2015,10,01/07/2015,Palmeiras,Chapecoense,2,0
+2015,10,01/07/2015,Atlético-MG,Coritiba,2,0
+2015,10,01/07/2015,Grêmio,Cruzeiro,1,0
+2015,10,01/07/2015,Atlético-PR,São Paulo,2,1
+2015,10,01/07/2015,Joinville,Flamengo,0,1
+2015,10,02/07/2015,Corinthians,Ponte Preta,2,0
+2015,10,02/07/2015,Figueirense,Goiás,3,1
+2015,10,02/07/2015,Fluminense,Santos,2,1
+2015,11,04/07/2015,Coritiba,Joinville,0,0
+2015,11,04/07/2015,Cruzeiro,Atlético-PR,2,0
+2015,11,04/07/2015,Chapecoense,Vasco da Gama,1,0
+2015,11,05/07/2015,Avaí,Sport,2,2
+2015,11,05/07/2015,São Paulo,Fluminense,0,0
+2015,11,05/07/2015,Santos,Grêmio,1,3
+2015,11,05/07/2015,Goiás,Corinthians,0,0
+2015,11,05/07/2015,Ponte Preta,Palmeiras,0,2
+2015,11,05/07/2015,Flamengo,Figueirense,1,2
+2015,11,05/07/2015,Internacional,Atlético-MG,1,3
+2015,12,08/07/2015,Coritiba,Ponte Preta,0,0
+2015,12,08/07/2015,Goiás,Santos,4,1
+2015,12,08/07/2015,Chapecoense,Grêmio,1,0
+2015,12,08/07/2015,Palmeiras,Avaí,3,0
+2015,12,08/07/2015,Figueirense,Joinville,0,2
+2015,12,08/07/2015,Vasco da Gama,São Paulo,0,4
+2015,12,08/07/2015,Internacional,Flamengo,1,2
+2015,12,08/07/2015,Atlético-MG,Sport,2,1
+2015,12,09/07/2015,Corinthians,Atlético-PR,2,0
+2015,12,09/07/2015,Fluminense,Cruzeiro,1,0
+2015,13,11/07/2015,Santos,Figueirense,3,0
+2015,13,11/07/2015,Grêmio,Vasco da Gama,2,0
+2015,13,11/07/2015,Ponte Preta,Atlético-MG,0,2
+2015,13,12/07/2015,São Paulo,Coritiba,3,1
+2015,13,12/07/2015,Flamengo,Corinthians,0,3
+2015,13,12/07/2015,Cruzeiro,Goiás,1,0
+2015,13,12/07/2015,Atlético-PR,Fluminense,1,2
+2015,13,12/07/2015,Joinville,Internacional,0,2
+2015,13,12/07/2015,Avaí,Chapecoense,2,1
+2015,13,12/07/2015,Sport,Palmeiras,2,2
+2015,14,18/07/2015,Flamengo,Grêmio,1,0
+2015,14,18/07/2015,Internacional,Goiás,2,1
+2015,14,18/07/2015,Corinthians,Atlético-MG,1,0
+2015,14,19/07/2015,Atlético-PR,Chapecoense,1,0
+2015,14,19/07/2015,Palmeiras,Santos,1,0
+2015,14,19/07/2015,Fluminense,Vasco da Gama,1,2
+2015,14,19/07/2015,Figueirense,Coritiba,0,0
+2015,14,19/07/2015,Sport,São Paulo,2,0
+2015,14,19/07/2015,Cruzeiro,Avaí,1,1
+2015,14,19/07/2015,Joinville,Ponte Preta,1,1
+2015,15,25/07/2015,Avaí,Atlético-PR,1,2
+2015,15,25/07/2015,Grêmio,Sport,1,1
+2015,15,25/07/2015,Atlético-MG,Figueirense,1,0
+2015,15,26/07/2015,Santos,Joinville,2,0
+2015,15,26/07/2015,Chapecoense,Fluminense,2,1
+2015,15,26/07/2015,São Paulo,Cruzeiro,1,0
+2015,15,26/07/2015,Ponte Preta,Internacional,0,0
+2015,15,26/07/2015,Coritiba,Corinthians,1,1
+2015,15,26/07/2015,Goiás,Flamengo,0,1
+2015,15,26/07/2015,Vasco da Gama,Palmeiras,1,4
+2015,16,29/07/2015,Atlético-MG,São Paulo,3,1
+2015,16,29/07/2015,Corinthians,Vasco da Gama,3,0
+2015,16,01/08/2015,Fluminense,Grêmio,1,0
+2015,16,02/08/2015,Coritiba,Goiás,1,1
+2015,16,02/08/2015,Palmeiras,Atlético-PR,0,1
+2015,16,02/08/2015,Figueirense,Ponte Preta,3,1
+2015,16,02/08/2015,Flamengo,Santos,2,2
+2015,16,02/08/2015,Internacional,Chapecoense,0,0
+2015,16,02/08/2015,Joinville,Avaí,2,0
+2015,16,02/08/2015,Sport,Cruzeiro,0,0
+2015,17,08/08/2015,Avaí,Fluminense,1,0
+2015,17,08/08/2015,Santos,Coritiba,3,0
+2015,17,09/08/2015,Atlético-PR,Sport,1,1
+2015,17,09/08/2015,Vasco da Gama,Joinville,0,0
+2015,17,09/08/2015,São Paulo,Corinthians,1,1
+2015,17,09/08/2015,Cruzeiro,Palmeiras,2,1
+2015,17,09/08/2015,Goiás,Atlético-MG,0,0
+2015,17,09/08/2015,Ponte Preta,Flamengo,1,0
+2015,17,09/08/2015,Grêmio,Internacional,5,0
+2015,17,09/08/2015,Chapecoense,Figueirense,2,2
+2015,18,12/08/2015,Coritiba,Palmeiras,2,1
+2015,18,12/08/2015,Flamengo,Atlético-PR,3,2
+2015,18,12/08/2015,Santos,Vasco da Gama,1,0
+2015,18,12/08/2015,Goiás,Chapecoense,0,0
+2015,18,12/08/2015,Internacional,Fluminense,1,0
+2015,18,12/08/2015,Figueirense,São Paulo,0,2
+2015,18,12/08/2015,Corinthians,Sport,4,3
+2015,18,13/08/2015,Ponte Preta,Avaí,2,0
+2015,18,13/08/2015,Atlético-MG,Grêmio,0,2
+2015,18,13/08/2015,Joinville,Cruzeiro,3,0
+2015,19,15/08/2015,Atlético-PR,Santos,0,0
+2015,19,15/08/2015,Vasco da Gama,Coritiba,0,1
+2015,19,15/08/2015,São Paulo,Goiás,0,3
+2015,19,16/08/2015,Palmeiras,Flamengo,4,2
+2015,19,16/08/2015,Cruzeiro,Internacional,0,0
+2015,19,16/08/2015,Avaí,Corinthians,1,2
+2015,19,16/08/2015,Sport,Ponte Preta,1,1
+2015,19,16/08/2015,Fluminense,Figueirense,2,1
+2015,19,16/08/2015,Chapecoense,Atlético-MG,2,1
+2015,19,16/08/2015,Grêmio,Joinville,2,1
+2015,20,22/08/2015,Santos,Avaí,5,2
+2015,20,22/08/2015,Goiás,Vasco da Gama,3,0
+2015,20,22/08/2015,Figueirense,Sport,2,1
+2015,20,23/08/2015,Ponte Preta,Grêmio,0,0
+2015,20,23/08/2015,Coritiba,Chapecoense,1,0
+2015,20,23/08/2015,Corinthians,Cruzeiro,3,0
+2015,20,23/08/2015,Flamengo,São Paulo,2,1
+2015,20,23/08/2015,Internacional,Atlético-PR,2,0
+2015,20,23/08/2015,Joinville,Fluminense,2,1
+2015,20,23/08/2015,Atlético-MG,Palmeiras,2,1
+2015,21,29/08/2015,Vasco da Gama,Figueirense,0,1
+2015,21,29/08/2015,São Paulo,Ponte Preta,3,0
+2015,21,30/08/2015,Grêmio,Coritiba,0,0
+2015,21,30/08/2015,Avaí,Internacional,3,0
+2015,21,30/08/2015,Fluminense,Atlético-MG,1,2
+2015,21,30/08/2015,Palmeiras,Joinville,3,2
+2015,21,30/08/2015,Chapecoense,Corinthians,1,3
+2015,21,30/08/2015,Sport,Flamengo,0,1
+2015,21,30/08/2015,Atlético-PR,Goiás,3,0
+2015,21,30/08/2015,Cruzeiro,Santos,0,1
+2015,22,02/09/2015,Joinville,São Paulo,0,0
+2015,22,02/09/2015,Internacional,Vasco da Gama,6,0
+2015,22,02/09/2015,Ponte Preta,Cruzeiro,1,2
+2015,22,02/09/2015,Atlético-MG,Atlético-PR,0,1
+2015,22,02/09/2015,Flamengo,Avaí,3,0
+2015,22,02/09/2015,Coritiba,Sport,0,0
+2015,22,02/09/2015,Goiás,Palmeiras,1,0
+2015,22,02/09/2015,Corinthians,Fluminense,2,0
+2015,22,03/09/2015,Santos,Chapecoense,3,1
+2015,22,03/09/2015,Figueirense,Grêmio,0,2
+2015,23,05/09/2015,Vasco da Gama,Atlético-MG,1,2
+2015,23,05/09/2015,São Paulo,Internacional,2,0
+2015,23,05/09/2015,Atlético-PR,Joinville,0,0
+2015,23,06/09/2015,Chapecoense,Ponte Preta,0,0
+2015,23,06/09/2015,Cruzeiro,Figueirense,5,1
+2015,23,06/09/2015,Grêmio,Goiás,2,1
+2015,23,06/09/2015,Palmeiras,Corinthians,3,3
+2015,23,06/09/2015,Fluminense,Flamengo,1,3
+2015,23,06/09/2015,Avaí,Coritiba,0,2
+2015,23,06/09/2015,Sport,Santos,1,1
+2015,24,09/09/2015,Ponte Preta,Vasco da Gama,0,1
+2015,24,09/09/2015,Atlético-MG,Avaí,2,0
+2015,24,09/09/2015,Internacional,Palmeiras,1,0
+2015,24,09/09/2015,Figueirense,Atlético-PR,1,1
+2015,24,09/09/2015,Corinthians,Grêmio,1,1
+2015,24,09/09/2015,Santos,São Paulo,3,0
+2015,24,09/09/2015,Coritiba,Fluminense,1,1
+2015,24,10/09/2015,Goiás,Sport,1,0
+2015,24,10/09/2015,Joinville,Chapecoense,0,0
+2015,24,10/09/2015,Flamengo,Cruzeiro,2,0
+2015,25,12/09/2015,Coritiba,Internacional,0,1
+2015,25,12/09/2015,Palmeiras,Figueirense,2,0
+2015,25,13/09/2015,Ponte Preta,Santos,3,1
+2015,25,13/09/2015,Corinthians,Joinville,3,0
+2015,25,13/09/2015,Vasco da Gama,Atlético-PR,2,0
+2015,25,13/09/2015,Chapecoense,Flamengo,1,3
+2015,25,13/09/2015,Cruzeiro,Atlético-MG,1,1
+2015,25,13/09/2015,Grêmio,São Paulo,1,2
+2015,25,13/09/2015,Sport,Fluminense,1,0
+2015,25,13/09/2015,Avaí,Goiás,2,1
+2015,26,16/09/2015,Joinville,Sport,1,1
+2015,26,16/09/2015,Fluminense,Palmeiras,1,4
+2015,26,16/09/2015,Goiás,Ponte Preta,1,2
+2015,26,16/09/2015,Figueirense,Avaí,0,1
+2015,26,16/09/2015,Atlético-PR,Grêmio,1,2
+2015,26,16/09/2015,Internacional,Corinthians,2,1
+2015,26,16/09/2015,Santos,Atlético-MG,4,0
+2015,26,16/09/2015,Cruzeiro,Vasco da Gama,2,2
+2015,26,17/09/2015,São Paulo,Chapecoense,0,0
+2015,26,17/09/2015,Flamengo,Coritiba,0,2
+2015,27,19/09/2015,Palmeiras,Grêmio,3,2
+2015,27,19/09/2015,Internacional,Figueirense,1,1
+2015,27,19/09/2015,Ponte Preta,Fluminense,3,1
+2015,27,20/09/2015,Corinthians,Santos,2,0
+2015,27,20/09/2015,Goiás,Joinville,3,0
+2015,27,20/09/2015,Vasco da Gama,Sport,2,1
+2015,27,20/09/2015,Atlético-MG,Flamengo,4,1
+2015,27,20/09/2015,Avaí,São Paulo,2,1
+2015,27,20/09/2015,Coritiba,Atlético-PR,2,0
+2015,27,20/09/2015,Chapecoense,Cruzeiro,0,2
+2015,28,26/09/2015,Fluminense,Goiás,2,0
+2015,28,26/09/2015,Grêmio,Avaí,3,1
+2015,28,27/09/2015,Santos,Internacional,3,1
+2015,28,27/09/2015,Atlético-PR,Ponte Preta,1,2
+2015,28,27/09/2015,São Paulo,Palmeiras,1,1
+2015,28,27/09/2015,Flamengo,Vasco da Gama,1,2
+2015,28,27/09/2015,Figueirense,Corinthians,1,3
+2015,28,27/09/2015,Joinville,Atlético-MG,2,2
+2015,28,27/09/2015,Sport,Chapecoense,3,0
+2015,28,27/09/2015,Cruzeiro,Coritiba,2,0
+2015,29,03/10/2015,Internacional,Sport,2,1
+2015,29,03/10/2015,Coritiba,Atlético-MG,0,3
+2015,29,03/10/2015,São Paulo,Atlético-PR,1,0
+2015,29,04/10/2015,Flamengo,Joinville,2,0
+2015,29,04/10/2015,Avaí,Vasco da Gama,1,1
+2015,29,04/10/2015,Santos,Fluminense,3,1
+2015,29,04/10/2015,Ponte Preta,Corinthians,2,2
+2015,29,04/10/2015,Cruzeiro,Grêmio,0,0
+2015,29,04/10/2015,Goiás,Figueirense,2,3
+2015,29,04/10/2015,Chapecoense,Palmeiras,5,1
+2015,30,14/10/2015,Sport,Avaí,3,0
+2015,30,14/10/2015,Atlético-MG,Internacional,2,1
+2015,30,14/10/2015,Palmeiras,Ponte Preta,0,1
+2015,30,14/10/2015,Joinville,Coritiba,3,1
+2015,30,14/10/2015,Figueirense,Flamengo,3,0
+2015,30,14/10/2015,Atlético-PR,Cruzeiro,2,2
+2015,30,14/10/2015,Fluminense,São Paulo,2,0
+2015,30,15/10/2015,Corinthians,Goiás,3,0
+2015,30,15/10/2015,Vasco da Gama,Chapecoense,1,1
+2015,30,15/10/2015,Grêmio,Santos,1,0
+2015,31,17/10/2015,Avaí,Palmeiras,1,3
+2015,31,17/10/2015,Joinville,Figueirense,1,0
+2015,31,18/10/2015,Ponte Preta,Coritiba,3,0
+2015,31,18/10/2015,Cruzeiro,Fluminense,2,0
+2015,31,18/10/2015,São Paulo,Vasco da Gama,2,2
+2015,31,18/10/2015,Atlético-PR,Corinthians,1,4
+2015,31,18/10/2015,Flamengo,Internacional,0,1
+2015,31,18/10/2015,Santos,Goiás,3,1
+2015,31,18/10/2015,Grêmio,Chapecoense,2,3
+2015,31,18/10/2015,Sport,Atlético-MG,4,1
+2015,32,24/10/2015,Fluminense,Atlético-PR,0,1
+2015,32,24/10/2015,Internacional,Joinville,1,0
+2015,32,24/10/2015,Figueirense,Santos,0,0
+2015,32,24/10/2015,Palmeiras,Sport,0,2
+2015,32,25/10/2015,Corinthians,Flamengo,1,0
+2015,32,25/10/2015,Vasco da Gama,Grêmio,0,0
+2015,32,25/10/2015,Coritiba,São Paulo,1,2
+2015,32,25/10/2015,Chapecoense,Avaí,0,0
+2015,32,25/10/2015,Goiás,Cruzeiro,0,1
+2015,32,25/10/2015,Atlético-MG,Ponte Preta,2,1
+2015,33,31/10/2015,São Paulo,Sport,3,0
+2015,33,31/10/2015,Ponte Preta,Joinville,1,0
+2015,33,31/10/2015,Avaí,Cruzeiro,1,1
+2015,33,31/10/2015,Coritiba,Figueirense,1,1
+2015,33,01/11/2015,Santos,Palmeiras,2,1
+2015,33,01/11/2015,Grêmio,Flamengo,2,0
+2015,33,01/11/2015,Atlético-MG,Corinthians,0,3
+2015,33,01/11/2015,Chapecoense,Atlético-PR,0,0
+2015,33,01/11/2015,Vasco da Gama,Fluminense,0,1
+2015,33,01/11/2015,Goiás,Internacional,2,1
+2015,34,07/11/2015,Internacional,Ponte Preta,1,0
+2015,34,07/11/2015,Corinthians,Coritiba,2,1
+2015,34,07/11/2015,Atlético-PR,Avaí,2,1
+2015,34,07/11/2015,Fluminense,Chapecoense,2,3
+2015,34,08/11/2015,Palmeiras,Vasco da Gama,0,2
+2015,34,08/11/2015,Flamengo,Goiás,4,1
+2015,34,08/11/2015,Cruzeiro,São Paulo,2,1
+2015,34,08/11/2015,Figueirense,Atlético-MG,0,1
+2015,34,08/11/2015,Joinville,Santos,0,0
+2015,34,08/11/2015,Sport,Grêmio,1,0
+2015,35,15/11/2015,Cruzeiro,Sport,3,0
+2015,35,18/11/2015,Goiás,Coritiba,1,3
+2015,35,18/11/2015,Ponte Preta,Figueirense,0,1
+2015,35,18/11/2015,Avaí,Joinville,2,1
+2015,35,18/11/2015,Atlético-PR,Palmeiras,3,3
+2015,35,19/11/2015,Grêmio,Fluminense,1,0
+2015,35,19/11/2015,Chapecoense,Internacional,1,0
+2015,35,19/11/2015,São Paulo,Atlético-MG,4,2
+2015,35,19/11/2015,Santos,Flamengo,0,0
+2015,35,19/11/2015,Vasco da Gama,Corinthians,1,1
+2015,36,21/11/2015,Palmeiras,Cruzeiro,1,1
+2015,36,22/11/2015,Corinthians,São Paulo,6,1
+2015,36,22/11/2015,Internacional,Grêmio,1,0
+2015,36,22/11/2015,Atlético-MG,Goiás,2,2
+2015,36,22/11/2015,Figueirense,Chapecoense,0,0
+2015,36,22/11/2015,Joinville,Vasco da Gama,1,2
+2015,36,22/11/2015,Flamengo,Ponte Preta,1,1
+2015,36,22/11/2015,Fluminense,Avaí,3,1
+2015,36,22/11/2015,Coritiba,Santos,1,0
+2015,36,22/11/2015,Sport,Atlético-PR,0,0
+2015,37,28/11/2015,São Paulo,Figueirense,3,2
+2015,37,28/11/2015,Fluminense,Internacional,1,1
+2015,37,28/11/2015,Avaí,Ponte Preta,1,0
+2015,37,29/11/2015,Grêmio,Atlético-MG,2,1
+2015,37,29/11/2015,Cruzeiro,Joinville,3,0
+2015,37,29/11/2015,Sport,Corinthians,2,0
+2015,37,29/11/2015,Palmeiras,Coritiba,0,2
+2015,37,29/11/2015,Vasco da Gama,Santos,1,0
+2015,37,29/11/2015,Chapecoense,Goiás,1,3
+2015,37,29/11/2015,Atlético-PR,Flamengo,3,0
+2015,38,06/12/2015,Corinthians,Avaí,1,1
+2015,38,06/12/2015,Santos,Atlético-PR,5,1
+2015,38,06/12/2015,Ponte Preta,Sport,0,1
+2015,38,06/12/2015,Flamengo,Palmeiras,1,2
+2015,38,06/12/2015,Internacional,Cruzeiro,2,0
+2015,38,06/12/2015,Atlético-MG,Chapecoense,3,0
+2015,38,06/12/2015,Figueirense,Fluminense,1,0
+2015,38,06/12/2015,Coritiba,Vasco da Gama,0,0
+2015,38,06/12/2015,Goiás,São Paulo,0,1
+2015,38,06/12/2015,Joinville,Grêmio,0,2
+2016,1,14/05/2016,Flamengo,Sport,1,0
+2016,1,14/05/2016,Palmeiras,Atlético-PR,4,0
+2016,1,14/05/2016,Atlético-MG,Santos,1,0
+2016,1,14/05/2016,Coritiba,Cruzeiro,1,0
+2016,1,15/05/2016,Botafogo,São Paulo,0,1
+2016,1,15/05/2016,Santa Cruz,Vitória,4,1
+2016,1,15/05/2016,Corinthians,Grêmio,0,0
+2016,1,15/05/2016,Figueirense,Ponte Preta,0,0
+2016,1,15/05/2016,América-MG,Fluminense,0,1
+2016,1,15/05/2016,Internacional,Chapecoense,0,0
+2016,2,21/05/2016,Ponte Preta,Palmeiras,2,1
+2016,2,21/05/2016,Fluminense,Santa Cruz,2,2
+2016,2,21/05/2016,Cruzeiro,Figueirense,2,2
+2016,2,22/05/2016,Santos,Coritiba,2,1
+2016,2,22/05/2016,Atlético-PR,Atlético-MG,1,1
+2016,2,22/05/2016,Vitória,Corinthians,3,2
+2016,2,22/05/2016,São Paulo,Internacional,1,2
+2016,2,22/05/2016,Grêmio,Flamengo,1,0
+2016,2,22/05/2016,Chapecoense,América-MG,3,1
+2016,2,22/05/2016,Sport,Botafogo,1,1
+2016,3,25/05/2016,Botafogo,Atlético-PR,2,1
+2016,3,25/05/2016,Figueirense,Santos,2,2
+2016,3,25/05/2016,América-MG,Vitória,1,1
+2016,3,25/05/2016,Flamengo,Chapecoense,2,2
+2016,3,25/05/2016,Palmeiras,Fluminense,2,0
+2016,3,25/05/2016,Santa Cruz,Cruzeiro,4,1
+2016,3,25/05/2016,Coritiba,São Paulo,1,1
+2016,3,26/05/2016,Corinthians,Ponte Preta,3,0
+2016,3,26/05/2016,Internacional,Sport,1,0
+2016,3,26/05/2016,Atlético-MG,Grêmio,0,3
+2016,4,28/05/2016,Cruzeiro,América-MG,1,1
+2016,4,28/05/2016,Atlético-PR,Figueirense,2,1
+2016,4,28/05/2016,Chapecoense,Santa Cruz,1,1
+2016,4,29/05/2016,Sport,Corinthians,0,2
+2016,4,29/05/2016,Ponte Preta,Flamengo,1,2
+2016,4,29/05/2016,São Paulo,Palmeiras,1,0
+2016,4,29/05/2016,Vitória,Atlético-MG,1,1
+2016,4,29/05/2016,Fluminense,Botafogo,1,0
+2016,4,29/05/2016,Santos,Internacional,0,1
+2016,4,29/05/2016,Grêmio,Coritiba,2,0
+2016,5,01/06/2016,Internacional,Atlético-PR,1,0
+2016,5,01/06/2016,Coritiba,Chapecoense,3,4
+2016,5,01/06/2016,Corinthians,Santos,1,0
+2016,5,01/06/2016,Santa Cruz,Sport,0,1
+2016,5,01/06/2016,Botafogo,Cruzeiro,0,1
+2016,5,01/06/2016,Atlético-MG,Fluminense,1,1
+2016,5,01/06/2016,Figueirense,São Paulo,1,0
+2016,5,02/06/2016,América-MG,Ponte Preta,1,2
+2016,5,02/06/2016,Palmeiras,Grêmio,4,3
+2016,5,02/06/2016,Flamengo,Vitória,1,0
+2016,6,04/06/2016,Atlético-PR,Santa Cruz,1,0
+2016,6,04/06/2016,Corinthians,Coritiba,2,1
+2016,6,04/06/2016,Chapecoense,Fluminense,0,0
+2016,6,05/06/2016,Santos,Botafogo,3,0
+2016,6,05/06/2016,América-MG,Figueirense,1,0
+2016,6,05/06/2016,Grêmio,Ponte Preta,1,0
+2016,6,05/06/2016,Flamengo,Palmeiras,1,2
+2016,6,05/06/2016,Vitória,Internacional,1,0
+2016,6,05/06/2016,Sport,Atlético-MG,4,4
+2016,6,05/06/2016,Cruzeiro,São Paulo,0,1
+2016,7,11/06/2016,Ponte Preta,Chapecoense,2,1
+2016,7,11/06/2016,Internacional,América-MG,3,1
+2016,7,11/06/2016,Fluminense,Grêmio,1,1
+2016,7,11/06/2016,São Paulo,Atlético-PR,1,2
+2016,7,12/06/2016,Botafogo,Vitória,1,1
+2016,7,12/06/2016,Coritiba,Sport,3,2
+2016,7,12/06/2016,Figueirense,Flamengo,1,0
+2016,7,12/06/2016,Atlético-MG,Cruzeiro,2,3
+2016,7,12/06/2016,Palmeiras,Corinthians,1,0
+2016,7,12/06/2016,Santa Cruz,Santos,0,2
+2016,8,15/06/2016,Chapecoense,Grêmio,3,3
+2016,8,15/06/2016,São Paulo,Vitória,2,0
+2016,8,15/06/2016,Ponte Preta,Atlético-PR,3,2
+2016,8,15/06/2016,Santos,Sport,2,0
+2016,8,15/06/2016,Botafogo,América-MG,3,1
+2016,8,15/06/2016,Santa Cruz,Figueirense,1,0
+2016,8,15/06/2016,Coritiba,Palmeiras,2,2
+2016,8,15/06/2016,Cruzeiro,Flamengo,0,1
+2016,8,16/06/2016,Internacional,Atlético-MG,2,0
+2016,8,16/06/2016,Fluminense,Corinthians,1,0
+2016,9,18/06/2016,Palmeiras,Santa Cruz,3,1
+2016,9,18/06/2016,Atlético-PR,Santos,1,0
+2016,9,18/06/2016,América-MG,Coritiba,2,1
+2016,9,19/06/2016,Atlético-MG,Ponte Preta,3,0
+2016,9,19/06/2016,Vitória,Chapecoense,1,2
+2016,9,19/06/2016,Figueirense,Internacional,3,2
+2016,9,19/06/2016,Corinthians,Botafogo,3,1
+2016,9,19/06/2016,Flamengo,São Paulo,2,2
+2016,9,19/06/2016,Sport,Fluminense,2,1
+2016,9,19/06/2016,Grêmio,Cruzeiro,2,0
+2016,10,21/06/2016,Palmeiras,América-MG,2,0
+2016,10,22/06/2016,Ponte Preta,Cruzeiro,0,4
+2016,10,22/06/2016,Botafogo,Figueirense,0,0
+2016,10,22/06/2016,Santa Cruz,Flamengo,0,1
+2016,10,22/06/2016,Atlético-MG,Corinthians,2,1
+2016,10,22/06/2016,Fluminense,Santos,2,4
+2016,10,23/06/2016,Chapecoense,Atlético-PR,0,0
+2016,10,23/06/2016,Grêmio,Vitória,1,2
+2016,10,23/06/2016,São Paulo,Sport,0,0
+2016,10,23/06/2016,Coritiba,Internacional,1,1
+2016,11,25/06/2016,Cruzeiro,Palmeiras,2,1
+2016,11,25/06/2016,Corinthians,Santa Cruz,2,1
+2016,11,26/06/2016,América-MG,Atlético-MG,0,1
+2016,11,26/06/2016,Atlético-PR,Grêmio,2,0
+2016,11,26/06/2016,Santos,São Paulo,3,0
+2016,11,26/06/2016,Vitória,Ponte Preta,1,1
+2016,11,26/06/2016,Internacional,Botafogo,2,3
+2016,11,26/06/2016,Flamengo,Fluminense,1,2
+2016,11,26/06/2016,Sport,Chapecoense,5,1
+2016,11,26/06/2016,Figueirense,Coritiba,0,0
+2016,12,29/06/2016,Flamengo,Internacional,1,0
+2016,12,29/06/2016,Vitória,Sport,3,2
+2016,12,29/06/2016,Grêmio,Santos,3,2
+2016,12,29/06/2016,Chapecoense,Cruzeiro,3,2
+2016,12,29/06/2016,Coritiba,Atlético-PR,1,0
+2016,12,29/06/2016,América-MG,Corinthians,0,2
+2016,12,29/06/2016,São Paulo,Fluminense,2,1
+2016,12,30/06/2016,Santa Cruz,Ponte Preta,0,3
+2016,12,30/06/2016,Palmeiras,Figueirense,4,0
+2016,12,30/06/2016,Atlético-MG,Botafogo,5,3
+2016,13,02/07/2016,Fluminense,Coritiba,0,0
+2016,13,02/07/2016,Atlético-PR,América-MG,1,0
+2016,13,03/07/2016,Cruzeiro,Vitória,2,2
+2016,13,03/07/2016,Internacional,Grêmio,0,1
+2016,13,03/07/2016,Santos,Chapecoense,3,0
+2016,13,03/07/2016,Ponte Preta,São Paulo,1,0
+2016,13,03/07/2016,Corinthians,Flamengo,4,0
+2016,13,03/07/2016,Botafogo,Santa Cruz,2,1
+2016,13,03/07/2016,Figueirense,Atlético-MG,1,1
+2016,13,04/07/2016,Sport,Palmeiras,1,3
+2016,14,09/07/2016,Chapecoense,Corinthians,0,2
+2016,14,09/07/2016,Coritiba,Botafogo,0,0
+2016,14,09/07/2016,Ponte Preta,Sport,2,1
+2016,14,10/07/2016,Flamengo,Atlético-MG,2,0
+2016,14,10/07/2016,Grêmio,Figueirense,2,1
+2016,14,10/07/2016,Santa Cruz,Internacional,1,0
+2016,14,10/07/2016,São Paulo,América-MG,3,0
+2016,14,10/07/2016,Vitória,Fluminense,0,0
+2016,14,11/07/2016,Cruzeiro,Atlético-PR,0,3
+2016,14,12/07/2016,Palmeiras,Santos,1,1
+2016,15,16/07/2016,Botafogo,Flamengo,3,3
+2016,15,16/07/2016,Santos,Ponte Preta,3,1
+2016,15,17/07/2016,América-MG,Santa Cruz,0,3
+2016,15,17/07/2016,Internacional,Palmeiras,0,1
+2016,15,17/07/2016,Fluminense,Cruzeiro,2,0
+2016,15,17/07/2016,Corinthians,São Paulo,1,1
+2016,15,17/07/2016,Figueirense,Chapecoense,1,1
+2016,15,17/07/2016,Atlético-PR,Vitória,1,1
+2016,15,17/07/2016,Sport,Grêmio,4,2
+2016,15,18/07/2016,Atlético-MG,Coritiba,2,1
+2016,16,23/07/2016,Corinthians,Figueirense,1,1
+2016,16,23/07/2016,Santa Cruz,Coritiba,0,1
+2016,16,24/07/2016,Ponte Preta,Internacional,2,2
+2016,16,24/07/2016,Palmeiras,Atlético-MG,0,1
+2016,16,24/07/2016,Cruzeiro,Sport,1,2
+2016,16,24/07/2016,Chapecoense,Botafogo,2,1
+2016,16,24/07/2016,Atlético-PR,Fluminense,1,0
+2016,16,24/07/2016,Grêmio,São Paulo,1,0
+2016,16,24/07/2016,Vitória,Santos,2,3
+2016,16,25/07/2016,Flamengo,América-MG,2,1
+2016,17,30/07/2016,Figueirense,Vitória,1,0
+2016,17,30/07/2016,Sport,Atlético-PR,2,0
+2016,17,30/07/2016,Atlético-MG,Santa Cruz,3,0
+2016,17,31/07/2016,São Paulo,Chapecoense,2,2
+2016,17,31/07/2016,Fluminense,Ponte Preta,3,0
+2016,17,31/07/2016,Coritiba,Flamengo,0,2
+2016,17,31/07/2016,Santos,Cruzeiro,2,0
+2016,17,31/07/2016,Internacional,Corinthians,0,1
+2016,17,31/07/2016,América-MG,Grêmio,0,0
+2016,17,31/07/2016,Botafogo,Palmeiras,3,1
+2016,18,03/08/2016,São Paulo,Atlético-MG,1,2
+2016,18,03/08/2016,Vitória,Coritiba,3,1
+2016,18,03/08/2016,Sport,América-MG,1,1
+2016,18,03/08/2016,Santos,Flamengo,0,0
+2016,18,03/08/2016,Atlético-PR,Corinthians,2,0
+2016,18,04/08/2016,Ponte Preta,Botafogo,2,0
+2016,18,04/08/2016,Grêmio,Santa Cruz,0,0
+2016,18,04/08/2016,Cruzeiro,Internacional,4,2
+2016,18,04/08/2016,Chapecoense,Palmeiras,1,1
+2016,18,03/09/2016,Fluminense,Figueirense,3,2
+2016,19,06/08/2016,Flamengo,Atlético-PR,1,0
+2016,19,07/08/2016,América-MG,Santos,1,0
+2016,19,07/08/2016,Coritiba,Ponte Preta,3,1
+2016,19,07/08/2016,Palmeiras,Vitória,2,1
+2016,19,07/08/2016,Santa Cruz,São Paulo,1,2
+2016,19,07/08/2016,Internacional,Fluminense,2,2
+2016,19,08/08/2016,Atlético-MG,Chapecoense,3,1
+2016,19,08/08/2016,Corinthians,Cruzeiro,1,1
+2016,19,04/09/2016,Botafogo,Grêmio,2,1
+2016,19,04/09/2016,Figueirense,Sport,1,1
+2016,20,13/08/2016,Sport,Flamengo,1,0
+2016,20,13/08/2016,Ponte Preta,Figueirense,2,0
+2016,20,14/08/2016,Grêmio,Corinthians,3,0
+2016,20,14/08/2016,Fluminense,América-MG,1,0
+2016,20,14/08/2016,Vitória,Santa Cruz,2,2
+2016,20,14/08/2016,Cruzeiro,Coritiba,2,2
+2016,20,14/08/2016,Santos,Atlético-MG,3,0
+2016,20,14/08/2016,São Paulo,Botafogo,0,1
+2016,20,14/08/2016,Atlético-PR,Palmeiras,0,1
+2016,20,15/08/2016,Chapecoense,Internacional,1,0
+2016,21,19/08/2016,América-MG,Chapecoense,1,2
+2016,21,20/08/2016,Botafogo,Sport,3,0
+2016,21,21/08/2016,Flamengo,Grêmio,2,1
+2016,21,21/08/2016,Palmeiras,Ponte Preta,2,2
+2016,21,21/08/2016,Santa Cruz,Fluminense,0,1
+2016,21,21/08/2016,Figueirense,Cruzeiro,1,2
+2016,21,21/08/2016,Atlético-MG,Atlético-PR,1,0
+2016,21,21/08/2016,Internacional,São Paulo,1,1
+2016,21,21/08/2016,Coritiba,Santos,2,1
+2016,21,22/08/2016,Corinthians,Vitória,2,1
+2016,22,27/08/2016,Ponte Preta,Corinthians,2,0
+2016,22,28/08/2016,Fluminense,Palmeiras,0,2
+2016,22,28/08/2016,Chapecoense,Flamengo,1,3
+2016,22,28/08/2016,Sport,Internacional,1,1
+2016,22,28/08/2016,Cruzeiro,Santa Cruz,2,0
+2016,22,28/08/2016,Grêmio,Atlético-MG,1,1
+2016,22,28/08/2016,Santos,Figueirense,0,1
+2016,22,28/08/2016,São Paulo,Coritiba,0,0
+2016,22,28/08/2016,Vitória,América-MG,2,1
+2016,22,29/08/2016,Atlético-PR,Botafogo,1,0
+2016,23,07/09/2016,Botafogo,Fluminense,1,0
+2016,23,07/09/2016,Figueirense,Atlético-PR,1,0
+2016,23,07/09/2016,Santa Cruz,Chapecoense,2,2
+2016,23,07/09/2016,Atlético-MG,Vitória,2,1
+2016,23,07/09/2016,Palmeiras,São Paulo,2,1
+2016,23,07/09/2016,Coritiba,Grêmio,4,0
+2016,23,07/09/2016,Flamengo,Ponte Preta,2,1
+2016,23,08/09/2016,Corinthians,Sport,3,0
+2016,23,08/09/2016,Internacional,Santos,2,1
+2016,23,08/09/2016,América-MG,Cruzeiro,0,2
+2016,24,10/09/2016,Vitória,Flamengo,1,2
+2016,24,11/09/2016,São Paulo,Figueirense,3,1
+2016,24,11/09/2016,Chapecoense,Coritiba,1,0
+2016,24,11/09/2016,Santos,Corinthians,2,1
+2016,24,11/09/2016,Cruzeiro,Botafogo,0,2
+2016,24,11/09/2016,Sport,Santa Cruz,5,3
+2016,24,11/09/2016,Atlético-PR,Internacional,2,1
+2016,24,11/09/2016,Grêmio,Palmeiras,0,0
+2016,24,12/09/2016,Fluminense,Atlético-MG,4,2
+2016,24,11/10/2016,Ponte Preta,América-MG,1,1
+2016,25,14/09/2016,Botafogo,Santos,0,1
+2016,25,14/09/2016,Figueirense,América-MG,2,2
+2016,25,14/09/2016,Palmeiras,Flamengo,1,1
+2016,25,14/09/2016,Ponte Preta,Grêmio,3,0
+2016,25,14/09/2016,Santa Cruz,Atlético-PR,1,0
+2016,25,14/09/2016,Coritiba,Corinthians,1,1
+2016,25,15/09/2016,Atlético-MG,Sport,1,0
+2016,25,15/09/2016,Fluminense,Chapecoense,1,2
+2016,25,15/09/2016,São Paulo,Cruzeiro,1,0
+2016,25,15/09/2016,Internacional,Vitória,0,1
+2016,26,17/09/2016,Corinthians,Palmeiras,0,2
+2016,26,18/09/2016,Flamengo,Figueirense,2,0
+2016,26,18/09/2016,Cruzeiro,Atlético-MG,1,1
+2016,26,18/09/2016,Grêmio,Fluminense,0,1
+2016,26,18/09/2016,Atlético-PR,São Paulo,1,0
+2016,26,18/09/2016,Sport,Coritiba,0,1
+2016,26,18/09/2016,Chapecoense,Ponte Preta,2,2
+2016,26,18/09/2016,Santos,Santa Cruz,3,2
+2016,26,18/09/2016,Vitória,Botafogo,0,1
+2016,26,19/09/2016,América-MG,Internacional,1,0
+2016,27,24/09/2016,Palmeiras,Coritiba,2,1
+2016,27,24/09/2016,Sport,Santos,1,0
+2016,27,24/09/2016,América-MG,Botafogo,1,0
+2016,27,25/09/2016,Atlético-PR,Ponte Preta,3,0
+2016,27,25/09/2016,Figueirense,Santa Cruz,3,1
+2016,27,25/09/2016,Grêmio,Chapecoense,1,0
+2016,27,25/09/2016,Flamengo,Cruzeiro,2,1
+2016,27,25/09/2016,Corinthians,Fluminense,0,1
+2016,27,25/09/2016,Vitória,São Paulo,2,0
+2016,27,25/09/2016,Atlético-MG,Internacional,3,1
+2016,28,01/10/2016,Fluminense,Sport,3,1
+2016,28,01/10/2016,Chapecoense,Vitória,1,4
+2016,28,01/10/2016,São Paulo,Flamengo,0,0
+2016,28,01/10/2016,Santos,Atlético-PR,2,0
+2016,28,01/10/2016,Botafogo,Corinthians,2,0
+2016,28,01/10/2016,Ponte Preta,Atlético-MG,1,2
+2016,28,01/10/2016,Cruzeiro,Grêmio,1,0
+2016,28,01/10/2016,Internacional,Figueirense,1,0
+2016,28,03/10/2016,Santa Cruz,Palmeiras,2,3
+2016,28,03/10/2016,Coritiba,América-MG,3,0
+2016,29,05/10/2016,Vitória,Grêmio,0,1
+2016,29,05/10/2016,Atlético-PR,Chapecoense,3,1
+2016,29,05/10/2016,Corinthians,Atlético-MG,0,0
+2016,29,05/10/2016,Santos,Fluminense,2,1
+2016,29,05/10/2016,Sport,São Paulo,1,1
+2016,29,06/10/2016,Internacional,Coritiba,1,0
+2016,29,08/10/2016,Cruzeiro,Ponte Preta,2,0
+2016,29,09/10/2016,Flamengo,Santa Cruz,3,0
+2016,29,09/10/2016,Figueirense,Botafogo,0,1
+2016,29,09/10/2016,América-MG,Palmeiras,0,2
+2016,30,12/10/2016,Chapecoense,Sport,3,0
+2016,30,12/10/2016,Coritiba,Figueirense,0,0
+2016,30,12/10/2016,Palmeiras,Cruzeiro,0,0
+2016,30,12/10/2016,Atlético-MG,América-MG,3,0
+2016,30,12/10/2016,Ponte Preta,Vitória,2,0
+2016,30,12/10/2016,São Paulo,Santos,0,1
+2016,30,12/10/2016,Fluminense,Flamengo,1,2
+2016,30,12/10/2016,Grêmio,Atlético-PR,1,0
+2016,30,12/10/2016,Botafogo,Internacional,1,0
+2016,30,12/10/2016,Santa Cruz,Corinthians,2,4
+2016,31,16/10/2016,Cruzeiro,Chapecoense,0,0
+2016,31,16/10/2016,Botafogo,Atlético-MG,3,2
+2016,31,16/10/2016,Internacional,Flamengo,2,1
+2016,31,16/10/2016,Figueirense,Palmeiras,1,2
+2016,31,16/10/2016,Atlético-PR,Coritiba,2,0
+2016,31,16/10/2016,Corinthians,América-MG,2,0
+2016,31,16/10/2016,Ponte Preta,Santa Cruz,3,0
+2016,31,16/10/2016,Santos,Grêmio,1,1
+2016,31,16/10/2016,Sport,Vitória,1,0
+2016,31,17/10/2016,Fluminense,São Paulo,1,2
+2016,32,19/10/2016,Santa Cruz,Botafogo,0,1
+2016,32,22/10/2016,São Paulo,Ponte Preta,2,0
+2016,32,23/10/2016,Flamengo,Corinthians,2,2
+2016,32,23/10/2016,Vitória,Cruzeiro,0,1
+2016,32,23/10/2016,Palmeiras,Sport,2,1
+2016,32,23/10/2016,Grêmio,Internacional,0,0
+2016,32,23/10/2016,Coritiba,Fluminense,1,1
+2016,32,23/10/2016,Atlético-MG,Figueirense,3,0
+2016,32,24/10/2016,Chapecoense,Santos,0,1
+2016,32,24/10/2016,América-MG,Atlético-PR,1,0
+2016,33,27/10/2016,Sport,Ponte Preta,1,0
+2016,33,28/10/2016,Fluminense,Vitória,2,2
+2016,33,29/10/2016,Corinthians,Chapecoense,1,1
+2016,33,29/10/2016,Atlético-PR,Cruzeiro,1,0
+2016,33,29/10/2016,Atlético-MG,Flamengo,2,2
+2016,33,29/10/2016,Botafogo,Coritiba,0,0
+2016,33,29/10/2016,Internacional,Santa Cruz,1,1
+2016,33,29/10/2016,Figueirense,Grêmio,0,0
+2016,33,29/10/2016,Santos,Palmeiras,1,0
+2016,33,31/10/2016,América-MG,São Paulo,1,0
+2016,34,05/11/2016,Flamengo,Botafogo,0,0
+2016,34,05/11/2016,São Paulo,Corinthians,4,0
+2016,34,06/11/2016,Ponte Preta,Santos,1,2
+2016,34,06/11/2016,Palmeiras,Internacional,1,0
+2016,34,06/11/2016,Cruzeiro,Fluminense,4,2
+2016,34,06/11/2016,Santa Cruz,América-MG,1,0
+2016,34,06/11/2016,Vitória,Atlético-PR,3,2
+2016,34,06/11/2016,Coritiba,Atlético-MG,2,0
+2016,34,06/11/2016,Chapecoense,Figueirense,1,0
+2016,34,07/11/2016,Grêmio,Sport,0,3
+2016,35,15/11/2016,Fluminense,Atlético-PR,1,1
+2016,35,16/11/2016,Botafogo,Chapecoense,0,2
+2016,35,16/11/2016,Coritiba,Santa Cruz,1,0
+2016,35,16/11/2016,Figueirense,Corinthians,1,1
+2016,35,16/11/2016,América-MG,Flamengo,0,1
+2016,35,16/11/2016,Sport,Cruzeiro,0,1
+2016,35,17/11/2016,São Paulo,Grêmio,1,1
+2016,35,17/11/2016,Santos,Vitória,3,2
+2016,35,17/11/2016,Atlético-MG,Palmeiras,1,1
+2016,35,17/11/2016,Internacional,Ponte Preta,1,1
+2016,36,20/11/2016,Atlético-PR,Sport,2,0
+2016,36,20/11/2016,Palmeiras,Botafogo,1,0
+2016,36,20/11/2016,Cruzeiro,Santos,2,2
+2016,36,20/11/2016,Ponte Preta,Fluminense,1,0
+2016,36,20/11/2016,Vitória,Figueirense,4,0
+2016,36,20/11/2016,Grêmio,América-MG,3,0
+2016,36,20/11/2016,Flamengo,Coritiba,2,2
+2016,36,20/11/2016,Chapecoense,São Paulo,2,0
+2016,36,20/11/2016,Santa Cruz,Atlético-MG,3,3
+2016,36,21/11/2016,Corinthians,Internacional,1,0
+2016,37,26/11/2016,América-MG,Sport,2,2
+2016,37,26/11/2016,Botafogo,Ponte Preta,1,1
+2016,37,26/11/2016,Corinthians,Atlético-PR,0,0
+2016,37,27/11/2016,Atlético-MG,São Paulo,1,2
+2016,37,27/11/2016,Flamengo,Santos,2,0
+2016,37,27/11/2016,Internacional,Cruzeiro,1,0
+2016,37,27/11/2016,Palmeiras,Chapecoense,1,0
+2016,37,27/11/2016,Figueirense,Fluminense,1,0
+2016,37,27/11/2016,Santa Cruz,Grêmio,5,1
+2016,37,28/11/2016,Coritiba,Vitória,0,1
+2016,38,11/12/2016,Vitória,Palmeiras,1,2
+2016,38,11/12/2016,Fluminense,Internacional,1,1
+2016,38,11/12/2016,São Paulo,Santa Cruz,5,0
+2016,38,11/12/2016,Santos,América-MG,1,0
+2016,38,11/12/2016,Cruzeiro,Corinthians,3,2
+2016,38,11/12/2016,Grêmio,Botafogo,0,1
+2016,38,11/12/2016,Atlético-PR,Flamengo,0,0
+2016,38,11/12/2016,Ponte Preta,Coritiba,2,0
+2016,38,11/12/2016,Sport,Figueirense,2,0
